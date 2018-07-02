@@ -1,149 +1,43 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-      <meta charset="utf-8">
-      <meta name="description" content="">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Ross Strachan</title>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
-      <link rel="stylesheet" href="scribbler-global.css">
-      <link rel="stylesheet" href="scribbler-landing.css">
-      <link rel="author" href="humans.txt">
-  </head>
-  <body>
-    <nav>
-      <div class="logo"></div>
-      <ul class="menu">
-        <div class="menu__item toggle"><span></span></div>
-        <li class="menu__item"><a href="doc.html" class="link link--dark"><i class="fa fa-book"></i> Documentation</a></li>
-        <li class="menu__item"><a href="" class="link link--dark"><i class="fa fa-github"></i> Github</a></li>
-      </ul>
-    </nav>
-    <div class="hero">
-      <h1 class="hero__title">Ross Strachan</h1>
-      <p class="hero__description">Learning Python and Java. Avid opensource coder.</p>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Ross Strachan | Awesome Dev</title>
+
+	<link rel="icon" href="favicon.ico" type="image/png" />
+
+	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/themes/indigo-white.css">
+	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/grey-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
+</head>
+<body>
+	<main>
+		<div class="intro">Hello, I'm Ross!</div>
+		<div class="tagline">Awesome Dev | Code Fanatic | Opensource Contributor</div>
+		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
+		<div class="icons-social">
+			<a target="_blank" href="https://github.com/rbstrachan"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="https://twitter.com/rbstrachan"><i class="fab fa-twitter"></i></a>
+		<!--	<a target="_blank" href="https://stackoverflow.com/story/flexdinesh"><i class="fab fa-stack-overflow"></i></a> -->
+		<!--	<a target="_blank" href="https://www.linkedin.com/in/dineshpandiyan"><i class="fab fa-linkedin"></i></a> -->
+		<!--	<a target="_blank" href="https://medium.com/@flexdinesh"><i class="fab fa-medium"></i></a> -->
+			<a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
+			<a target="_blank" href="https://www.behance.net"><i class="fab fa-behance"></i></a>
+			<a target="_blank" href="https://codepen.io"><i class="fab fa-codepen"></i></a>
     </div>
-    <div class="hero__terminal">
-      <pre>
-        <!-- Place your demo code here -->
-        <code class="shell-session demo">hyperyolo ~ $ </code>
-      </pre>
-    </div>
-    <div class="wrapper">
-      <div class="installation">
-        <h3 class="section__title">Installation</h3>
-        <div class="tab__container">
-          <ul class="tab__menu">
-            <li class="tab active" data-tab="mac">mac</li>
-            <li class="tab" data-tab="linux">linux</li>
-            <li class="tab" data-tab="win">win</li>
-          </ul>
-          <pre class="nohighlight code">
-            <code class="tab__pane active mac">$  brew install scribbler</code>
-            <code class="tab__pane linux">$  apt-get install scribbler</code>
-            <code class="tab__pane win">$  gem install scribbler</code>
-          </pre>
-        </div>
-      </div>
-      <div class="feature">
-        <div class="feature__item">
-          <h3 class="section__title">Fast & Light</h3>
-          <p>Start writing your notes immediately in any terminal! No more time wasted on navigating and opening your text editor.</p>
-        </div>
-        <div class="feature__item">
-          <h3 class="section__title">File Syncing</h3>
-          <p>Save your file in Dropbox then you can access to it from anywhere.</p>
-        </div>
-        <div class="feature__item">
-          <h3 class="section__title">Secure</h3>
-          <p>Encrypt your notes optionally. No one can get to your secrets! </p>
-        </div>
-        <div class="feature__item">
-          <h3 class="section__title">Configuration</h3>
-          <p>Maintain all your settings in a single <span class="code code--inline">config.json</span> file. Never need to redo the setting every single time jotting down a note.</p>
-        </div>
-        <div class="feature__item">
-          <h3 class="section__title">Highlightings</h3>
-          <p>For better readability, scribbler has a clean, beautiful color scheme allow you to scan files fast.</p>
-        </div>
-        <div class="feature__item">
-          <h3 class="section__title">Keybindings</h3>
-          <p>You can expect common keybindings for scribbler. Customize <span class="code code--inline">bindings.json</span> for your own liking! </p>
-        </div>
-      </div>
-      <div class="keybinding">
-        <ul class="keybinding__detail">
-          <h3 class="keybinding__title">Default Keybindings</h3>
-          <li>Quit without saving <span class="keybinding__label">Ctrl+C</span></li>
-          <li>Save <span class="keybinding__label">Cmd+S</span></li>
-          <li>Save and Quit <span class="keybinding__label">Ctrl+D</span></li>
-          <li>Undo <span class="keybinding__label">Cmd+Z</span></li>
-        </ul>
-        <ul class="keybinding__detail">
-          <h3 class="keybinding__title">Markdown Keybindings</h3>
-          <li><span class="keybinding__label">Ctrl+A</span> Insert Link Markdown</li>
-          <li><span class="keybinding__label">Ctrl+I</span> Insert Image Markdown</li>
-          <li><span class="keybinding__label">Ctrl+V</span> Insert YouTube Video</li>
-          <li><span class="keybinding__label">Ctrl+T</span> Insert Table</li>
-        </ul>
-      </div>
-      <div class="callout">
-        <p>Read our documentation for advanced keybindings and customization</p>
-        <a href="doc.html" class="button--primary">Documentation</a>
-      </div>
-    </div>
-    <div class="changelog">
-      <div class="wrapper">
-        <h3 class="section__title">Changelog</h3>
-        <div class="changelog__item">
-          <div class="changelog__meta">
-            <h4 class="changelog__title">v0.7</h4>
-            <small class="changelog__date">10/12/2017</small>
-          </div>
-          <div class="changelog__detail">
-            <ul>
-              <li>Improving the writing workflow with better key bindings</li>
-              <li>Design updates</li>
-              <li>SSL Verification for web hooks</li>
-              <li>Render Emoji</li>
-            </ul>
-          </div>
-        </div>
-        <div class="changelog__item">
-          <div class="changelog__meta">
-            <h4 class="changelog__title">v0.6</h4>
-            <small class="changelog__date">7/30/2017</small>
-          </div>
-          <div class="changelog__detail">
-            <ul>
-              <li>Adding Unicode support</li>
-              <li>Basic text highlighting</li>
-              <li>Fresh Design</li>
-            </ul>
-          </div>
-        </div>
-        <div class="changelog__item">
-          <div class="changelog__meta">
-            <h4 class="changelog__title">v0.5</h4>
-            <small class="changelog__date">5/10/2017</small>
-          </div>
-          <div class="changelog__detail">
-            <ul>
-              <li>Save default md file in new folders</li>
-              <li>Ability to quick search on existing notes</li>
-            </ul>
-          </div>
-        </div>
-        <div class="changelog__callout">
-          <a href="#" class="button--secondary">Checkout Full Log</a>
-        </div>
-      </div>
-    </div>
-	  <footer class="footer">Follow me on <a href="https://twitter.com/rbstrachan">Twitter</a>.</footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="scribbler.js"></script>
-  </body>
+	</main>
+</body>
 </html>
