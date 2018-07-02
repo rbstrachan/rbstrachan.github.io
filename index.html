@@ -1,287 +1,149 @@
-<html lang="en">
-<head>
-  <title>Ross Strachan</title>
-</head>
-<body>
-<section class="hero">
-<div class="hero-head">
-<div class="container">
-<nav class="nav has-shadow">
-<div class="container">
-<div class="nav-left">
-<a id="unicorn-btn" class="nav-item" href="https://sindresorhus.com/unicorn" title="Click me!">🦄</a>
-</div>
-<span class="nav-toggle">
-<span></span>
-<span></span>
-<span></span>
-</span>
-<div class="nav-right nav-menu">
-<a class="nav-item is-tab" href="/">Home</a>
-<a class="nav-item is-tab" href="/#projects">Projects</a>
-<a class="nav-item is-tab" href="/#apps">Apps</a>
-<a class="nav-item is-tab" href="/thanks">Supporters</a>
-<a class="nav-item is-tab" href="https://blog.sindresorhus.com/answering-anything-678ce5623798">AMA</a>
-<a class="nav-item is-tab" href="https://blog.sindresorhus.com/about-sindre-sorhus-42786d2e191b">About</a>
-<span class="nav-item">
-<a class="button" href="/contact">Contact</a>
-</span>
-</div>
-</div>
-</nav>
-</div>
-</div>
-</section>
-<style>
-	#latest-repos-container h2 {
-		margin-bottom: 2rem;
-	}
-
-	#latest-repos h4 {
-		margin-bottom: 0.5rem;
-	}
-</style>
-<section class="hero is-fullheight is-default">
-<div class="hero-body">
-<div id="info-container" class="container has-text-centered">
-<div class="columns is-vcentered">
-<div class="column is-two-thirds is-centered has-nice-link" itemscope itemtype="http://schema.org/Person">
-<img id="profile-pic" src="sindre-sorhus-small.jpg" width="160" height="160" itemprop="image">
-<h1 class="title is-2" itemprop="name">Sindre Sorhus</h1>
-<h2 class="subtitle is-4" itemprop="description">Full-Time Open-Sourcerer &amp; Aspiring Rebel</h2>
-<p>I make lots of modules, CLI tools, and apps. Mostly Swift &amp; Node.js.</p>
-<br>
-<p class="has-text-centered">
-<a class="button is-large is-white" href="https://blog.sindresorhus.com">
-<span class="icon">
-<i class="fa fa-pencil"></i>
-</span>
-<span>Writings</span>
-</a>
-<a class="button is-large is-white" href="https://github.com/sindresorhus">
-<span class="icon">
-<i class="fa fa-github"></i>
-</span>
-<span>Code</span>
-</a>
-<a class="button is-large is-white" href="https://twitter.com/sindresorhus">
-<span class="icon">
-<i class="fa fa-twitter"></i>
-</span>
-<span>Tweets</span>
-</a>
-</p>
-<br>
-<a href="/thanks">Huge thanks to all my amazing supporters!</a>
-<br>
-<small>Special thanks to:</small>
-<br>
-<a href="https://github.com/wtgtybhertgeghgtwtg" class="no-underline">
-<img src="/assets/thanks/wtgtybhertgeghgtwtg-logo.svg" width="160" alt="wtgtybhertgeghgtwtg">
-</a>
-<br>
-<hr id="latest-blog-post-separator">
-<div id="latest-blog-post">
-<h4 class="title is-4">
-<a class="is-gray-link" href=""></a>
-<span class="tag is-small">Latest writing</span>
-</h4>
-<p></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="hero-foot">
-<div class="container">
-<div class="tabs is-centered">
-<ul>
-<li>
-<i id="scroll-hint" class="fa fa-caret-down" aria-hidden="true"></i>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section class="hero is-fullheight is-gray">
-<div id="projects" class="hero-body container">
-<div class="columns is-vcentered">
-<div class="column has-text-centered has-nice-link">
-<img id="unicorn-icon" src="unicorn.svg" width="100" height="100">
-<h4 class="title is-4" style="font-weight: 400">My main focus right now is <a href="https://ava.li"><strong>AVA</strong></a>, macOS development, and maintaining all my <nobr>open-source</nobr> projects.</h4>
-</div>
-<div id="latest-repos-container" class="column is-half is-offset-1 has-nice-link">
-<h2 class="title is-2">Latest repos</h2>
-<template id="latest-repos-template">
-<div class="column is-half">
-<h4 class="title is-4">
-<a class="latest-repos-title" href=""></a>
-<span class="tag is-small latest-repos-language">¯\_(ツ)_/¯</span>
-</h4>
-<p class="latest-repos-description"></p>
-</div>
-</template>
-<div id="latest-repos" class="columns is-multiline"></div>
-</div>
-</div>
-</div>
-</section>
-<section class="section hero is-fullheight is-default is-bold">
-<div id="apps" class="container">
-<h2 class="title is-2">Apps</h2>
-<div class="columns is-multiline">
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/gifski">
-<div class="box">
-<figure class="image">
-<img src="/assets/gifski/thumbnail.jpg">
-
-</figure>
-<h2 class="title">
-<span>Gifski</span>
-<span class="tag is-small is-success">New!</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Convert videos to high-quality GIFs</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/kap">
-<div class="box">
-<figure class="image">
-<img src="/assets/kap/thumbnail.jpg">
-
-</figure>
-<h2 class="title">
-<span>Kap</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Record your screen</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/black-out">
-<div class="box">
-<figure class="image">
-<img src="/assets/black-out/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>Black Out</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Hide sensitive parts of an image</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/heic-converter">
-<div class="box">
-<figure class="image">
-
-<img src="/assets/heic-converter/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>HEIC Converter</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Convert HEIC images to JPEG or PNG</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/shareful">
-<div class="box">
-<figure class="image">
-
-<img src="/assets/shareful/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>Shareful</span>
-<span class="tag is-small is-info">Prerelease</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Give the macOS Share menu superpowers</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/lungo">
-<div class="box">
-<figure class="image">
-<img src="/assets/lungo/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>Lungo</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Prevent your Mac from going to sleep</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/touch-bar-simulator">
-<div class="box">
-<figure class="image">
-
-<img src="/assets/touch-bar-simulator/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>Touch Bar Simulator</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Use the Touch Bar on any Mac</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/battery-indicator">
-<div class="box">
-<figure class="image">
-<img src="/assets/battery-indicator/thumbnail.jpg">
-
-</figure>
-<h2 class="title">
-<span>Battery Indicator</span>
-<span class="tag is-small">macOS</span>
-</h2>
-<p class="subtitle is-6">Remaining battery time in your menu bar</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/caprine">
-<div class="box">
-<figure class="image">
-<img src="/assets/caprine/thumbnail.jpg">
-
-</figure>
-<h2 class="title">
-<span>Caprine</span>
-<span class="tag is-small">Cross-platform</span>
-</h2>
-<p class="subtitle is-6">Elegant Facebook Messenger desktop app</p>
-</div>
-</a>
-</div>
-<div class="column is-mobile is-half-tablet is-one-third-desktop">
-<a href="/blear">
-<div class="box">
-<figure class="image">
-<img src="/assets/blear/thumbnail.jpg">
-</figure>
-<h2 class="title">
-<span>Blear</span>
-<span class="tag is-small">iOS</span>
-</h2>
-<p class="subtitle is-6">Transform photos into blurry wallpapers</p>
-</div>
-</a>
-</div>
-</div>
-</div>
-</section>
-</body>
+<!doctype html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Ross Strachan</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
+      <link rel="stylesheet" href="scribbler-global.css">
+      <link rel="stylesheet" href="scribbler-landing.css">
+      <link rel="author" href="humans.txt">
+  </head>
+  <body>
+    <nav>
+      <div class="logo"></div>
+      <ul class="menu">
+        <div class="menu__item toggle"><span></span></div>
+        <li class="menu__item"><a href="doc.html" class="link link--dark"><i class="fa fa-book"></i> Documentation</a></li>
+        <li class="menu__item"><a href="" class="link link--dark"><i class="fa fa-github"></i> Github</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1 class="hero__title">Ross Strachan</h1>
+      <p class="hero__description">Learning Python and Java. Avid opensource coder.</p>
+    </div>
+    <div class="hero__terminal">
+      <pre>
+        <!-- Place your demo code here -->
+        <code class="shell-session demo">hyperyolo ~ $ </code>
+      </pre>
+    </div>
+    <div class="wrapper">
+      <div class="installation">
+        <h3 class="section__title">Installation</h3>
+        <div class="tab__container">
+          <ul class="tab__menu">
+            <li class="tab active" data-tab="mac">mac</li>
+            <li class="tab" data-tab="linux">linux</li>
+            <li class="tab" data-tab="win">win</li>
+          </ul>
+          <pre class="nohighlight code">
+            <code class="tab__pane active mac">$  brew install scribbler</code>
+            <code class="tab__pane linux">$  apt-get install scribbler</code>
+            <code class="tab__pane win">$  gem install scribbler</code>
+          </pre>
+        </div>
+      </div>
+      <div class="feature">
+        <div class="feature__item">
+          <h3 class="section__title">Fast & Light</h3>
+          <p>Start writing your notes immediately in any terminal! No more time wasted on navigating and opening your text editor.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">File Syncing</h3>
+          <p>Save your file in Dropbox then you can access to it from anywhere.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Secure</h3>
+          <p>Encrypt your notes optionally. No one can get to your secrets! </p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Configuration</h3>
+          <p>Maintain all your settings in a single <span class="code code--inline">config.json</span> file. Never need to redo the setting every single time jotting down a note.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Highlightings</h3>
+          <p>For better readability, scribbler has a clean, beautiful color scheme allow you to scan files fast.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Keybindings</h3>
+          <p>You can expect common keybindings for scribbler. Customize <span class="code code--inline">bindings.json</span> for your own liking! </p>
+        </div>
+      </div>
+      <div class="keybinding">
+        <ul class="keybinding__detail">
+          <h3 class="keybinding__title">Default Keybindings</h3>
+          <li>Quit without saving <span class="keybinding__label">Ctrl+C</span></li>
+          <li>Save <span class="keybinding__label">Cmd+S</span></li>
+          <li>Save and Quit <span class="keybinding__label">Ctrl+D</span></li>
+          <li>Undo <span class="keybinding__label">Cmd+Z</span></li>
+        </ul>
+        <ul class="keybinding__detail">
+          <h3 class="keybinding__title">Markdown Keybindings</h3>
+          <li><span class="keybinding__label">Ctrl+A</span> Insert Link Markdown</li>
+          <li><span class="keybinding__label">Ctrl+I</span> Insert Image Markdown</li>
+          <li><span class="keybinding__label">Ctrl+V</span> Insert YouTube Video</li>
+          <li><span class="keybinding__label">Ctrl+T</span> Insert Table</li>
+        </ul>
+      </div>
+      <div class="callout">
+        <p>Read our documentation for advanced keybindings and customization</p>
+        <a href="doc.html" class="button--primary">Documentation</a>
+      </div>
+    </div>
+    <div class="changelog">
+      <div class="wrapper">
+        <h3 class="section__title">Changelog</h3>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">v0.7</h4>
+            <small class="changelog__date">10/12/2017</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+              <li>Improving the writing workflow with better key bindings</li>
+              <li>Design updates</li>
+              <li>SSL Verification for web hooks</li>
+              <li>Render Emoji</li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">v0.6</h4>
+            <small class="changelog__date">7/30/2017</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+              <li>Adding Unicode support</li>
+              <li>Basic text highlighting</li>
+              <li>Fresh Design</li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">v0.5</h4>
+            <small class="changelog__date">5/10/2017</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+              <li>Save default md file in new folders</li>
+              <li>Ability to quick search on existing notes</li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__callout">
+          <a href="#" class="button--secondary">Checkout Full Log</a>
+        </div>
+      </div>
+    </div>
+	  <footer class="footer">Follow me on <a href="https://twitter.com/rbstrachan/>Twitter</a>.</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="scribbler.js"></script>
+  </body>
 </html>
