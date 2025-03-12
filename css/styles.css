@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
 @import "https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700";
+
 @font-face {
 	font-family: "Gotika Black";
 	src: url("../fonts/Gotika Black.ttf")
@@ -13,9 +14,15 @@ body {
 	font-size: 16px
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	color: #d3cfc9;
-	margin: 0 0 20px
+	/* margin: 0 0 20px */
+	margin: 0 0 0;
 }
 
 gbf {
@@ -23,11 +30,18 @@ gbf {
 	font-size: 34px
 }
 
-p, ul, ol, table, pre, dl {
+p,
+ul,
+ol,
+table,
+pre,
+dl {
 	margin: 0 0 20px
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 	line-height: 1.1
 }
 
@@ -40,7 +54,10 @@ h2 {
 	color: #393939
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
 	color: #bab4ab
 }
 
@@ -79,7 +96,8 @@ blockquote {
 	font-style: italic
 }
 
-code, pre {
+code,
+pre {
 	font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
 	color: #333;
 	font-size: 12px
@@ -98,7 +116,8 @@ table {
 	border-collapse: collapse
 }
 
-th, td {
+th,
+td {
 	text-align: left;
 	padding: 5px 10px;
 	border-bottom: 1px solid #e5e5e5
@@ -200,7 +219,13 @@ footer {
 	font-weight: bold
 }
 
-.dead, .dead a, .dead .js, .dead .js, .dead .html, .dead .php, .dead .py {
+.dead,
+.dead a,
+.dead .js,
+.dead .js,
+.dead .html,
+.dead .php,
+.dead .py {
 	color: #aaa;
 }
 
@@ -208,46 +233,59 @@ footer {
 	content: "[dead]";
 }
 
-@media print, screen and (max-width: 960px) {
+@media print,
+screen and (max-width: 960px) {
 	div.wrapper {
 		width: auto;
 		margin: 0
 	}
-	header, section, footer {
+
+	header,
+	section,
+	footer {
 		float: none;
 		position: static;
 		width: auto
 	}
+
 	header {
 		padding-right: 320px
 	}
+
 	section {
 		border: 1px solid #373c3e;
 		border-width: 1px 0;
 		padding: 20px 0;
 		margin: 0 0 20px
 	}
+
 	header a small {
 		display: inline
 	}
 }
 
-@media print, screen and (max-width: 720px) {
+@media print,
+screen and (max-width: 720px) {
 	body {
 		word-wrap: break-word;
 	}
+
 	header {
 		padding: 0
 	}
+
 	header p.view {
 		position: static
 	}
-	pre, code {
+
+	pre,
+	code {
 		word-wrap: normal
 	}
 }
 
-@media print, screen and (max-width: 480px) {
+@media print,
+screen and (max-width: 480px) {
 	body {
 		padding: 15px
 	}
