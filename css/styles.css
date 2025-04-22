@@ -36,7 +36,15 @@ ol,
 table,
 pre,
 dl {
-	margin: 0 0 20px
+	margin: 0 0 20px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+b {
+	line-height: 1.5;
 }
 
 h1,
