@@ -39,6 +39,12 @@ dl {
 	margin: 0 0 20px;
 }
 
+#meImg {
+	border-radius: 50%;
+	/* width: 150px; */
+	/* height: 150px; */
+}
+
 p {
 	line-height: 1.5;
 }
