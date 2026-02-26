@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/rbstrachan",
       Contact: "mailto:ross@reiwa.ca",
-      Colophon: "/colophon"
+      Colophon: "/colophon",
+      Acknowledgements: "/acknowledgements"
     },
   }),
 }

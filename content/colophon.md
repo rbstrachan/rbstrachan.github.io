@@ -8,5 +8,5 @@ Voronoi Tesselation: A dynamic tessellation where the plane is partitioned into 
 Boids Flocking: An emergent behavior simulation based on Craig Reynolds' three rules: Separation, Alignment, and Cohesion.
 Reaction-Diffusion: A simulation of chemical morphogenesis using the Gray-Scott model.
 
-Theme: A modified version of the Quartz "Everforest" palette.
-Typography: Using system-standard sans-serif fonts for readability, with **JetBrains Mono** for code snippets and mathematical notation.
+<!-- Theme: A modified version of the Quartz "Everforest" palette. -->
+<!-- Typography: Using system-standard sans-serif fonts for readability, with **JetBrains Mono** for code snippets and mathematical notation. -->

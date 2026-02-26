@@ -113,3 +113,10 @@ button,
     z-index: 10; /* Ensures it pops over other elements */
   }
 }
+
+// hiding unwanted files in explorer
+div.explorer-content li > a[data-for="qr"],
+div.explorer-content li > a[data-for="cv"],
+div.explorer-content li > a[data-for="guestbook"] {
+  display:none;
+}

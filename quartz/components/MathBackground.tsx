@@ -157,8 +157,8 @@ MathBackground.afterDOMLoaded = `
     ];
 
     let currentSketch = null;
-    let sketchIndex = Math.floor(Math.random() * sketches.length);
-    // let sketchIndex = 3;
+    // let sketchIndex = Math.floor(Math.random() * sketches.length);
+    let sketchIndex = 3;
 
     function startSketch() {
       if (currentSketch) currentSketch.remove();

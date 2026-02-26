@@ -3,7 +3,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 function SidebarLinks() {
   return (
     <div className="sidebar-links">
-      <a href="/cv">CV</a>
+      <div><a href="/cv">CV</a>・<a href="/qr">QR</a></div>
       <a href="/guestbook">Guestbook</a>
     </div>
   )

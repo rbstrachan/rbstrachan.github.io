@@ -6,65 +6,65 @@
       <description>Last 10 notes on Ross Strachan</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>cv</title>
-    <link>https://reiwa.ca/cv</link>
-    <guid>https://reiwa.ca/cv</guid>
-    <description><![CDATA[  English Tutor ・ Software Developer ・ Learning Information Specialist 📍 UK ・ Canada ・ Japan 📧 ross@reiwa.ca Available for remote-freelance and hired work Looking to develop natural, native-like English skills? Get in touch to book a trial lesson with me today! Professional Summary Multilingual edu... ]]></description>
-    <pubDate>Thu, 26 Feb 2026 08:34:16 GMT</pubDate>
-  </item><item>
-    <title>Welcome!</title>
-    <link>https://reiwa.ca/</link>
-    <guid>https://reiwa.ca/</guid>
-    <description><![CDATA[  I’m Ross, an information architect-in-training who enjoys mathematics, coding, automating things, and exploring the many interfaces between humans and machines. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 07:34:50 GMT</pubDate>
-  </item><item>
-    <title>TEFL Level 5 course</title>
-    <link>https://reiwa.ca/projects/TEFL-Level-5-course</link>
-    <guid>https://reiwa.ca/projects/TEFL-Level-5-course</guid>
-    <description><![CDATA[ I’m currently working towards the TEFL Level 5 diploma with the goal of being able to teach English to students internationally. ]]></description>
-    <pubDate>Tue, 24 Feb 2026 16:01:55 GMT</pubDate>
-  </item><item>
-    <title>reaction-diffusion</title>
-    <link>https://reiwa.ca/animations/reacdiff</link>
-    <guid>https://reiwa.ca/animations/reacdiff</guid>
-    <description><![CDATA[  Coming soon! This animation is under development. Check back soon! . ]]></description>
-    <pubDate>Mon, 16 Feb 2026 08:43:50 GMT</pubDate>
-  </item><item>
-    <title>animations</title>
-    <link>https://reiwa.ca/animations/</link>
-    <guid>https://reiwa.ca/animations/</guid>
-    <description><![CDATA[ Here lies a list of animations and interactive visualisations I have made. ]]></description>
-    <pubDate>Fri, 13 Feb 2026 09:18:13 GMT</pubDate>
-  </item><item>
-    <title>voronoi tesselation</title>
-    <link>https://reiwa.ca/animations/voronoi</link>
-    <guid>https://reiwa.ca/animations/voronoi</guid>
-    <description><![CDATA[  Coming soon! This animation and a technical explanation of it’s workings are being developed as we speak. Check back soon! . ]]></description>
-    <pubDate>Fri, 13 Feb 2026 09:16:18 GMT</pubDate>
-  </item><item>
-    <title>bouncing keys</title>
-    <link>https://reiwa.ca/animations/keys</link>
-    <guid>https://reiwa.ca/animations/keys</guid>
-    <description><![CDATA[  Coming soon! This animation is available to check out now at the p5.js web editor. ]]></description>
-    <pubDate>Fri, 13 Feb 2026 09:13:06 GMT</pubDate>
+    <title>qr</title>
+    <link>https://reiwa.ca/qr</link>
+    <guid>https://reiwa.ca/qr</guid>
+    <description><![CDATA[ Feel free to share the below QR code to lead people to this website! . ]]></description>
+    <pubDate>Thu, 26 Feb 2026 13:20:01 GMT</pubDate>
   </item><item>
     <title>boids flocking</title>
     <link>https://reiwa.ca/animations/boids</link>
     <guid>https://reiwa.ca/animations/boids</guid>
     <description><![CDATA[  Coming soon! This animation and a technical explanation of the math behind it is being written as we speak. Check back soon! . ]]></description>
-    <pubDate>Fri, 13 Feb 2026 09:08:36 GMT</pubDate>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>animations</title>
+    <link>https://reiwa.ca/animations/</link>
+    <guid>https://reiwa.ca/animations/</guid>
+    <description><![CDATA[ Here lies a list of animations and interactive visualisations I have made. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>bouncing keys</title>
+    <link>https://reiwa.ca/animations/keys</link>
+    <guid>https://reiwa.ca/animations/keys</guid>
+    <description><![CDATA[  Coming soon! This animation is available to check out now at the p5.js web editor. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>reaction-diffusion</title>
+    <link>https://reiwa.ca/animations/reacdiff</link>
+    <guid>https://reiwa.ca/animations/reacdiff</guid>
+    <description><![CDATA[  Coming soon! This animation is under development. Check back soon! . ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item><item>
     <title>physarum</title>
     <link>https://reiwa.ca/animations/slime</link>
     <guid>https://reiwa.ca/animations/slime</guid>
     <description><![CDATA[ This animation explores the study of biological computing, specifically the foraging behaviour of the Physarum polycephalum slime mould, which is famous for its ability to optimise pathways across its network. ]]></description>
-    <pubDate>Fri, 13 Feb 2026 08:56:01 GMT</pubDate>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item><item>
-    <title>guestbook</title>
-    <link>https://reiwa.ca/guestbook</link>
-    <guid>https://reiwa.ca/guestbook</guid>
-    <description><![CDATA[ Thank you for visiting! Please feel free to leave a note, I’d love to hear from you. A foreword.. ]]></description>
-    <pubDate>Thu, 12 Feb 2026 15:19:44 GMT</pubDate>
+    <title>voronoi tesselation</title>
+    <link>https://reiwa.ca/animations/voronoi</link>
+    <guid>https://reiwa.ca/animations/voronoi</guid>
+    <description><![CDATA[  Coming soon! This animation and a technical explanation of it’s workings are being developed as we speak. Check back soon! . ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>QADDOE</title>
+    <link>https://reiwa.ca/applications/QADDOE</link>
+    <guid>https://reiwa.ca/applications/QADDOE</guid>
+    <description><![CDATA[  QADDOE is a free, open-source desktop Qualitative Data Analysis application that runs on Windows, Mac and Linux. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>applications</title>
+    <link>https://reiwa.ca/applications/</link>
+    <guid>https://reiwa.ca/applications/</guid>
+    <description><![CDATA[ This page serves as a reference for a desktop applications that I have developed and published. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
+  </item><item>
+    <title>computational linguistics</title>
+    <link>https://reiwa.ca/computational-linguistics</link>
+    <guid>https://reiwa.ca/computational-linguistics</guid>
+    <description><![CDATA[ In the study of linguistics, computational linguistics is an interdisciplinary field that combines linguistics and computer science to analyse and understand human language using computational methods. ]]></description>
+    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
