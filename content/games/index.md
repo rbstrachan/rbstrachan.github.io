@@ -1,0 +1,5 @@
+---
+aliases:
+  - games
+title: games
+---

@@ -1,0 +1,115 @@
+@use "./base.scss";
+
+// possible backgrounds (code all three and let user choose? random one on load?)
+// Dynamic Voronoi Tessellation (Geometric Growth)
+// The mouse cursor acts as one of the "seeds." As you move across the page, the cells shift, grow, and shrink to accommodate your position.
+// It feels like looking at cellular structures or cracked mud. It’s very "organic" and fits a knowledge base perfectly.
+
+// Boids Flocking (Emergent Behavior)
+// You can make the mouse act as a "predator" (the particles scatter away) or a "leader" (the flock follows the cursor).
+// High energy and very tactile. It makes the background feel alive and reactive to your presence.
+
+// Reaction-Diffusion (Chemical Morphogenesis)
+// Clicking or moving the mouse "injects" more of one chemical into the system, causing new patterns to spiral and bloom in real-time.
+// Hypnotic and psychedelic. It looks like a living petri dish.
+
+// put your custom CSS here!
+// body::before {
+//   content: "";
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   width: 100%;
+//   height: 100%;
+//   z-index: -1;
+//   background-image: url("/static/gemini.png");
+//   background-size: cover;
+//   background-position: center;
+//   background-attachment: fixed;
+//
+//   opacity: 0.1;
+//
+//   // Optional: adds a slight blur to the image itself
+//   filter: blur(2px);
+//
+//   pointer-events: none; // Ensures you can still click things
+// }
+
+.sidebar,
+.graph,
+.backlinks,
+.explorer,
+button,
+.page-title {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+// sidelar links
+.sidebar-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 32px;
+
+  a {
+    color: var(--secondary);
+    &:hover {
+      color: var(--tertiary);
+    }
+  }
+}
+
+// background animations
+#bg-canvas-host {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  pointer-events: none; // Allows clicking through to text
+  opacity: 0.3;         // Subtlety is key!
+}
+
+#bg-controls {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+
+  #toggle-bg {
+    background: var(--lightgray);
+    border: 1px solid var(--gray);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: transform 0.2s;
+
+    &:hover {
+      transform: rotate(90deg);
+      background: var(--highlight);
+    }
+  }
+}
+
+// profilep picture
+.sidebar-profile-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover; /* Ensures the image doesn't stretch */
+  border-radius: 50%; /* Makes it a circle */
+  transition: all 0.2s ease-in-out; /* Smoothly animates the change */
+  cursor: pointer;
+  margin: 0;
+
+  &:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%; /* Becomes a square */
+    z-index: 10; /* Ensures it pops over other elements */
+  }
+}
