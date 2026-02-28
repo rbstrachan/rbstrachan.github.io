@@ -3,5 +3,9 @@ title: projects
 aliases:
   - projects
 ---
-Below is a list of projects I'm actively working on. I have many more projects in the works which will be added here in due time. Completed projects don't appear here yet.
+> [!info] Just so you know...
+> Below is a list of projects I have worked on, either as the main contributor or as a collaborator.
+>
+> Projects that don't yet have a proof of concept won't appear here yet.\
+> This section is new and I'm adding more projects to it all the time. Be sure to check back soon!
 ***
