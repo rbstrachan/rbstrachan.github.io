@@ -55,6 +55,7 @@ button,
 
   a {
     color: var(--secondary);
+
     &:hover {
       color: var(--tertiary);
     }
@@ -70,7 +71,7 @@ button,
   height: 100vh;
   z-index: -1;
   pointer-events: none; // Allows clicking through to text
-  opacity: 0.3;         // Subtlety is key!
+  opacity: 0.3; // Subtlety is key!
 }
 
 #bg-controls {
@@ -100,24 +101,29 @@ button,
 .sidebar-profile-img {
   width: 100px;
   height: 100px;
-  object-fit: cover; /* Ensures the image doesn't stretch */
-  border-radius: 50%; /* Makes it a circle */
-  transition: all 0.2s ease-in-out; /* Smoothly animates the change */
+  object-fit: cover;
+  /* Ensures the image doesn't stretch */
+  border-radius: 50%;
+  /* Makes it a circle */
+  transition: all 0.2s ease-in-out;
+  /* Smoothly animates the change */
   cursor: pointer;
   margin: 0;
 
   &:hover {
     width: 200px;
     height: 200px;
-    border-radius: 10%; /* Becomes a square */
-    z-index: 10; /* Ensures it pops over other elements */
+    border-radius: 10%;
+    /* Becomes a square */
+    z-index: 10;
+    /* Ensures it pops over other elements */
   }
 }
 
 // hiding unwanted files in explorer
-div.explorer-content li > a[data-for="qr"],
-div.explorer-content li > a[data-for="cv"],
-div.explorer-content li > a[data-for="guestbook"],
-div.explorer-content li > a[data-for="colophon"] {
-  display:none;
+div.explorer-content li>a[data-for="qr"],
+div.explorer-content li>a[data-for="cv"],
+div.explorer-content li>a[data-for="guestbook"],
+div.explorer-content li>a[data-for="colophon"] {
+  display: none;
 }

@@ -5,66 +5,6 @@
       <link>https://reiwa.ca</link>
       <description>Last 10 notes on Ross Strachan</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <item>
-    <title>colophon</title>
-    <link>https://reiwa.ca/colophon</link>
-    <guid>https://reiwa.ca/colophon</guid>
-    <description><![CDATA[ Production This website was authored in Obsidian, converted into a static single-page application using Quartz, and published via GitHub Pages. ]]></description>
-    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
-  </item><item>
-    <title>projects</title>
-    <link>https://reiwa.ca/projects/</link>
-    <guid>https://reiwa.ca/projects/</guid>
-    <description><![CDATA[  Just so you know.. Below is a list of projects I have worked on, either as the main contributor or as a collaborator. ]]></description>
-    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
-  </item><item>
-    <title>investigationOS</title>
-    <link>https://reiwa.ca/projects/investigationOS</link>
-    <guid>https://reiwa.ca/projects/investigationOS</guid>
-    <description><![CDATA[  investigationOS is a free, open-source Obsidian vault designed to provide a standardised, scalable framework for structuring, organising and managing source information uncovered by complex criminal investigations. ]]></description>
-    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
-  </item><item>
-    <title>animations</title>
-    <link>https://reiwa.ca/animations/</link>
-    <guid>https://reiwa.ca/animations/</guid>
-    <description><![CDATA[ Here lies a list of animations and interactive visualisations I have made. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
-  </item><item>
-    <title>applications</title>
-    <link>https://reiwa.ca/applications/</link>
-    <guid>https://reiwa.ca/applications/</guid>
-    <description><![CDATA[ This page serves as a reference for a desktop applications that I have developed and published. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
-  </item><item>
-    <title>qr</title>
-    <link>https://reiwa.ca/qr</link>
-    <guid>https://reiwa.ca/qr</guid>
-    <description><![CDATA[ Feel free to share the below QR code to lead people to this website! . ]]></description>
-    <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
-  </item><item>
-    <title>boids flocking</title>
-    <link>https://reiwa.ca/animations/boids</link>
-    <guid>https://reiwa.ca/animations/boids</guid>
-    <description><![CDATA[  Coming soon! This animation and a technical explanation of the math behind it is being written as we speak. Check back soon! . ]]></description>
-    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
-  </item><item>
-    <title>bouncing keys</title>
-    <link>https://reiwa.ca/animations/keys</link>
-    <guid>https://reiwa.ca/animations/keys</guid>
-    <description><![CDATA[  Coming soon! This animation is available to check out now at the p5.js web editor. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
-  </item><item>
-    <title>reaction-diffusion</title>
-    <link>https://reiwa.ca/animations/reacdiff</link>
-    <guid>https://reiwa.ca/animations/reacdiff</guid>
-    <description><![CDATA[  Coming soon! This animation is under development. Check back soon! . ]]></description>
-    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
-  </item><item>
-    <title>physarum</title>
-    <link>https://reiwa.ca/animations/slime</link>
-    <guid>https://reiwa.ca/animations/slime</guid>
-    <description><![CDATA[ This animation explores the study of biological computing, specifically the foraging behaviour of the Physarum polycephalum slime mould, which is famous for its ability to optimise pathways across its network. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
-  </item>
+      
     </channel>
   </rss>
