@@ -6,6 +6,12 @@
       <description>Last 10 notes on Ross Strachan</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>investigationOS</title>
+    <link>https://reiwa.ca/projects/investigationOS</link>
+    <guid>https://reiwa.ca/projects/investigationOS</guid>
+    <description><![CDATA[ investigationOS is a free, open-source Obsidian vault designed to provide a standardised, scalable framework for structuring, organising and managing source information and data uncovered in the course of complex criminal investigations. ]]></description>
+    <pubDate>Sat, 28 Feb 2026 14:38:29 GMT</pubDate>
+  </item><item>
     <title>animations</title>
     <link>https://reiwa.ca/animations/</link>
     <guid>https://reiwa.ca/animations/</guid>
@@ -58,12 +64,6 @@
     <link>https://reiwa.ca/animations/voronoi</link>
     <guid>https://reiwa.ca/animations/voronoi</guid>
     <description><![CDATA[  Coming soon! This animation and a technical explanation of it’s workings are being developed as we speak. Check back soon! . ]]></description>
-    <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
-  </item><item>
-    <title>QADDOE</title>
-    <link>https://reiwa.ca/applications/QADDOE</link>
-    <guid>https://reiwa.ca/applications/QADDOE</guid>
-    <description><![CDATA[  QADDOE is a free, open-source desktop Qualitative Data Analysis application that runs on Windows, Mac and Linux. ]]></description>
     <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item>
     </channel>
