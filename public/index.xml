@@ -6,23 +6,23 @@
       <description>Last 10 notes on Ross Strachan</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>investigationOS</title>
-    <link>https://reiwa.ca/projects/investigationOS</link>
-    <guid>https://reiwa.ca/projects/investigationOS</guid>
-    <description><![CDATA[  investigationOS is a free, open-source Obsidian vault designed to provide a standardised, scalable framework for structuring, organising and managing source information uncovered by complex criminal investigations. ]]></description>
-    <pubDate>Sat, 28 Feb 2026 15:05:13 GMT</pubDate>
-  </item><item>
     <title>colophon</title>
     <link>https://reiwa.ca/colophon</link>
     <guid>https://reiwa.ca/colophon</guid>
     <description><![CDATA[ Production This website was authored in Obsidian, converted into a static single-page application using Quartz, and published via GitHub Pages. ]]></description>
-    <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
   </item><item>
-    <title>qr</title>
-    <link>https://reiwa.ca/qr</link>
-    <guid>https://reiwa.ca/qr</guid>
-    <description><![CDATA[ Feel free to share the below QR code to lead people to this website! . ]]></description>
-    <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
+    <title>projects</title>
+    <link>https://reiwa.ca/projects/</link>
+    <guid>https://reiwa.ca/projects/</guid>
+    <description><![CDATA[  Just so you know.. Below is a list of projects I have worked on, either as the main contributor or as a collaborator. ]]></description>
+    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
+  </item><item>
+    <title>investigationOS</title>
+    <link>https://reiwa.ca/projects/investigationOS</link>
+    <guid>https://reiwa.ca/projects/investigationOS</guid>
+    <description><![CDATA[  investigationOS is a free, open-source Obsidian vault designed to provide a standardised, scalable framework for structuring, organising and managing source information uncovered by complex criminal investigations. ]]></description>
+    <pubDate>Sat, 28 Feb 2026 15:46:18 GMT</pubDate>
   </item><item>
     <title>animations</title>
     <link>https://reiwa.ca/animations/</link>
@@ -36,34 +36,34 @@
     <description><![CDATA[ This page serves as a reference for a desktop applications that I have developed and published. ]]></description>
     <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
   </item><item>
-    <title>projects</title>
-    <link>https://reiwa.ca/projects/</link>
-    <guid>https://reiwa.ca/projects/</guid>
-    <description><![CDATA[  Just so you know.. Below is a list of projects I have worked on, either as the main contributor or as a collaborator. ]]></description>
+    <title>qr</title>
+    <link>https://reiwa.ca/qr</link>
+    <guid>https://reiwa.ca/qr</guid>
+    <description><![CDATA[ Feel free to share the below QR code to lead people to this website! . ]]></description>
     <pubDate>Thu, 26 Feb 2026 13:48:17 GMT</pubDate>
   </item><item>
-    <title>computational linguistics</title>
-    <link>https://reiwa.ca/computational-linguistics</link>
-    <guid>https://reiwa.ca/computational-linguistics</guid>
-    <description><![CDATA[ In the study of linguistics, computational linguistics is an interdisciplinary field that combines linguistics and computer science to analyse and understand human language using computational methods. ]]></description>
+    <title>boids flocking</title>
+    <link>https://reiwa.ca/animations/boids</link>
+    <guid>https://reiwa.ca/animations/boids</guid>
+    <description><![CDATA[  Coming soon! This animation and a technical explanation of the math behind it is being written as we speak. Check back soon! . ]]></description>
     <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item><item>
-    <title>cv</title>
-    <link>https://reiwa.ca/cv</link>
-    <guid>https://reiwa.ca/cv</guid>
-    <description><![CDATA[  English Tutor ・ Software Developer ・ Learning Information Specialist 📍 UK ・ Canada ・ Japan 📧 ross@reiwa.ca Available for remote-freelance and hired work Looking to develop natural, native-like English skills? Get in touch to book a trial lesson with me today! Professional Summary Multilingual edu... ]]></description>
+    <title>bouncing keys</title>
+    <link>https://reiwa.ca/animations/keys</link>
+    <guid>https://reiwa.ca/animations/keys</guid>
+    <description><![CDATA[  Coming soon! This animation is available to check out now at the p5.js web editor. ]]></description>
     <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item><item>
-    <title>guestbook</title>
-    <link>https://reiwa.ca/guestbook</link>
-    <guid>https://reiwa.ca/guestbook</guid>
-    <description><![CDATA[ Thank you for visiting! Please feel free to leave a note, I’d love to hear from you. A foreword.. ]]></description>
+    <title>reaction-diffusion</title>
+    <link>https://reiwa.ca/animations/reacdiff</link>
+    <guid>https://reiwa.ca/animations/reacdiff</guid>
+    <description><![CDATA[  Coming soon! This animation is under development. Check back soon! . ]]></description>
     <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item><item>
-    <title>Welcome!</title>
-    <link>https://reiwa.ca/</link>
-    <guid>https://reiwa.ca/</guid>
-    <description><![CDATA[  I’m Ross, an information architect-in-training who enjoys mathematics, coding, automating things, and exploring the many interfaces between humans and machines. ]]></description>
+    <title>physarum</title>
+    <link>https://reiwa.ca/animations/slime</link>
+    <guid>https://reiwa.ca/animations/slime</guid>
+    <description><![CDATA[ This animation explores the study of biological computing, specifically the foraging behaviour of the Physarum polycephalum slime mould, which is famous for its ability to optimise pathways across its network. ]]></description>
     <pubDate>Thu, 26 Feb 2026 09:47:53 GMT</pubDate>
   </item>
     </channel>
