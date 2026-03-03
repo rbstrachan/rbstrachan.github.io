@@ -45,13 +45,6 @@ Want to drop a digital note? Sign the [[guestbook]]!
 at the bottom:
 home (if not on home welcome page)
 
-### Animations & Interactive Visualisations
-* [Bresenham inverted line effect](/p5.js/bresenham)
-* [Bouncing keys animation](/p5.js/bouncingKeys)
-* [Sighted Braille reading practice](/p5.js/braille)
-* [Binary string to 2D code converter](/p5.js/binary2D)
-* [Talmud bankruptcy visualisation](/p5.js/talmud)
-
 ### Language Tools
 * 「日本語」[令和リーダー](/nihongo/reader)
 * (Français) [Outil pour Réviser les Genres des Mots Français (1500 mots)](/p5.js/francais)

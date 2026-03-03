@@ -1,4 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://reiwa.ca/colophon</loc>
+    <lastmod>2026-02-28T15:46:18.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/computational-linguistics</loc>
+    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/cv</loc>
+    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/guestbook</loc>
+    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/</loc>
+    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/qr</loc>
+    <lastmod>2026-02-26T13:48:17.000Z</lastmod>
+  </url><url>
     <loc>https://reiwa.ca/animations/boids</loc>
     <lastmod>2026-02-26T09:47:53.000Z</lastmod>
   </url><url>
@@ -23,38 +41,26 @@
     <loc>https://reiwa.ca/applications/</loc>
     <lastmod>2026-02-26T13:48:17.000Z</lastmod>
   </url><url>
-    <loc>https://reiwa.ca/colophon</loc>
-    <lastmod>2026-02-28T15:46:18.000Z</lastmod>
-  </url><url>
-    <loc>https://reiwa.ca/computational-linguistics</loc>
-    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
-  </url><url>
-    <loc>https://reiwa.ca/cv</loc>
-    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
-  </url><url>
     <loc>https://reiwa.ca/games/</loc>
     <lastmod>2026-02-26T09:47:53.000Z</lastmod>
   </url><url>
-    <loc>https://reiwa.ca/guestbook</loc>
-    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
-  </url><url>
-    <loc>https://reiwa.ca/</loc>
-    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
-  </url><url>
     <loc>https://reiwa.ca/projects/TEFL-Level-5-course</loc>
-    <lastmod>2026-02-26T09:47:53.000Z</lastmod>
+    <lastmod>2026-03-02T09:57:10.000Z</lastmod>
   </url><url>
     <loc>https://reiwa.ca/projects/</loc>
     <lastmod>2026-02-28T15:46:18.000Z</lastmod>
   </url><url>
     <loc>https://reiwa.ca/projects/investigationOS</loc>
-    <lastmod>2026-02-28T15:46:18.000Z</lastmod>
+    <lastmod>2026-03-02T09:57:10.000Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/projects/onkunfuri</loc>
+    <lastmod>2026-03-03T10:51:55.265Z</lastmod>
+  </url><url>
+    <loc>https://reiwa.ca/projects/primeCalendar</loc>
+    <lastmod>2026-03-03T10:55:28.410Z</lastmod>
   </url><url>
     <loc>https://reiwa.ca/publications/</loc>
     <lastmod>2026-02-26T09:47:53.000Z</lastmod>
-  </url><url>
-    <loc>https://reiwa.ca/qr</loc>
-    <lastmod>2026-02-26T13:48:17.000Z</lastmod>
   </url><url>
     <loc>https://reiwa.ca/research/</loc>
     <lastmod>2026-02-26T09:47:53.000Z</lastmod>

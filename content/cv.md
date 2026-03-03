@@ -6,7 +6,7 @@ draft:
 **English Tutor ・ Software Developer ・ Learning Information Specialist**\
 📍 UK ・ Canada ・ Japan\
 📧 ross@reiwa.ca\
-Available for remote-freelance and hired work
+Available for remote-freelance and hired work.
 
 **Looking to develop natural, native-like English skills? [Get in touch](mailto:ross@reiwa.ca) to book a trial lesson with me today!**
 
@@ -83,5 +83,5 @@ Available for remote-freelance and hired work
 
 ## Certificates
 
-* **[[TEFL Level 5 course|Level 5 TEFL Diploma]]** ・ Advanced certification in English as a Foreign Language.
+* **[[TEFL Level 5 course|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language.
 * **Certified Cybersecurity Analyst** ・ IBM (*August — December 2021*)
