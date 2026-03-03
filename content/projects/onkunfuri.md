@@ -5,7 +5,7 @@ The classifier processes `kanji[reading]` mappings and applies linguistic rules,
 > [!success] Download the data
 > Below is a brief overview of this project. For more information, see the project's [GitHub repository](https://github.com/rbstrachan/onkunfuri).
 >
-> Found a mistake? Want to make an improvement? Contributions are welcome! Feel free to [download the latest release](https://github.com/rbstrachan/onkunfuri/releases/latest) to get a snense for the dataset, [fork the repo](https://github.com/rbstrachan/onkunfuri/fork) to make your changes, or [open an issue](https://github.com/rbstrachan/onkunfuri/issues) to start a discussion.
+> Found a mistake? Want to make an improvement? Contributions are welcome! Feel free to [download the latest release](https://github.com/rbstrachan/onkunfuri/releases/latest) to get a sense for the dataset, [fork the repo](https://github.com/rbstrachan/onkunfuri/fork) to make your changes, or [open an issue](https://github.com/rbstrachan/onkunfuri/issues) to start a discussion.
 
 # Features
 **onkunfuri** is capable of accurately handling a wide range of Japanese orthographic and phonological quirks that complicate kanji reading classification.

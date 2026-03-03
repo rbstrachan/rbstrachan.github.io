@@ -6,7 +6,6 @@ title: Welcome!
 <!-- cross-linguistic evolution and standardization of Braille research
 cross-linguistic Braille evolution
 standards and accessibility, your research could involve:
-
 - Transcription Standards: Comparing how different languages handle "contractions" (Grade 2 Braille). For example, how French Braille handles accented characters versus how Japanese Tenji uses a completely different phonetic cell structure.
 - Digital Interoperability: Investigating how BRF (Braille Ready Files) and PEF (Portable Embosser Format) handle multilingual texts.
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
@@ -33,7 +32,7 @@ This website serves as a central reference hub for information on [[projects/ind
 [x] research - Photogrammetry in Minecraft, etc.
 [x] publications - technical whitepapers on projects, etc. -->
 
-I'm currently in [[Japan|🇯🇵 Japan]]. I'm available for both remote-freelance and hired work — [[cv|interact with my CV]] or [get in touch](mailto:test@domain.com).
+I'm currently in [[Japan|🇯🇵 Japan]]. I'm available for both remote-freelance and hired work — [[cv|interact with my CV]] or [get in touch](mailto:ross@reiwa.ca).
 
 Want to drop a digital note? Sign the [[guestbook]]!
 
