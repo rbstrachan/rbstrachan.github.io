@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import MathBackground from "./MathBackground"
 import SidebarLinks from "./SidebarLinks"
+import LanguagePicker from "./LanguagePicker"
 
 export {
   ArticleTitle,
@@ -53,5 +54,6 @@ export {
   Flex,
   ConditionalRender,
   MathBackground,
-  SidebarLinks
+  SidebarLinks,
+  LanguagePicker
 }
