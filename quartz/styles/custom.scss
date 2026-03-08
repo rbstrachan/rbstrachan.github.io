@@ -121,9 +121,11 @@ button,
 }
 
 // hiding unwanted files in explorer
-div.explorer-content li>a[data-for="qr"],
 div.explorer-content li>a[data-for="cv"],
+div.explorer-content li>a[data-for="qr"],
 div.explorer-content li>a[data-for="guestbook"],
-div.explorer-content li>a[data-for="colophon"] {
+div.explorer-content li>a[data-for="contact"],
+div.explorer-content li>a[data-for="colophon"],
+div.explorer-content li>a[data-for="acknowledgements"] {
   display: none;
 }
