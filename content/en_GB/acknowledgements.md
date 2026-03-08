@@ -7,3 +7,5 @@ The interactive elements of this site were heavily influenced by educators who d
 
 A significant portion of the technical refinement of this site is thanks to the [Quartz community on Discord](https://discord.gg/KCT5QFEn). I am incredibly appreciative of their patience and friendliness, as well as for the time they took to help me navigate the more intricate aspects of the build.
 <!-- Finally, I would like to thank [Name]() for their invaluable assistance with [translation/proofreading], ensuring that the content is as polished as the code behind it. -->
+
+Finally, my journey into this digital space began with a [Sylvan Franklin](https://sylvanfranklin.com) [video](https://youtu.be/NSTT2iBSwZs). It was there that I first encountered the work of [Ewan Pederson](https://ewan.my/), whose website, and the conversation surrounding it, served as my introduction to Quartz. I am grateful to them both for providing the initial inspiration and for showing me just how powerful a personal corner of the web could truly be.

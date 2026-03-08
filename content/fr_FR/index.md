@@ -16,4 +16,4 @@ Vous voulez laisser un mot? Signez le [[livre d'or|guestbook]]!
 
 > <i style="opacity: 0.7;">Accumulateur compulsif d'informations? Vous voulez dire « conservateur de connaissances à haute densité »...</i>
 
-⠚⠙⠁⠊⠍⠑ ⠇⠑ ⠃⠗⠁⠊⠇⠇⠑
+⠚⠙⠁⠊⠍⠑　⠇⠑　⠃⠗⠁⠊⠇⠇⠑
