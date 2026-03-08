@@ -6,17 +6,21 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+const lang = process.env.QUARTZ_LANG || 'en';
+const base = "reiwa.ca"
+
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ross Strachan",
+    pageTitle: lang === 'ja' ? "ロス" : "Ross Strachan",
     pageTitleSuffix: "・Ross Strachan",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-GB",
-    baseUrl: "reiwa.ca",
+    locale: lang === 'ja' ? "ja-JP" : lang === 'fr' ? "fr-FR" : "en-GB",
+    baseUrl: lang === 'en' ? base : `${base}/${lang}`,
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
