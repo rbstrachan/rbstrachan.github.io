@@ -1,5 +1,5 @@
 ---
-draft:
+draft: true
 ---
 <!-- ![[static/me.jpg]] -->
 
@@ -52,11 +52,11 @@ Available for remote-freelance and hired work.
 * **Supported faculty and students** in delivering seminars on the effective use of college software and digital tools.
 
 ### Research Assistant ・ PhD Thesis Project
-*Remote (UK & Canada) ・ December 2021 — June 2023*
+*UK & Canada ・ December 2021 — June 2023*
 
 * **Collaborated globally**, assisting researchers across 3+ time zones (France, Canada and Japan).
 * **Securely managed** highly sensitive, confidential documents ensuring 100% availability while upholding strict security and encryption standards.
-
+<!-- expand! -->
 ---
 
 ## Education
@@ -83,5 +83,5 @@ Available for remote-freelance and hired work.
 
 ## Certificates
 
-* **[[TEFL Level 5 course|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language.
+* **[[tefl|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language.
 * **Certified Cybersecurity Analyst** ・ IBM (*August — December 2021*)
