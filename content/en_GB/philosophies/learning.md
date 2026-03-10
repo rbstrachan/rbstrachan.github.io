@@ -1,5 +1,8 @@
 ---
 draft: true
+title: my philosophy of learning
+aliases:
+  - my philosophy of learning
 ---
 <!-- Below are my axioms — the self-evident truths that justify why the rest of the guide exists. -->
 ## Anyone can learn a language regardless of the amount of money they can spend doing so

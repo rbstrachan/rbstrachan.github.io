@@ -1,4 +1,5 @@
 ---
+draft: true
 title: publications
 aliases:
   - publications
@@ -9,3 +10,5 @@ aliases:
 > For a list of in-progress work, see my [[research/index|research]].
 >
 > If you are interested in collaborating on research or technical writing, feel free to [get in touch](mailto:ross@reiwa.ca).
+
+***

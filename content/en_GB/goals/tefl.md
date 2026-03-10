@@ -5,6 +5,7 @@ aliases:
   - TEFL Level 5 diploma
   - TEFL Level 5 certification
 ---
+<!-- MOVE TO ACCREDITATIONS ONCE OBTAINED -->
 I'm currently working towards the **TEFL Level 5 diploma** with the goal of being able to teach English to students internationally. It consists of 10 units and 3 written assessments. I started this course on the 20th January 2026 and I expect to complete it on the 15th March 2026<!-- and received my certificate on [date] 2026-->.
 > [!info] Completion rate
 > 41/54 (75.9%)
