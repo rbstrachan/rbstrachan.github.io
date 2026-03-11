@@ -1,7 +1,7 @@
 ---
+draft: true
 aliases:
   - information architect
-draft: "true"
 ---
 what is an information architect? (note should be written on information architecture more than an information architect?)
 
