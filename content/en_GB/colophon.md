@@ -1,18 +1,15 @@
 This website is authored in [Obsidian](https://obsidian.md), converted into a static single-page application using [Quartz](https://quartz.jzhao.xyz/), routed through [Cloudflare](https://www.cloudflare.com/) and published via [GitHub Pages](https://docs.github.com/pages).
-
 ## Interactive Backgrounds
-The site features a series of interactive background animations[^custom], including [[keys|bouncing keys]], [[voronoi|Voronoi tesselation]], [[boids|boids flocking]] and a [[slime|Physarum slime simulation]][^intense]. Users may jump from one animation to another in the order listed above using the dedicated button located in the bottom right corner of the screen.<!-- If the interactive backgrounds are distracting or cause discomfort, they can be completely disabled by [...]. -->
-
+The site features a series of interactive background animations[^custom], including [[keys|bouncing keys]], [[voronoi|Voronoi tessellation]], [[boids|boids flocking]] and a [[slime|Physarum slime simulation]][^intense]. Users may jump from one animation to another in the order listed above using the dedicated button located in the bottom right corner of the screen.<!-- If the interactive backgrounds are distracting or cause discomfort, they can be completely disabled by [...]. -->
 ## Typography and Fonts
 Regarding typography, the headers are in the [Schibsted Grotesk](https://fonts.google.com/specimen/Schibsted+Grotesk) font family, the body text is rendered in [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3), and the code blocks are displayed in [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono), served via [Google Fonts](https://fonts.google.com/).
-
+## QArt Code
+The website's URL is encoded within a [QArt code](https://research.swtch.com/qr/draw/)[^rsc], viewable at [[qr]], which takes advantage of the properties of [[Reed-Solomon error correction]] to embedding the characters 令和 into the QR code’s body while ensuring it remains scannable.
 ## Accessibility
-<!--Accessibility is an important tenet of my [[philosophy of learning]].-->
+Accessibility is an important tenet of [[learning|my philosophy of learning]].
 This website aims to conform to the [Web Content Accessibility Guidelines 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) Level AA (Acceptable) or better[^tested] to maintain compliance with various international accessibility frameworks and legal standards.[^international] <!-- and other international accessibility standards for colour contrast and readability.-->
-
 ## Privacy
 This site does not use cookies, trackers or analytics of any kind. Your IP address may be collected by Cloudflare for their own analytical and DDOS-protection purposes, however this is outside my control and the analytics information is only accessible in the aggregate.[^ip]
-
 ## License and Copyright
 The pages of this website and their content are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The technical framework and source code are derivative works of an MIT-licensed project and are therefore themselves licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
@@ -21,3 +18,4 @@ The pages of this website and their content are licensed under [Creative Commons
 [^international]: This includes conformity with the aforementioned [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) as well [ATAG 2.0](https://www.w3.org/TR/ATAG20/), which serves as the basis for meeting legal accessibility requirements under the UK Equality Act, ADA Title III (USA), AODA (Canada), EN 301 549 (EU), and other regional frameworks such as the Australian DDA and Israeli Standard 5568.
 [^tested]: Tested using tools from the [World Wide Web Consortium](https://www.w3.org/)'s [Web Accessibility Initiative](https://www.w3.org/WAI/)'s [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/), including automated contrast checkers and manual keyboard navigation audits.
 [^ip]: That is to say, the Cloudflare dashboard may show three unique visitors from the United States on a given day, but no identifying information or individual IP addresses are disclosed.
+[^rsc]: [Russ Cox](https://swtch.com/~rsc/), the brilliant mind who created this tool wrote a [post detailing his research](https://research.swtch.com/field).

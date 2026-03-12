@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophies/index.md",
+                "file": "projects/QADDOE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "QADDOE"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:diploma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +185,18 @@
   },
   "active": "80e93f7314445b1f",
   "lastOpenFiles": [
-    "index.md",
-    "philosophies/index.md",
-    "contact.md",
     "philosophies/learning.md",
+    "goals/japanese.md",
+    "goals/piano.md",
+    "goals/steno.md",
+    "goals/tefl.md",
+    "goals/mlis.md",
+    "goals/bsc.md",
+    "code/animations/voronoi.md",
+    "colophon.md",
+    "philosophies/index.md",
+    "index.md",
+    "contact.md",
     "philosophies/ai.md",
     "code/index.md",
     "code/games/index.md",
@@ -197,10 +205,6 @@
     "accreditations/ibm.md",
     "accreditations/google.md",
     "accreditations/github.md",
-    "goals/tefl.md",
-    "goals/mlis.md",
-    "goals/japanese.md",
-    "goals/bsc.md",
     "research/index.md",
     "publications/index.md",
     "media/index.md",
@@ -208,10 +212,6 @@
     "philosophies",
     "cv.md",
     "accreditations/mlis.md",
-    "accreditations/tefl.md",
-    "guestbook.md",
-    "colophon.md",
-    "information architecture.md",
     "animations",
     "games",
     "applications",

@@ -1,6 +1,8 @@
 ---
 draft:
 css: qaddoe
+tags:
+  - qualitative-data-analysis
 ---
 <!-- use note cssclasses to add screenshot of qaddoe website as background image at 20% opacity -->
 <!-- Un logiciel d'analyse qualitative pour tous -->

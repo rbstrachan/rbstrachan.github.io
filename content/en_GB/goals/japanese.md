@@ -1,5 +1,7 @@
 ---
 draft: true
+tags:
+  - skill/language
 ---
 
 > [!abstract] Progress overview

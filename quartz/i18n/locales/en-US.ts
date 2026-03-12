@@ -67,7 +67,7 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Whoops! We weren't able to find the page you're looking for. Sorry about that.",
+      notFound: "Whoops! We weren't able to find the page you're looking for — sorry. Perhaps try searching for it on the homepage...",
       home: "← Return home",
     },
     folderContent: {

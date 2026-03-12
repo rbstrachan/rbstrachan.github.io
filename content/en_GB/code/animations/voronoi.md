@@ -1,8 +1,8 @@
 ---
-title: voronoi tesselation
-aliases:
-  - voronoi tesselation
 draft: ""
+title: voronoi tessellation
+aliases:
+  - voronoi tessellation
 ---
 > [!info] Coming soon!
 > This animation and a technical explanation of it's workings are being developed as we speak. Check back soon!
