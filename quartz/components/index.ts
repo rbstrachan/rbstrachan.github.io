@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import MathBackground from "./MathBackground"
 import SidebarLinks from "./SidebarLinks"
 import LanguagePicker from "./LanguagePicker"
+import BrailleScramble from "./BrailleScramble"
 
 export {
   ArticleTitle,
@@ -55,5 +56,6 @@ export {
   ConditionalRender,
   MathBackground,
   SidebarLinks,
-  LanguagePicker
+  LanguagePicker,
+  BrailleScramble
 }

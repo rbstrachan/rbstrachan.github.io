@@ -11,7 +11,7 @@ standards and accessibility, your research could involve:
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
 - Information Retrieval: How do library catalogs index tactile materials in multiple languages?
 -->
-I'm Ross, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training who enjoys mathematics, coding, automating things, and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for <!-- [[my philosophy of learning| -->free, open and accessible education<!-- ]] --> for everyone.
+I'm Ross, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training who enjoys mathematics, coding, automating things, and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
 I'm currently studying for the [[tefl|TEFL Level 5 diploma]]. <!-- Book a trial English or French lesson with me on [Preply]() or [italki]()! -->
 

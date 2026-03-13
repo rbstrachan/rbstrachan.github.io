@@ -128,7 +128,7 @@ function MathBackground() {
     <div id="math-bg-container">
       <div id="bg-canvas-host"></div>
       <div id="bg-controls">
-        <button id="toggle-bg" title="Switch Background">✧</button>
+        <button id="toggle-bg" title="Switch Background">✦</button>
       </div>
     </div>
   )

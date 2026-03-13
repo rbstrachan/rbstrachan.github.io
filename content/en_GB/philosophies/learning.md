@@ -6,7 +6,7 @@ aliases:
 ---
 This document outlines my beliefs regarding the acquisition of knowledge and the ethics of information delivery. The philosophies herein serve as the governing framework for all of the projects I work on and the content I produce.
 
-While these tenets are my personal convictions, they also act as an expression of my commitment to learner autonomy and the democratisation of information. I take seriously my responsibility %% as an information architect %%to ensure that the discovery of new information remains open to all whenever possible, regardless of the interface through which one engages with the world and I strive to do so by following these core beliefs.
+While these tenets are my personal convictions, they also act as an expression of my commitment to the autonomy of the learner and the democratisation of information. I take seriously my responsibility %% as an information architect %%to ensure that the discovery of new information remains open to all whenever possible, regardless of the interface through which one engages with the world.
 # Anyone can learn regardless of the amount of money they can spend doing so
 I strongly believe that education should be free and open. Access to high-quality information is not just an advantage, it's a fundamental human right.[^3] In a world driven by data, to be denied access to knowledge is to be denied the right and the opportunity to participate fully in society.[^4] To me, this is unethical. I advocate for all information to be free and open access. The value of information should be measured by how much it helps a person learn, not by the arbitrary price attached to it.[^5]
 # A person's situation should not limit their opportunities
