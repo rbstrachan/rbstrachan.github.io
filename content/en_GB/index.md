@@ -15,12 +15,12 @@ I'm Ross, an<!-- [[information architecture| --> **information architect**<!-- ]
 
 I'm currently studying for the [[tefl|TEFL Level 5 diploma]]. <!-- Book a trial English or French lesson with me on [Preply]() or [italki]()! -->
 
-My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] -->, specifically [[computational linguistics]]. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.
-<!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardization of Braille]]. -->
+My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specificallysipecifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.
+<!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardisation of Braille]]. -->
 <!-- This sentence is too heavy for the front page, move it elsewhere:
 My goal is to eventually work in a role where I can actively develop and improve library services, including braille and accessible materials, to ensure everyone has equal access to information. -->
 
-This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, [[code/tools/index|tools]] I've created, [[media]] I'm consuming as well as notes and documentation on my personal [[research/index|research]] and <!--related--> [[publications/index|publications]]. <!--You'll also find notes I have written on topics that interest me. -->
+This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, animations and tools I've [[code/index|coded]], <!--[[media]] I'm consuming-->[[goals/index|goals]] I'm working towards as well as notes and documentation on my personal <!--[[research/index|-->**research**<!--]]--> and <!--[[publications/index|-->**publications**<!--]]-->. <!--You'll also find notes I have written on topics that interest me. -->
 <!--
 - [ ] accreditations
 - [ ] code

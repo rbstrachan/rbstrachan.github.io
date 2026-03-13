@@ -4,7 +4,7 @@ The site features a series of interactive background animations[^custom], includ
 ## Typography and Fonts
 Regarding typography, the headers are in the [Schibsted Grotesk](https://fonts.google.com/specimen/Schibsted+Grotesk) font family, the body text is rendered in [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3), and the code blocks are displayed in [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono), served via [Google Fonts](https://fonts.google.com/).
 ## QArt Code
-The website's URL is encoded within a [QArt code](https://research.swtch.com/qr/draw/)[^rsc], viewable at [[qr]], which takes advantage of the properties of [[Reed-Solomon error correction]] to embedding the characters 令和 into the QR code’s body while ensuring it remains scannable.
+The website's URL is encoded within a [QArt code](https://research.swtch.com/qr/draw/)[^rsc], viewable at [[qr]], which takes advantage of the properties of [[Reed-Solomon error correction]] to embed the characters 令和 into the QR code’s body while ensuring it remains scannable.
 ## Accessibility
 Accessibility is an important tenet of [[learning|my philosophy of learning]].
 This website aims to conform to the [Web Content Accessibility Guidelines 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) Level AA (Acceptable) or better[^tested] to maintain compliance with various international accessibility frameworks and legal standards.[^international] <!-- and other international accessibility standards for colour contrast and readability.-->

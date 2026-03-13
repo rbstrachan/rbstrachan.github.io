@@ -35,6 +35,16 @@
 //   pointer-events: none; // Ensures you can still click things
 // }
 
+// custom fonts
+@font-face {
+  font-family: "Neo Castel";
+  src: url("./static/fonts/Neo-castel.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+// sidebar
 .sidebar,
 .graph,
 .backlinks,
@@ -46,7 +56,6 @@ button,
   user-select: none;
 }
 
-// sidelar links
 .sidebar-links {
   display: flex;
   flex-direction: column;
