@@ -54,6 +54,9 @@ export default (() => {
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+        <link href='https://calendar.google.com/calendar/scheduling-button-script.css' rel='stylesheet' type='text/css' />
+        <script src='https://calendar.google.com/calendar/scheduling-button-script.js' async></script>
+
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />

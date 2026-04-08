@@ -27,6 +27,8 @@ import MathBackground from "./MathBackground"
 import SidebarLinks from "./SidebarLinks"
 import LanguagePicker from "./LanguagePicker"
 import BrailleScramble from "./BrailleScramble"
+import AsciiPlasma from "./AsciiPlasma"
+import BookingButton from "./BookingButton"
 
 export {
   ArticleTitle,
@@ -57,5 +59,7 @@ export {
   MathBackground,
   SidebarLinks,
   LanguagePicker,
-  BrailleScramble
+  BrailleScramble,
+  AsciiPlasma,
+  BookingButton
 }

@@ -10,4 +10,5 @@ function SidebarLinks() {
 }
 
 export default (() => SidebarLinks) satisfies QuartzComponentConstructor
+// <a href="/lessons">Language Lessons</a>
 // <a href="/shop">Shop</a>

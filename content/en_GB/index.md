@@ -1,7 +1,6 @@
 ---
 title: Welcome!
 ---
-<!-- background animations should be disable-able for people who prefer reduced animations and people who require the site to conform to WCAG guidelines. -->
 <!-- add ロス（侶寿）to Japanese translation -->
 <!-- cross-linguistic evolution and standardization of Braille research
 cross-linguistic Braille evolution
@@ -13,7 +12,7 @@ standards and accessibility, your research could involve:
 -->
 I'm Ross, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training who enjoys mathematics, coding, automating things, and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
-I'm currently studying for the [[tefl|TEFL Level 5 diploma]]. <!-- Book a trial English or French lesson with me on [Preply]() or [italki]()! -->
+I'm currently studying for the [[tefl|TEFL Level 5 diploma]]. <!--I offer language lessons in English and French. [[lessons|Book a free trial lesson]] with me directly or on [Preply]() or [italki]()! today.-->
 
 My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specificallysipecifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.
 <!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardisation of Braille]]. -->
@@ -40,7 +39,7 @@ This website serves as a central reference hub for information on [[projects/ind
 - [ ] guides (free) - Reiwa's guide to natural fluency
 - [ ] -->
 
-I'm currently in [[Japan|🇯🇵 Japan]]. I'm available for both remote-freelance and hired work — [[cv|interact with my CV]] or [get in touch](mailto:ross@reiwa.ca).
+I'm currently in <!--[[Japan|🇯🇵 Japan]]-->**🇯🇵 Japan**. I'm available for both remote-freelance and hired work — <!--[[cv|interact with my CV]] or-->please don't hesitate to [get in touch](mailto:ross@reiwa.ca).
 
 Want to drop a digital note? Sign the [[guestbook]]!
 
@@ -48,9 +47,9 @@ Want to drop a digital note? Sign the [[guestbook]]!
 
 ⠊　⠇⠕⠧⠑　⠃⠗⠁⠊⠇⠇⠑
 
-> [!todo] This website is a work in progress...
+> [!todo]- This website is a work in progress...
 > Building this personal space is a relatively new project and my first foray into "linked knowledge management." As I transition my notes from a private vault to this public one, you’ll find many areas that are still in their early stages.
-> 
+>
 > I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here! Check back soon!
 
 %%
