@@ -21,15 +21,15 @@ A summary of these accreditations is provided below. Click on a title to find ou
 ## Current
 *Qualifications that I am currently studying for.*
 - [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ March 2026
-	- Focuses on advanced English pedagogy, lesson planning, and linguistic analysis.
+	- Advanced English pedagogy, lesson planning, and linguistic analysis.
 	- Intended to allow me to teach English online, while bridging the gap between my [[research/index|research]] and my ability to communicate complex systems to diverse audiences.
 ## Completed
 *Past certifications that I have finished. Links are provided to verify certificates.*
-- [IBM Cybersecurity Analyst](https://coursera.org/share/62f893485e757fcd49dacc29ca0fecf5) (Grade 96/100) ・ Coursera ・ 2021 
+- [IBM Cybersecurity Analyst](https://coursera.org/share/62f893485e757fcd49dacc29ca0fecf5) (Grade 96/100) ・ Coursera ・ 2021
 - [Data Science Math Skills](https://coursera.org/share/9671e583075914278e0fc008064e17e2) (Grade 92/100) ・ Coursera ・ 2020
 - HNC Applied Sciences ・ NESCOL ・ 2017
 # Professional Associations
-- IOP
+- IOP (from–to)
 ***
 %%
 - [ ] GitHub Foundations

@@ -54,7 +54,7 @@
 
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export default ((url: string) => {
+export default (() => {
   const BookingButton: QuartzComponent = () => {
     return null
   }

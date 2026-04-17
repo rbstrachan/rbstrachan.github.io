@@ -1,5 +1,4 @@
 ---
-draft: false
 title: my philosophy of learning
 aliases:
   - my philosophy of learning

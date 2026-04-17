@@ -14,7 +14,8 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/rbstrachan",
       Contact: "/contact",
       Colophon: "/colophon",
-      Acknowledgements: "/acknowledgements"
+      Acknowledgements: "/acknowledgements",
+      Legal: "/legal/"
     },
   }),
 }
@@ -54,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     // Component.BrailleScramble(),
-    // Component.BookingButton(),
+    Component.BookingButton(),
   ],
   left: [
     Component.PageTitle(),

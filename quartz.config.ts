@@ -12,7 +12,7 @@ const base = "reiwa.ca"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: lang === 'ja' ? "侶寿（ロス）" : "Ross Strachan",
+    pageTitle: lang === 'ja' ? "令和・路数" : "Ross Strachan",
     pageTitleSuffix: "・Ross Strachan",
     enableSPA: true,
     enablePopovers: true,
