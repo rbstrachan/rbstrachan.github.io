@@ -1,11 +1,13 @@
 ---
-draft: true
-title: language tutoring
+draft:
+title: language services
 aliases:
-  - language tutoring
+  - language services
 ---
 
-I offer private 1-on-1 and group language tutoring in both English and French. I also provide a language progress audit for learners that prefer to go solo.
+I offer private 1-on-1 and group language tutoring in both English and French. I also provide a language learning progress audit for learners that prefer to go it solo<!--as well as advanced fluency skills courses for students that want to learn native-level language skills that go beyond even the most advanced textbooks-->.
 
-You can find out more about the language tutoring services I offer below.
+You can find out more about the language services I offer below. Please feel free to [contact me](mailto:ross@reiwa.ca) should you have any questions or concerns.
+
+The below services are governed by [[legal|legal and service agreements]].
 ***

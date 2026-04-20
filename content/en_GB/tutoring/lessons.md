@@ -1,5 +1,5 @@
 ---
-draft: true
+draft:
 title: English and French language lessons
 aliases:
   - English and French language lessons
@@ -13,8 +13,8 @@ Personalised, guided learning for students that want to see genuine, applicable 
 
 Targeted lessons designed to build confidence in real-world scenarios. Focusing on everyday communication, travel preparation and the nuances of daily life, these lessons bridge the gap between textbook language and the way people actually speak.
 -->
-
-Spaces are available for 1-on-1 and group lessons for all levels (A1–C2) in both English and French.
+With a library of **over 1,400 lessons** across both languages, I have spaces available for 1-on-1 and group lessons at **all levels <nobr>(A0–C2)</nobr>**[^A0] in both English and French.
+<!-- Spaces are available for 1-on-1 and group lessons for all levels (A1–C2) in both English and French. -->
 <!-- Limited spaces are also available for Business English and Business French classes. -->
 
 I can help you:
@@ -55,7 +55,7 @@ For natural day-to-day conversation, social interaction, and practical language 
 <span style="margin-bottom:-10px"></span>
 > [!tip]+ Early bird offer for the next 10 students!
 > To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early]
-> | Lesson | Standard<span style="opacity: 0%">00000</span> | Early Bird |
+> |  | Standard<span style="opacity: 0%">00000</span> | Early Bird |
 > | :--- | ---: | :--- |
 > | **Single Lesson** | ~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 -> | **£18** |
 > | **12-Hour Block** | ~~£21/hr (£252)~~　 -> | **£15.75/hr (£189)** |
@@ -105,10 +105,9 @@ To ensure transfers are quick and easy, several payment methods are available. P
 
 | Payment&nbsp;method | |
 | ---: | --- |
-| **Direct Transfer**<br>(Recommended)<br>&nbsp; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IBAN**. Available for UK, EU, US, CA and JP.<br>**Get an additional one-hour lesson for free per block of 12 hours paid via direct transfer.**<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
-| **Stripe**<br>&nbsp; | For secure payments from a **bank account**, **bank card**<!--[^1]--> or **digital wallet**<!--[^2] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
-| | |
-| **Buy Now Pay Later**<br>&nbsp;<br>&nbsp; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**.<br>**BNPL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
+| **Direct Transfer**<br>(Recommended) | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IBAN**. Available for UK, EU, US, CA and JP.<br>**Get an additional one-hour lesson for free per block of 12 hours paid via direct transfer.**<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
+| **Stripe** | For secure payments from a **bank account**, **bank card**<!--[^1]--> or **digital wallet**<!--[^2] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
+| **Buy Now Pay Later**<br>&nbsp; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**.<br>**BNPL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
 
 <!-- | **Konbini**<br>&nbsp; | In Japan? Pay with ease at a local **7-11**, **Family Mart** or **Lawson** konbini.<br>LOGOS HERE | -->
 *PayPal transfers, mobile carrier billing and prepaid vouchers are not currently supported.*
@@ -129,6 +128,7 @@ To ensure transfers are quick and easy, several payment methods are available. P
 <!-- [^1]: Includes international debit and credit cards from American Express, Cartes Bancaires, China UnionPay, Diners Club, Discover, eftpos Australia, Interac, JCB, Mastercard, Visa.
 [^2]: Includes Alipay, Amazon Pay, Apple Pay, Cash App Pay, Google Pay, GrabPay, Kakao Pay, Link, Naver Pay, PayCo, PayPal, PayPay, Revolut Pay, Samsung Pay, satispay, WeChat Pay. -->
 
+[^A0]: While the official [CEFR scale]() begins at A1, I use A0 to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
 [^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **July 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
-[^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when the Early Bird discount and the 36 hour block discount are applied together.
+[^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.

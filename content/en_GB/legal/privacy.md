@@ -6,33 +6,37 @@ aliases:
 
 **Effective Date: April 16, 2026**
 
-**Ross Strachan**, a British national operating online ([reiwa.ca](https://reiwa.ca)), is committed to protecting your personal data. This Policy explains our data handling practices in compliance with the UK/EU GDPR, Japan’s Act on the Protection of Personal Information (APPI), and Canadian privacy laws.
+**Ross Strachan**, a British national operating online ([reiwa.ca](https://reiwa.ca)), is committed to protecting your personal data. This Policy explains our data handling practices in compliance with the UK/EU GDPR, Japan’s Act on the Protection of Personal Information (APPI) and Canadian privacy laws.
 
-As a sole trader, I am the Data Controller for your information. For any privacy inquiries, contact [legal@reiwa.ca](mailto:legal@reiwa.ca).
+As a sole trader, I am the Data Controller for your information. For privacy inquiries, please contact [legal@reiwa.ca](mailto:legal@reiwa.ca).
 
----
+***
 
 ## Data We Collect
 
 | Category | Data Points Included |
 | :--- | :--- |
-| **Identity&nbsp;&&nbsp;Contact** | Name, email address, and timezone. |
+| **Identity&nbsp;&&nbsp;Contact** | Name, email address and timezone. |
 | **Audio-Visual Data** | Video and audio recordings of online lessons. |
 | **Financial Data**<br>&nbsp;<br>&nbsp; | Payment details and billing address.<br>*Payments are processed via third-party providers (Stripe, PayPal, Wise, etc.). I do not store nor have access to full credit card numbers or bank credentials.* |
-| **Academic Data** | Lesson notes, homework submissions, and progress assessments. |
+| **Academic Data** | Lesson notes, homework submissions and progress assessments. |
 | **Technical Data** | Video call IDs and basic metadata required to facilitate online sessions (Zoom/Google Meet). |
 
 ## Session Recordings
-For the safety, security and educational benefit of both parties, all lessons are recorded. Recordings are used for security, quality assurance, and dispute resolution. They are also made available to the Student for personal study. Lesson recordings are stored for **90 days** from the date of the session, after which they are permanently deleted. <u>**By booking a lesson, you provide explicit consent for the recording of the session. You may withdraw consent at any time, though this will result in the termination of the tutoring agreement as recordings are a mandatory safety requirement for my service.**</u>
+For the safety, security and educational benefit of both parties, all lessons are recorded. Recordings may be used for purposes including, but not limited to, security, quality assurance and dispute resolution. They will also be made available to the Student for personal study. Lesson recordings are stored for **90 days** from the date of the session, after which they are permanently deleted.
+> [!error] Mandatory Recording for Safeguarding
+> **Recording is a non-negotiable condition of service. By booking a lesson, you provide explicit consent for the recording of the session. You may withdraw consent to be recorded at any time via verbal or written notice, however doing so will result in the immediate termination of services as safety and insurance obligations cannot be fulfilled without a record of the session.**
+>
+> For more information, please see the [[tos|terms of service]].
 
 ## How We Use Your Data
 
-| Purpose | Description |
-| :--- | :--- |
-| **Contractual Necessity** | To schedule, deliver and manage your language lessons. |
-| **Communication** | To send automated lesson reminders, invoices and study materials. |
-| **Legal Compliance** | To maintain records for tax and accounting purposes (e.g., HMRC in the UK). |
-| **Security** | To protect the Tutor and Student through session recording and identity verification. |
+| Purpose | Lawful Basis | Description |
+| :--- | :--- | :--- |
+| **Service Delivery** | Contractual&nbsp;Necessity | To schedule, deliver and manage your language lessons. |
+| **Communication** | Contractual Necessity | To send automated lesson reminders, invoices and study materials. |
+| **Legal Compliance** | Legal Obligation | To maintain records for tax and accounting purposes. |
+| **Safeguarding & Security** | Legitimate Interests<br>&nbsp; | To protect the Tutor and Student through session recording, identity verification and dispute resolution. |
 
 ## Data Sharing & International Transfers
 I do not sell or lease your data to third parties. Data is only shared with the following essential service providers to facilitate lessons.
@@ -42,7 +46,7 @@ I do not sell or lease your data to third parties. Data is only shared with the 
 | **Communication&nbsp;&&nbsp;Video** | Google Workspace, Zoom or similar encrypted video meeting platforms. |
 | **Payments** | Stripe, PayPal, Wise or Revolut. |
 | **Scheduling** | Online booking calendar tools, such as Cal.com. |
-| **International Transfer**<br>&nbsp; | As a global service, your data may be processed in the UK, Canada, or Japan. All service providers used are compliant with GDPR-equivalent data protection standards. |
+| **International Transfer**<br>&nbsp; | As a global service, your data may be processed in the UK, Canada or Japan. All service providers used are compliant with GDPR-equivalent data protection standards. |
 
 ## Storage & Security
 

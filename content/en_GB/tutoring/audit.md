@@ -46,7 +46,6 @@ Also, to ensure your strategy remains tailored to your situation and setup, a ch
 | Subsequent Check-up(s) | <span style="color: grey">~~£25~~ -></span> **£15** |
 ***
 
-
 ### Transitioning to Tutoring
 If, after our session, you decide you would like a consistent guide to help you execute your roadmap:
 * **The Audit Bonus:** Book a block of **12 or more lessons** following your audit, and I will credit you with **2 additional hours of tutoring for free.**
