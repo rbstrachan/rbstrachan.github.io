@@ -18,7 +18,7 @@ Stuck in your studies despite consistent effort? Book a 60-minute Language Progr
 > Schedule via calendar or email. One-off session, results within 48 hours.
 
 spend less time guessing and more time progressing
-This service is designed for students who prefer self-study but feel stuck, overwhelmed, or uncertain of their progress.
+This service is designed for students who prefer self-study but feel stuck, overwhelmed or uncertain of their progress.
 This **language progress audit** is a one-off, intensive 60-minute deep dive into your current study habits, your "interface" with the language, and your specific goals.
 We will:
 <!-- this needs to be completely rewritten -->

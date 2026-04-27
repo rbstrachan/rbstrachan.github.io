@@ -1,6 +1,6 @@
 ---
 draft: true
-title: ai stance
+title: my stance on generative AI
 aliases:
-  - ai stance
+  - my stance on generative AI
 ---

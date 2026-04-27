@@ -8,7 +8,7 @@ This folder serves as a structured repository of my education qualifications, pr
 
 A summary of these accreditations is provided below. Click on a title to find out more information.
 > [!info] Know a course that might suit me?
-> I’m always looking for new courses and certifications to keep pace with the latest in math, computer science, and library and information sciences.
+> I’m always looking for new courses and certifications to keep pace with the latest in math, computer science and library and information sciences.
 > If you have any recommendations for programs that would help me sharpen my skills or align with my work in [[projects/index|projects]], [[tools/index|tools]] or [[research/index|research]], please feel free to [[contact|get in touch]].
 
 ***
@@ -21,7 +21,7 @@ A summary of these accreditations is provided below. Click on a title to find ou
 ## Current
 *Qualifications that I am currently studying for.*
 - [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ March 2026
-	- Advanced English pedagogy, lesson planning, and linguistic analysis.
+	- Advanced English pedagogy, lesson planning and linguistic analysis.
 	- Intended to allow me to teach English online, while bridging the gap between my [[research/index|research]] and my ability to communicate complex systems to diverse audiences.
 ## Completed
 *Past certifications that I have finished. Links are provided to verify certificates.*

@@ -1,11 +1,11 @@
 **onkunfuri** is a Japanese-language project that provides a robust and highly accurate system for classifying Japanese kanji readings as on‑yomi or kun‑yomi directly from dictionary-style entries. It is designed to handle real‑world lexical data, including edge cases that commonly cause misclassification in naïve implementations.
 
-The classifier processes `kanji[reading]` mappings and applies linguistic rules, dictionary data, and optional manual overrides to produce consistent and explainable results.
+The classifier processes `kanji[reading]` mappings and applies linguistic rules, dictionary data and optional manual overrides to produce consistent and explainable results.
 
 > [!success] Download the data
 > Below is a brief overview of this project. For more information, see the project's [GitHub repository](https://github.com/rbstrachan/onkunfuri).
 >
-> Found a mistake? Want to make an improvement? Contributions are welcome! Feel free to [download the latest release](https://github.com/rbstrachan/onkunfuri/releases/latest) to get a sense for the dataset, [fork the repo](https://github.com/rbstrachan/onkunfuri/fork) to make your changes, or [open an issue](https://github.com/rbstrachan/onkunfuri/issues) to start a discussion.
+> Found a mistake? Want to make an improvement? Contributions are welcome! Feel free to [download the latest release](https://github.com/rbstrachan/onkunfuri/releases/latest) to get a sense for the dataset, [fork the repo](https://github.com/rbstrachan/onkunfuri/fork) to make your changes or [open an issue](https://github.com/rbstrachan/onkunfuri/issues) to start a discussion.
 
 # Features
 **onkunfuri** is capable of accurately handling a wide range of Japanese orthographic and phonological quirks that complicate kanji reading classification.

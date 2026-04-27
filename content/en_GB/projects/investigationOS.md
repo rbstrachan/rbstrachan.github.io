@@ -1,22 +1,22 @@
 <!-- **[investigationOS](https://github.com/rbstrachan/investigationOS)** -->
-**investigationOS** is a free, open-source [Obsidian](https://obsidian.md) vault designed to provide a standardised, scalable framework for structuring, organising and managing source information uncovered during criminal investigations. By moving away from unstructured paper notes and toward a relational database model, it ensures that every piece of evidence is tracked, corroborated, and auditable; transforming a standard knowledge base into a forensic-ready records management system.
+**investigationOS** is a free, open-source [Obsidian](https://obsidian.md) vault designed to provide a standardised, scalable framework for structuring, organising and managing source information uncovered during criminal investigations. By moving away from unstructured paper notes and toward a relational database model, it ensures that every piece of evidence is tracked, corroborated and auditable; transforming a standard knowledge base into a forensic-ready records management system.
 
 > [!error] In development
 > **investigationOS** is a new project and is still under development.\
-> This means it isn't ready for public consuption just yet.\
+> This means it isn't ready for public consumption just yet.\
 > Seem like an interesting project? [Get in contact](mailto:ross@reiwa.ca) with me to discuss how we can work together.
 
 <!-- > [!success] Get started with investigationOS
 > This note serves to provide cursory information on the **investigationOS** vault.
 >
-> For more in-depth information, see our [guide to getting started with **investigationOS**](https://reiwa.ca/investigationOS).\
+> For more in-depth information, see our [guide to getting started with **investigationOS**](https://docs.reiwa.ca/investigationOS).\
 > Ready to document your first investigation? [See the latest **investigationOS** vault release](https://github.com/rbstrachan/investigationOS). -->
 
 # Goal
-The primary goal of **investigationOS** is to eliminate ephemeral knowledge loss. By forcing the documentation of every logical connection, the vault ensures that if a lead investigator is removed from a case, any successor can reconstruct the investigation’s progress, rationale, and evidentiary chain without gaps.
+The primary goal of **investigationOS** is to eliminate ephemeral knowledge loss. By forcing the documentation of every logical connection, the vault ensures that if a lead investigator is removed from a case, any successor can reconstruct the investigation’s progress, rationale and evidentiary chain without gaps.
 # Folder Structure
 The vault is divided into several folders to allow the easy organisation and ease of connections between raw data.
-- **meta/** — houses files necessary for the working of the vault itself, including investigative personnel profiles, attachments, and automation templates.
+- **meta/** — houses files necessary for the working of the vault itself, including investigative personnel profiles, attachments and automation templates.
 - **bases/** — centralized Obsidian Bases views that take advantage of Obsidian's frontmatter properties to provide high-level indexes for people, evidence, leads and more.
 - **source data/** — where all individual notes will be created. each folder corresponds to a specific information type in the investigation.
 - **case overview** — the primary dashboard for the investigation.

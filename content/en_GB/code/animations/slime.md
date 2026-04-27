@@ -16,7 +16,7 @@ s_y=a_y+d\sin(θ+ϕ)
 $$
 where $s$ is a sensor and $a$ is the agent. The agent "samples" the trail map at these coordinates to determine the local pheromone concentration $C$.
 ## Steering
-The agent's movement is governed by a simple steering rule based on the sampled concentrations $C_L$, $C_F$, and $C_R$. To decide the next heading $θ(t+1)$, the agent follows the gradient of the highest concentration.
+The agent's movement is governed by a simple steering rule based on the sampled concentrations $C_L$, $C_F$ and $C_R$. To decide the next heading $θ(t+1)$, the agent follows the gradient of the highest concentration.
 
 If $C_F > C_L$ and $C_F > C_R$, the agent continues straight, so $Δθ=0$. If $C_F < C_L$ and $C_F < C_R$, the agent randomly rotates either left or right by the rotation angle $α$. Otherwise, it rotates toward the side with the higher concentration.
 ## Decay

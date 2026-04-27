@@ -4,7 +4,7 @@ title: English and French language lessons
 aliases:
   - English and French language lessons
 ---
-As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada**, and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I hold a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**. I speak both **English** and **French** fluently.
+As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I hold a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**. I speak both **English** and **French** fluently.
 
 <!-- PROMOTIONAL COPY
 These lessons are designed to motivate, inspire and support you through your language learning journey; lower cognitive debt by fixing bad habits and preventing mistakes as they happen, and; etc.^[?].
@@ -21,7 +21,7 @@ I can help you:
 * **learn targeted vocabulary and grammar** to build natural and functional vocabularies, both active and passive.
 * **overcome the intermediate plateau** with targeted strategies to move beyond B1/B2 into advanced, native-like fluency.
 * **correct mistakes in real time** to help you identify and immediately fix mistakes and prevent bad habits forming.
-* **hold a natural conversation** by mastering the nuance, slang, and rhythm used by native speakers.
+* **hold a natural conversation** by mastering the nuance, slang and rhythm used by native speakers.
 
 > [!success] Ready to get started?
 > **Book a free 45-minute trial lesson.**\
@@ -50,13 +50,14 @@ A discount of **5% per student** (up to 6 students) applies to any lesson where 
 > - **Lessons blocks** are the most popular choice and are designed for **students with specific goals** (such as consistent growth or exam preparation) who wish to commit to a schedule. Lesson blocks offer a significant discount over the price of a single lesson.[^block]
 
 ## Standard
-For natural day-to-day conversation, social interaction, and practical language skills for travel and daily life through comprehensive practice of speaking, listening and grammar fundamentals.\
+For natural day-to-day conversation, social interaction and practical language skills for travel and daily life through comprehensive practice of speaking, listening and grammar fundamentals.\
 *Business lessons are coming soon! Please [get in touch](mailto:ross@reiwa.ca) if you'd like to discuss taking a business class.*
 <span style="margin-bottom:-10px"></span>
 > [!tip]+ Early bird offer for the next 10 students!
-> To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early]
+> To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
 > |  | Standard<span style="opacity: 0%">00000</span> | Early Bird |
 > | :--- | ---: | :--- |
+> | **Trial Lesson**  | Free | Free |
 > | **Single Lesson** | ~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 -> | **£18** |
 > | **12-Hour Block** | ~~£21/hr (£252)~~　 -> | **£15.75/hr (£189)** |
 > | **36-Hour Block** | ~~£19/hr (£684)~~　 -> | **£14/hr (£504)** |
@@ -71,7 +72,7 @@ For natural day-to-day conversation, social interaction, and practical language 
 | **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | **North America**<br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) |
 
 <!-- ## Business
-*Advanced professional communication, including corporate etiquette, interview preparation, and industry-specific terminology.*
+*Advanced professional communication, including corporate etiquette, interview preparation and industry-specific terminology.*
 
 emphasize:
 provide bespoke industry-specific resources.
@@ -120,7 +121,7 @@ To ensure transfers are quick and easy, several payment methods are available. P
 > - **Only select this option if you are certain you have the funds to meet the scheduled payments in full and on time, every time.**
 > - **Please consider your overall budget before committing to a long-term payment plan.**
 >
-> Your progress is our priority, and that includes your financial peace of mind. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch]() and I'll work with you to find a better plan.
+> Your progress is our priority and that includes your financial peace of mind. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch]() and I'll work with you to find a better plan.
 
 ***
 <span style="opacity:50%">Please make sure you have read, understood and agreed to the required [[legal|legal agreements]] before booking a lesson.</span>
@@ -131,4 +132,4 @@ To ensure transfers are quick and easy, several payment methods are available. P
 [^A0]: While the official [CEFR scale]() begins at A1, I use A0 to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
 [^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **July 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
-[^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.
+[^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.  
