@@ -6,3 +6,42 @@ aliases:
 tags:
   - accreditation/degree
 ---
+- Computing
+  - Stage 1
+    - Introduction to computing and information technology 1 (TM111)
+    - Introduction to computing and information technology 2 (TM112)
+  - Stage 2 (any of 4 pathways)
+    - Cisco networking (CCNA) part 1 (TM257)
+    - Communication and information technologies (TM255)
+    - ***
+    - Object-oriented Java programming (M250)
+    - Algorithms, data structures and computability (M269)
+    - ***
+    - Managing IT: the why, the what and the how (TM254)
+    - Object-oriented Java programming (M250)
+    - ***
+    - Web technologies (TM252)
+    - Object-oriented Java programming (M250)
+  - Stage 3 (1 + project)
+    - Cisco networking (CCNA) part 2 (TM357)
+    - Communications technology (TM355)
+    - Data management and analysis (TM351)
+    - Interaction design and the user experience (TM356)
+    - IT systems: planning for success (TM353)
+    - Software engineering (TM354)
+    - Web, mobile and cloud technologies (TM352)
+    - The computing and IT project (TM470)
+- Mathematics
+  - Stage 1
+    - Essential mathematics 1 (MST124) 30
+    - Essential mathematics 2 (MST125) 30
+  - Stage 2 (1 of 2)
+    - Pure mathematics (M208) 60
+    - Mathematical methods, models and modelling (MST210) 60
+  - Stage 3 (60 credits)
+    - Complex analysis (M337) 30
+    - Computational applied mathematics (MST374) 30
+    - Deterministic and stochastic dynamics (MS327) 30
+    - Further pure mathematics (M303) 60
+    - Graphs, games and designs (MST368) 30
+    - Mathematical methods and fluid mechanics (MST326) 30

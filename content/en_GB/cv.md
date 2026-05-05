@@ -12,7 +12,7 @@ draft: true
 **Looking to develop natural, native-like English skills? [Get in touch](mailto:ross@reiwa.ca) to book a trial lesson with me today!**
 %% THIS IS RUBBISH REWRITE %%
 > [!info] Professional Summary
-> **Multilingual educator** and **software developer** focused on intuitive, real-world English fluency. Looking to pursue an MLIS (Master’s in Library & Information Science) to apply research-led data organization methodologies to ESL curriculum design. Specializing in bridging the gap between technical complexity and accessible learning, concentrating on C1-level French support, neurodivergent-friendly pedagogy, and real-world readiness for international professionals.
+> **Multilingual educator** and **software developer** focused on intuitive, real-world English fluency. Looking to pursue an MLIS (Master’s in Library & Information Science) to apply research-led data organization methodologies to ESL curriculum design. Specializing in bridging the gap between technical complexity and accessible learning, concentrating on C1-level French support, neurodivergent-friendly pedagogy and real-world readiness for international professionals.
 
 ***
 ## Skills & Technical Proficiencies
