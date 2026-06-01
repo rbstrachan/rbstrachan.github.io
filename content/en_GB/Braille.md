@@ -1,6 +1,6 @@
-**Braille** is a system of encoding written language into a grid of six or eight raised dots, allowing blind and visually impaired people to read and write using their sense of touch. These patterns of raised dots, called **Braille** cells, can represent individual letters, specific sounds or even entire words.
+**Braille** is a system of encoding written language into a grid of (usually six or eight) raised dots, allowing blind and visually impaired people to read and write using their sense of touch. Such patterns of raised dots, individually called **Braille** *cells*, can represent individual letters, specific sounds or even entire words and phrases.
 
-While almost every language has an equivalent **Braille** system, the way in which language specific rules and writing systems are encoded can vary significantly.
+While almost every language has an equivalent **Braille** system, the way in which language specific rules and writing systems are encoded varies significantly.
 
 %% Have a play around with my [English to Braille converter](). %%
 
@@ -9,9 +9,8 @@ While almost every language has an equivalent **Braille** system, the way in whi
 %%
 > [!info] The text on this page is interactive
 > Hover over the <span style="font-family: monospace;">monospace</span> text to reveal a themed animation.
-%%
 
-%% <div
+<div
   class="text-block"
   data-braille-scramble
   data-radius="80"
@@ -20,6 +19,7 @@ While almost every language has an equivalent **Braille** system, the way in whi
   data-scramble-chars=" "
 >
   <p><strong>Hello, I'm Ross, an information architect-in-training driven by a passion for accessible information and inclusive design. I'm developing tools and services to help bridge the quality of life gap for the Blind and Visually Impaired community.</strong></p>
-</div> %%
+</div>
 
-%% Hello, I'm Ross. Through my Master's in Library & Information Sciences and direct outreach, I create tools and services to improve the quality of life for Blind & Visually Impaired individuals. %%
+Through my Master's in Library & Information Sciences and direct outreach, I create tools and services to improve the quality of life for Blind & Visually Impaired individuals.
+%%

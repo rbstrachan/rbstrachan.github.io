@@ -1,18 +1,19 @@
 ---
-title: Welcome!
+title: reiwa.ca
+cssclasses: no-page-header
 ---
 <!-- add ロス（侶寿）to Japanese translation -->
-<!-- cross-linguistic evolution and standardization of Braille research
+<!-- cross-linguistic evolution and standardisation of Braille research
 cross-linguistic Braille evolution
 standards and accessibility, your research could involve:
 - Transcription Standards: Comparing how different languages handle "contractions" (Grade 2 Braille). For example, how French Braille handles accented characters versus how Japanese Tenji uses a completely different phonetic cell structure.
 - Digital Interoperability: Investigating how BRF (Braille Ready Files) and PEF (Portable Embosser Format) handle multilingual texts.
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
-- Information Retrieval: How do library catalogs index tactile materials in multiple languages?
+- Information Retrieval: How do library catalogues index tactile materials in multiple languages?
 -->
-I'm Ross, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
+Hello! I'm *Ross*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿 who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
-I'm currently studying for the [[tefl|TEFL Level 5 diploma]].\
+I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]--><a href="tefl"><small>TEFL</small> Level 5 diploma</a>.\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
 
 My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specificallysipecifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.

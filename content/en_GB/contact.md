@@ -1,11 +1,23 @@
+---
+cssclasses: no-dropcap-no-smallcaps
+---
 <style>
-  p .external-icon {
+  article p {
+    margin-bottom: 11px;
+  }
+  article p:has(a) {
+    margin: 0;
+  }
+  article p .external-icon {
     display: none !important;
     width: 0 !important;
     height: 0 !important;
   }
-  p a {
+  article p a {
     padding-right: 15px;
+  }
+  article img {
+    margin: 0;
   }
 </style>
 Want to get in touch? Feel free to contact me via any of the below methods!
@@ -16,7 +28,7 @@ Want to get in touch? Feel free to contact me via any of the below methods!
   <a href="https://discord.com/app"><img src="https://img.shields.io/badge/Discord-reiwa-333?labelColor=5865F2&amp;style=flat&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
 </p>
 
-# Project Websites
+## Project Websites
 These links lead to projects and other work I've done, some of which is listed elsewhere on this website.
 <p>
   <a href="https://editor.p5js.org/reiwa/sketches"><img src="https://img.shields.io/badge/sketches-reiwa-333?labelColor=ED225D&amp;style=flat&amp;logo=p5.js&amp;logoColor=white" alt="p5.js"></a>
