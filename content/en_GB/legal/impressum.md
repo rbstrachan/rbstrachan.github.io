@@ -1,3 +1,6 @@
+---
+cssclasses: no-dropcap-no-smallcaps
+---
 ## Provider & Person Responsible
 Ross Strachan\
 Trois-Rivières, QC\

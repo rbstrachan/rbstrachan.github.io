@@ -2,6 +2,7 @@
 title: privacy policy
 aliases:
   - privacy policy
+cssclasses: no-dropcap-no-smallcaps
 ---
 
 **Effective Date: April 16, 2026**

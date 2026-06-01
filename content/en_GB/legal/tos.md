@@ -2,6 +2,7 @@
 title: terms of service
 aliases:
   - terms of service
+cssclasses: no-dropcap-no-smallcaps
 ---
 **Effective Date: April 16, 2026**
 
