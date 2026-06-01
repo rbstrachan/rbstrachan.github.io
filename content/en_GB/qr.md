@@ -2,6 +2,7 @@
 title: QR code
 aliases:
   - QR code
+cssclasses: no-dropcap-no-smallcaps
 ---
 Feel free to share the below QR code to lead people to this website!
 
