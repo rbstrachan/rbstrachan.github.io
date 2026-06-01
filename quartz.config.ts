@@ -12,7 +12,7 @@ const base = "reiwa.ca"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: lang === 'ja' ? "令和・路数" : "Ross Strachan",
+    pageTitle: lang === 'ja' ? "令和・路数" : "reiwa.ca",
     pageTitleSuffix: "・Ross Strachan",
     enableSPA: true,
     enablePopovers: true,
@@ -27,8 +27,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Ubuntu",
+        body: "Ubuntu",
         code: "IBM Plex Mono",
       },
       colors: {

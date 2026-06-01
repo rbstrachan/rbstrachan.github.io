@@ -1,6 +1,43 @@
 @use "./base.scss";
 
-// custom fonts
+:root {
+  --pixel-purple: #9d4edd;
+  --pixel-purple-dark: #62b122;
+  --pixel-bg-light: var(--light);
+  --pixel-bg-dark: var(--dark);
+}
+
+html {
+  font-size: 14px;
+}
+
+// cursors
+html[saved-theme="light"] {
+  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
+    cursor: url('static/cursors/pointer_c_dark.svg'), auto;
+  }
+
+  abbr[title] {
+    cursor: url('static/cursors/mark_question_pointer_b_dark.svg'), auto;
+  }
+}
+
+html[saved-theme="dark"] {
+  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
+    cursor: url('static/cursors/pointer_c.svg'), auto;
+  }
+
+  abbr[title] {
+    cursor: url('static/cursors/mark_question_pointer_b.svg'), auto;
+  }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
 @font-face {
   font-family: "Neo Castel";
   src: url("./static/fonts/Neo-castel.woff2") format("woff2");
@@ -9,27 +46,203 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'PixelFontNY20';
+  src: url('/static/fonts/PixelFontNewYork20.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.2em;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Regular";
+  src: url("./static/fonts/EBGaramond/EBGaramond08-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Regular";
+  src: url("./static/fonts/EBGaramond/EBGaramond08-Italic.ttf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Initials";
+  src: url("./static/fonts/EBGaramond/initials/EBGaramond-Initials.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+// never used
 // @font-face {
 //   font-family: "pplxSerif";
 //   src: url("./static/fonts/PPLX-Serif-Beta-v2-VF.woff2") format("woff2");
 //   font-weight: 100 900;
 //   font-style: normal;
 // }
+// end of custom fonts
+
+// START OF TESTING BLOCK
+// possible to use the config.json instead?
+article p {
+  font-size: calc((22 / 18) * 1rem);
+}
+
+article p, .explorer li, .toc li, .backlinks li {
+  font-family: 'EB Garamond GH Regular', 'Shippori Mincho B1', serif;
+  line-height: 1.5;
+  font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+  // see https://raw.githubusercontent.com/georgd/EB-Garamond/refs/heads/master/specimen/Specimen.pdf for details
+  font-feature-settings:
+    "clig" 1,
+    "hlig" 1,
+    "dlig" 1,
+    "calt" 1,
+    "liga" 1,
+    "cv11" 1,
+    "hist" 1;
+    // "cv01" 1, // long s
+}
+
+body:not([data-slug$="/index"]) article:lang(en):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-letter {
+  font-family: 'EB Garamond GH Initials', serif;
+  font-size: 5rem;
+  font-weight: normal;
+  float: left;
+  padding-top: 0.15rem;
+  margin-right: 0.1em;
+}
+
+body:not([data-slug$="/index"])   article:lang(en):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-line {
+  font-feature-settings: "smcp" 1, "c2sc" 1;
+}
+
+em, i {
+  font-feature-settings: "smcp" 0, "c2sc" 0, "swsh" 1;
+}
+
+// prevents superscripts (like footnote references) from increasing the line spacing
+sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.4em;
+}
+
+// this is *only* to be activated when SERIF MODE toggle is manually enabled by visitor
+// h1 {
+//   // font-family: 'Neo Castel', serif; // could be given as a second choice of font?
+//   font-family: 'PixelFontNY20', serif;
+//   font-weight: bold;
+//   font-size: calc(var(--font-size-headline, 2rem) * 17 / 17);
+//   // text-shadow: 0 0.068em 0 var(--pixel-purple);
+//   line-height: 1.2em;
+//   // text-transform: lowercase;
 //
-// p {
-//   font-family: "pplxSerif";
-//   font-variation-settings: "opsz" 12, "slnt" 0;
-//   font-weight: 530;
-//   letter-spacing: 0em;
+//   &.article-title {
+//     // font-style: italic;
+//     text-shadow:
+//       0 0.068em 0 var(--pixel-purple),
+//       0 0.136em 0 color-mix(in srgb, var(--pixel-purple) 70%, #000),
+//       0 0.204em 0 color-mix(in srgb, var(--pixel-purple) 40%, #000);
+//
+//     text-transform: uppercase;
+//   }
 // }
+
+.page-title {
+  // font-family: "PixelFontNY20", serif;
+  font-family: "Neo Castel", serif; // should have more backup fonts here
+  width: 100%;
+  white-space: nowrap;
+  font-size: clamp(2rem, 12vw, 3.65em);
+
+  a {
+    html[saved-theme="dark"] & {
+      color: #ffffff;
+      text-shadow:
+      0 0.068em 0 var(--pixel-purple),
+      0 0.136em 0 color-mix(in srgb, var(--pixel-purple) 70%, #000),
+      0 0.204em 0 color-mix(in srgb, var(--pixel-purple) 40%, #000);
+    }
+
+    html[saved-theme="light"] & {
+      color: color-mix(in srgb, var(--pixel-purple) 70%, #fff);
+      text-shadow:
+      // 0 0.068em 0 var(--pixel-purple), // remove this dropshadow for legibility (note that the other dropshadow offsets have been updated to accomodate the missing one  )
+      0 0.068em 0 color-mix(in srgb, var(--pixel-purple) 70%, #000),
+      0 0.136em 0 color-mix(in srgb, var(--pixel-purple) 40%, #000);
+    }
+  }
+}
+
+// reduce unused space at top of page. default is 6rem for all.
+.page > #quartz-body .sidebar {
+  padding-top: 4rem !important;
+}
+
+.page>#quartz-body .sidebar.left {
+  padding-top: calc((4 - 0.65) * 1rem) !important; // redices left sidebar slightly more to account for empty space above site title
+}
+
+.page > #quartz-body .page-header {
+  margin-top: 4rem !important;
+}
+
+// main page 🏴󠁧󠁢󠁳󠁣󠁴󠁿 emoji
+#mpe {
+  display: inline-block;
+  height: 1em;
+  max-height: 1em;
+
+  transform-origin: bottom center;
+  transform: scale(0.85);
+
+  text-decoration: none;
+
+  border-bottom: 2px dashed var(--darkgray);
+  padding-bottom: 4px;
+}
+
+// article blockquote:not(.callout) {
+//   position: relative;
+//   border-left: 0px;
+//   padding-left: 1.5rem;
+//   font-style: italic;
+//
+//   &:before {
+//     content: "“";
+//     position: absolute;
+//     left: -2rem;
+//     top: -2rem;
+//     font-size: 8rem;
+//     font-family: 'EB Garamond GH Initials', serif;
+//     color: var(--secondary);
+//     opacity: 0.3;
+//   }
+// }
+// END OF TESTING
+
+// utility classes
+.center:has(article.no-page-header) .page-header {
+  .article-title,
+  .content-meta {
+    display: none !important;
+  }
+}
 
 // sidebar
 .sidebar,
 .graph,
 .backlinks,
 .explorer,
-button,
-.page-title {
+.page-title,
+button {
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
@@ -142,7 +355,7 @@ button,
     display: none;
   }
 
-  &:hover .lang-menu {
+  &:focus-within .lang-menu {
     display: block;
   }
 
