@@ -57,7 +57,7 @@ For natural day-to-day conversation, social interaction and practical language s
 > To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
 > |  | Standard<span style="opacity: 0%">00000</span> | Early Bird |
 > | :--- | ---: | :--- |
-> | **Trial Lesson**  | Free | Free |
+> | **Trial Lesson**  | Free<span style="opacity: 0%">/hr (£252)</span>　-> | Free |
 > | **Single Lesson** | ~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 -> | **£18** |
 > | **12-Hour Block** | ~~£21/hr (£252)~~　 -> | **£15.75/hr (£189)** |
 > | **36-Hour Block** | ~~£19/hr (£684)~~　 -> | **£14/hr (£504)** |
