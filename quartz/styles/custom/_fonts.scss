@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Neo Castel";
+  src: url("./static/fonts/Neo-castel.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PixelFontNY20';
+  src: url('/static/fonts/PixelFontNewYork20.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.2em;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Regular";
+  src: url("./static/fonts/EBGaramond/EBGaramond08-Regular.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Regular";
+  src: url("./static/fonts/EBGaramond/EBGaramond08-Italic.ttf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond GH Initials";
+  src: url("./static/fonts/EBGaramond/initials/EBGaramond-Initials.ttf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+// @font-face {
+//   font-family: "pplxSerif";
+//   src: url("./static/fonts/PPLX-Serif-Beta-v2-VF.woff2") format("woff2");
+//   font-weight: 100 900;
+//   font-style: normal;
+// }

@@ -1,4 +1,11 @@
-@use "./base.scss";
+@use 'base';
+
+@use 'custom/fonts';
+@use 'custom/accessibilityPanel';
+@use 'custom/cursors';
+@use 'custom/explorer';
+@use 'custom/languagePicker';
+@use 'custom/lighthouse';
 
 :root {
   --pixel-purple: #9d4edd;
@@ -7,96 +14,35 @@
   --pixel-bg-dark: var(--dark);
 }
 
+// desktop > 1200px
+// tablet > 800px
+// mobile < 800px
 html {
   font-size: 14px;
 }
 
-// cursors
-html[saved-theme="light"] {
-  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
-    cursor: url('static/cursors/pointer_c_dark.svg'), auto;
-  }
-
-  abbr[title] {
-    cursor: url('static/cursors/mark_question_pointer_b_dark.svg'), auto;
+@media (min-width: 800px) {
+  html {
+    font-size: 16px;
   }
 }
 
-html[saved-theme="dark"] {
-  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
-    cursor: url('static/cursors/pointer_c.svg'), auto;
-  }
-
-  abbr[title] {
-    cursor: url('static/cursors/mark_question_pointer_b.svg'), auto;
-  }
-}
-
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   html {
     font-size: 18px;
   }
 }
 
-@font-face {
-  font-family: "Neo Castel";
-  src: url("./static/fonts/Neo-castel.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'PixelFontNY20';
-  src: url('/static/fonts/PixelFontNewYork20.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  line-height: 1.2em;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "EB Garamond GH Regular";
-  src: url("./static/fonts/EBGaramond/EBGaramond08-Regular.ttf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "EB Garamond GH Regular";
-  src: url("./static/fonts/EBGaramond/EBGaramond08-Italic.ttf") format("opentype");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "EB Garamond GH Initials";
-  src: url("./static/fonts/EBGaramond/initials/EBGaramond-Initials.ttf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-// never used
-// @font-face {
-//   font-family: "pplxSerif";
-//   src: url("./static/fonts/PPLX-Serif-Beta-v2-VF.woff2") format("woff2");
-//   font-weight: 100 900;
-//   font-style: normal;
-// }
-// end of custom fonts
-
 // START OF TESTING BLOCK
-// possible to use the config.json instead?
-article p {
+article p, article li {
   font-size: calc((22 / 18) * 1rem);
 }
 
-article p, .explorer li, .toc li, .backlinks li {
+article p, article li, .explorer li, .toc li, .backlinks li {
   font-family: 'EB Garamond GH Regular', 'Shippori Mincho B1', serif;
   line-height: 1.5;
   font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+
   // see https://raw.githubusercontent.com/georgd/EB-Garamond/refs/heads/master/specimen/Specimen.pdf for details
   font-feature-settings:
     "clig" 1,
@@ -109,7 +55,11 @@ article p, .explorer li, .toc li, .backlinks li {
     // "cv01" 1, // long s
 }
 
-body:not([data-slug$="/index"]) article:lang(en):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-letter {
+// apply drop caps and small caps to the first letter and sentence respectively so long as:
+// - we are not in a folder
+// - the article language is english
+// - the no-dropcap-no-smallcaps frontmatter cssclasses is not present
+body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-letter {
   font-family: 'EB Garamond GH Initials', serif;
   font-size: 5rem;
   font-weight: normal;
@@ -118,7 +68,7 @@ body:not([data-slug$="/index"]) article:lang(en):not(.no-dropcap-no-smallcaps) >
   margin-right: 0.1em;
 }
 
-body:not([data-slug$="/index"])   article:lang(en):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-line {
+body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-line {
   font-feature-settings: "smcp" 1, "c2sc" 1;
 }
 
@@ -174,7 +124,7 @@ sup {
     html[saved-theme="light"] & {
       color: color-mix(in srgb, var(--pixel-purple) 70%, #fff);
       text-shadow:
-      // 0 0.068em 0 var(--pixel-purple), // remove this dropshadow for legibility (note that the other dropshadow offsets have been updated to accomodate the missing one  )
+      // 0 0.068em 0 var(--pixel-purple), // remove this dropshadow for legibility (note that the other dropshadow offsets have been updated to accomodate the missing one)
       0 0.068em 0 color-mix(in srgb, var(--pixel-purple) 70%, #000),
       0 0.136em 0 color-mix(in srgb, var(--pixel-purple) 40%, #000);
     }
@@ -182,12 +132,12 @@ sup {
 }
 
 // reduce unused space at top of page. default is 6rem for all.
-.page > #quartz-body .sidebar {
+.page > #quartz-body .sidebar.right {
   padding-top: 4rem !important;
 }
 
-.page>#quartz-body .sidebar.left {
-  padding-top: calc((4 - 0.65) * 1rem) !important; // redices left sidebar slightly more to account for empty space above site title
+.page > #quartz-body .sidebar.left {
+  padding-top: calc((4 - 0.5) * 1rem) !important; // reduces left sidebar slightly more to account for empty space above site title
 }
 
 .page > #quartz-body .page-header {
@@ -204,9 +154,13 @@ sup {
   transform: scale(0.85);
 
   text-decoration: none;
+}
 
-  border-bottom: 2px dashed var(--darkgray);
-  padding-bottom: 4px;
+@media (min-width: 1200px) {
+  #mpe {
+    padding-bottom: 4px;
+    border-bottom: 1px dashed var(--darkgray);
+  }
 }
 
 // article blockquote:not(.callout) {
@@ -316,80 +270,7 @@ button {
   }
 }
 
-// language picker
-.lang-picker-container {
-  position: relative;
-  display: flex;
-  align-items: center;
-
-  .lang-button {
-    background: none;
-    border: none;
-    padding: 0;
-    color: var(--dark);
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 24px;
-    height: 24px;
-
-    svg {
-      stroke: var(--dark);
-    }
-  }
-
-  .lang-menu {
-    position: absolute;
-    top: 100%;
-    right: 0;
-    margin-top: 0;
-    background: var(--light);
-    border: 1px solid var(--lightgray);
-    border-radius: 6px;
-    list-style: none;
-    padding: 4px 0;
-    min-width: 100px;
-    box-shadow: var(--shadow);
-    z-index: 9999;
-    display: none;
-  }
-
-  &:focus-within .lang-menu {
-    display: block;
-  }
-
-  .lang-menu li button {
-    width: 100%;
-    background: none;
-    border: none;
-    text-align: left;
-    padding: 8px 12px;
-    color: var(--dark);
-    font-family: var(--bodyFont);
-    font-size: 0.85rem;
-    cursor: pointer;
-
-    &:hover {
-      background: var(--highlight);
-      color: var(--secondary);
-    }
-  }
-}
-
 // callout table spacing
 .callout table {
   margin: 0 !important;
-}
-
-// hiding unwanted files in explorer
-div.explorer-content li:has(> [data-folderpath^="legal"]),
-div.explorer-content li:has(> [data-folderpath^="tutoring"]),
-div.explorer-content li>a[data-for="cv"],
-div.explorer-content li>a[data-for="qr"],
-div.explorer-content li>a[data-for="guestbook"],
-div.explorer-content li>a[data-for="contact"],
-div.explorer-content li>a[data-for="colophon"],
-div.explorer-content li>a[data-for="acknowledgements"] {
-  display: none;
 }

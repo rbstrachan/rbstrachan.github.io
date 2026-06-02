@@ -1,0 +1,19 @@
+html[saved-theme="light"] {
+  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
+    cursor: url('static/cursors/pointer_c_dark.svg'), auto;
+  }
+
+  abbr[title] {
+    cursor: url('static/cursors/mark_question_pointer_b_dark.svg'), auto;
+  }
+}
+
+html[saved-theme="dark"] {
+  &, body, #quartz-body, article, p, span, li, a, button, path, svg, div {
+    cursor: url('static/cursors/pointer_c.svg'), auto;
+  }
+
+  abbr[title] {
+    cursor: url('static/cursors/mark_question_pointer_b.svg'), auto;
+  }
+}
