@@ -6,11 +6,11 @@ aliases:
 This document outlines my beliefs regarding the acquisition of knowledge and the ethics of information delivery. The philosophies herein serve as the governing framework for all of the projects I work on and the content I produce.
 
 While these tenets are my personal convictions, they also act as an expression of my commitment to the autonomy of the learner and the democratisation of information. I take seriously my responsibility %% as an information architect %%to ensure that the discovery of new information remains open to all whenever possible, regardless of the interface through which one engages with the world.
-# Anyone can learn regardless of the amount of money they can spend doing so
+## Anyone can learn regardless of the amount of money they can spend doing so
 I strongly believe that education should be free and open. Access to high-quality information is not just an advantage, it's a fundamental human right.[^3] In a world driven by data, to be denied access to knowledge is to be denied the right and the opportunity to participate fully in society.[^4] To me, this is unethical. I advocate for all information to be free and open access. The value of information should be measured by how much it helps a person learn, not by the arbitrary price attached to it.[^5]
-# A person's situation should not limit their opportunities
+## A person's situation should not limit their opportunities
 Knowledge and culture supersede borders and circumstances. Where someone comes from, how old they are, what they do or do not work as, how much money they have, etc. should not be deciding factors when it comes to learning. Their situation might dictate their pace, but it should never dictate their potential.
-# The only person who can bring you to proficiency is yourself
+## The only person who can bring you to proficiency is yourself
 Here's a bit of a radical thought: the only person who can actually teach you a subject to proficiency is yourself.
 
 Why is that?
@@ -28,22 +28,22 @@ It's important to understand that no resource — including this website — can
 Therefore, such a thing does not exist, because it *cannot* exist. Instead, the best any sufficiently proficient teacher can provide is a roadmap to success, some emotional support and their mentorship and let the learner do the hard work themselves. No-one can do the work of learning for them.
 
 Because neither the uninitiated nor those to whom the skill comes naturally can do the work for you, you are the only person with the ability to bring yourself to reach true proficiency. Such an autonomous path may require a significant investment of time — often thousands of hours — to navigate the nuances of the subject. Unfortunately, however, there is no universal walk-through with timestamps. Learning isn't an exact science; it's a unique, non-linear negotiation between the learner and their future knowledge.[^7]
-# Learning is personal
+## Learning is personal
 There is no such thing as the 'average' student.[^9][^10] Learning is rarely a one-and-done affair. It's a highly personal journey where interests, speeds and cognitive needs vary by person.[^11]
 I recognise that every learner has a unique set of circumstances, emotional considerations and different ways of processing information that shape and inform how they learn. Therefore, teaching methods must be adaptable. An effective pedagogy must be capable of adapting to the learner, rather than a rigid, pre-established system that demands the learner conform to it.
-# A difference in ability should not provoke a difference in accessibility
+## A difference in ability should not provoke a difference in accessibility
 %%Many brilliantref, highly-citedref articlesref have shownref that %%Learners interact with the world through a spectrum of different "interfaces", whether that is sight, sound, touch or simply a different way of thinking. I refuse to accept the idea that a difference in ability necessarily results in a difference in potential. Access to high-quality educational material is a fundamental right for every learner, regardless of how they process it.
 
 Disability is not a failure of the learner, but a failure of design.[^12] A person’s physical or cognitive way of interacting with the world should never be the bottleneck of their education. Every student should be able to arrive at the same level of understanding, even if they take completely different paths to get there.
 
 In cases where there is a gap between a learner’s educational needs %% change wording; needs repeated later %% and the provisions a learning environment can provide, it is the responsibility of the environment to adapt itself to the learners needs — not the other way round.[^14] The integrity of an educational system should never be sacrificed for the convenience of its design.[^13]
-## Accessibility is not simplification
+### Accessibility is not simplification
 The Social Model of Disability[^12] argues that 'disability' is simply a mismatch between a person's needs and their environment's resources, rather than an inherent flaw in the person.
 
 It is vital to understand that *accessible* is not synonymous with *simplified*. Making a resource accessible should rarely mean providing less or simpler content. For example, adding patterns to a colour-coded chart for a colour-blind user or providing a screen-reader-compatible version of a complex data set makes the information accessible, but it doesn't change the complexity of the data itself. People with accessibility needs are not looking for easier content; they are looking for the same content delivered in a way they can use and understand. To that end, I believe that the integrity of an educational system should be measured by its ability to remain accessible without being simplified.
 
 The mode of delivery, whether visual, auditory or tactile, must never limit the depth of the discovery. I hold that the complexity of a subject resides in its inherent technical depth, not in the font size of a textbook or the audio quality of a recording. If a resource is only usable by a subset of learners, it is objectively ineffective. I advocate strongly for a learning environment where the depth of information remains decoupled from the method of its delivery; the truth of a concept remaining identical regardless of how it is seen, heard or felt.[^1]
-# Practice doesn't make perfect; *perfect* practice makes perfect
+## Practice doesn't make perfect; *perfect* practice makes perfect
 There is a common adage that goes something like, "practice makes perfect". This is wrong. Practice makes permanent.[^15]
 
 Any progress is not better than no progress if said progress is in the wrong direction.
