@@ -1,5 +1,5 @@
 import type { QuartzComponent, QuartzComponentConstructor } from "./types"
-import script from "./scripts/brailleScramble.inline"
+import script from "../scripts/brailleScramble.inline"
 
 export default (() => {
   const BrailleScramble: QuartzComponent = () => <></>

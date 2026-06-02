@@ -23,12 +23,14 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import MathBackground from "./MathBackground"
-import SidebarLinks from "./SidebarLinks"
-import LanguagePicker from "./LanguagePicker"
-import BrailleScramble from "./BrailleScramble"
-import AsciiPlasma from "./AsciiPlasma"
-import BookingButton from "./BookingButton"
+
+import MathBackground from "./custom/MathBackground"
+import SidebarLinks from "./custom/SidebarLinks"
+import LanguagePicker from "./custom/LanguagePicker"
+import BrailleScramble from "./custom/BrailleScramble"
+import AsciiPlasma from "./custom/AsciiPlasma"
+import BookingButton from "./custom/BookingButton"
+import AccessibilityPanel from "./custom/AccessibilityPanel"
 
 export {
   ArticleTitle,
@@ -61,5 +63,6 @@ export {
   LanguagePicker,
   BrailleScramble,
   AsciiPlasma,
-  BookingButton
+  BookingButton,
+  AccessibilityPanel
 }
