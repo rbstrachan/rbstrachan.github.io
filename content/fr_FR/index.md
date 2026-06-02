@@ -1,8 +1,9 @@
 ---
 title: Bienvenue!
+cssclasses: no-page-header
 ---
 
-Je m'appelle Ross, un **architecte de l'information** en formation qui se passionne pour les mathématiques, la programmation, l'automatisation et l'exploration des multiples **interfaces entre l'humain et la machine**. Je suis un fervent défenseur d'une éducation libre, ouverte et accessible pour tous.
+Bonjour! Je m'appelle Ross, un **architecte de l'information** en formation qui se passionne pour les mathématiques, la programmation, l'automatisation et l'exploration des multiples **interfaces entre l'humain et la machine**. Je suis un fervent défenseur d'une éducation libre, ouverte et accessible pour tous.
 
 Je prépare actuellement le [[cours TEFL de niveau 5|diplôme TEFL de niveau 5]].
 
