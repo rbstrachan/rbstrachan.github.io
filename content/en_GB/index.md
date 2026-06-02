@@ -1,5 +1,5 @@
 ---
-title: reiwa.ca
+title: Welcome!
 cssclasses: no-page-header
 ---
 <!-- add ロス（侶寿）to Japanese translation -->
@@ -11,7 +11,7 @@ standards and accessibility, your research could involve:
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
 - Information Retrieval: How do library catalogues index tactile materials in multiple languages?
 -->
-Hello! I'm *Ross*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿 who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
+Hello! I'm *Ross*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
 I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]--><a href="tefl"><small>TEFL</small> Level 5 diploma</a>.\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
@@ -50,7 +50,7 @@ Want to drop a digital note? Sign the [[guestbook]]!
 ⠊　⠇⠕⠧⠑　⠃⠗⠁⠊⠇⠇⠑
 
 > [!todo]- This website is a work in progress...
-> Building this personal space is a relatively new project and my first foray into "linked knowledge management." As I transition my notes from a private vault to this public one, you’ll find many areas that are still in their early stages.
+> Building this personal space is a relatively new project and my first foray into "linked knowledge management". As I transition my notes from my private vault to this public one, you’ll find many areas that are still in their early stages.
 >
 > I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here! Check back soon!
 
