@@ -10,6 +10,6 @@ aliases:
 > This section is new and I'm adding more projects to it all the time. Be sure to check back soon!
 ***
 %%
-# Documentation & Assistance
+## Documentation & Assistance
 Documentation for all projects listed here can be found at [docs.reiwa.ca](https://docs.reiwa.ca).
 %%

@@ -7,7 +7,7 @@ The classifier processes `kanji[reading]` mappings and applies linguistic rules,
 >
 > Found a mistake? Want to make an improvement? Contributions are welcome! Feel free to [download the latest release](https://github.com/rbstrachan/onkunfuri/releases/latest) to get a sense for the dataset, [fork the repo](https://github.com/rbstrachan/onkunfuri/fork) to make your changes or [open an issue](https://github.com/rbstrachan/onkunfuri/issues) to start a discussion.
 
-# Features
+## Features
 **onkunfuri** is capable of accurately handling a wide range of Japanese orthographic and phonological quirks that complicate kanji reading classification.
 - correctly accounts for sokuon (促音), including small っ readings from from phonological compounds
 - properly interprets the repetition mark (々) and identifies readings of repeated kanji
@@ -25,7 +25,7 @@ The classifier processes `kanji[reading]` mappings and applies linguistic rules,
 
 These files make it possible to fix individual edge cases without changing the core logic or introducing false-positives.
 
-# Performance Improvements
+## Performance improvements
 Significant improvements have been made between the proof‑of‑concept (PoC) and the current release.
 
 | version        | count   | `tag:unknown`      | `tag:ambiguous`  | `tag:irregular`  | `-tag:unknown`<br>`-‍tag:ambiguous` | `tag:unknown` or `tag:ambiguous` | overlap        |
@@ -35,5 +35,5 @@ Significant improvements have been made between the proof‑of‑concept (PoC) a
 
 The latest version reduces unknown classifications from nearly 15% to just 2.55%, and reduces total unresolved cases (unknown or ambiguous) from 17.36% to 5.20%. Overlap errors have also been nearly eliminated.
 
-# Future Development
+## Future development
 In upcoming releases, entries believed to contain input errors or furigana misalignments will be filtered out prior to classification. These problematic entries will not be included in the final exported `.csv` file.

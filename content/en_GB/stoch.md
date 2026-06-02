@@ -9,7 +9,7 @@ The **KBYS stoch quiz** is a stochastic kanji reading proficiency test administe
 %% ADD FURIGANA TO NAME %%
 Developed by [黒羽 勇星]() (Kurobane Yuusei), the test addresses limitations of traditional frequency-based quizzes by sampling readings according to immersion-based "kanji burden" models.[^2]
 
-# Test Levels
+## Test Levels
 Each level requires obtaining a minimum number of correct answer before a maximum number of incorrect answers on hardcore quizzes (no duplicates, daily unique questions) using custom stochastic parameters.
 
 | Level | Points Required (Accuracy) | Min. Readings (Kanji) | JLPT Proxy |
@@ -30,39 +30,39 @@ Each level requires obtaining a minimum number of correct answer before a maximu
 | 14    | 200 (86.6%)               | 14820 (7442)         |            |
 | 15    | 200 (95.2%)               | 16930 (8726)         |            |
 
-# Level Descriptions
-## Level 1
+## Level Descriptions
+### Level 1
 Certifies 89 readings across 78 kanji at 48.4% accuracy (15/31 correct). Establishes baseline beyond JLPT N5.
-## Level 2  
+### Level 2  
 Certifies 296 readings across 249 kanji at 44.0% accuracy (40/91 correct). Approaches JLPT N4 scope.
-## Level 3
+### Level 3
 Certifies 819 readings across 625 kanji at 54.8% accuracy (40/73 correct). Matches JLPT N3 kanji coverage.
-## Level 4
+### Level 4
 Certifies 1445 readings across 1005 kanji at 56.2% accuracy (50/89 correct). Exceeds JLPT N2 requirements.
-## Level 5
+### Level 5
 Certifies 2372 readings across 1509 kanji at 61.2% accuracy (60/98 correct). Covers daily media requirements.
-## Level 6
+### Level 6
 Certifies 3585 readings across 2015 kanji at 61.9% accuracy (70/113 correct). Encompasses JLPT N1 (~2000 kanji).
-## Level 7
+### Level 7
 Certifies 4952 readings across 2540 kanji at 63.3% accuracy (95/150 correct). Major immersion milestone.
-## Level 8
+### Level 8
 Certifies 6274 readings across 3064 kanji at 62.1% accuracy (100/161 correct). Approaches educated native range.
-## Level 9
+### Level 9
 Certifies 7666 readings across 3659 kanji at 67.9% accuracy (110/162 correct). Rare non-native achievement.
-## Level 10
+### Level 10
 Certifies 9082 readings across 4287 kanji at 69.9% accuracy (135/193 correct). Exceeds typical high school native.
-## Level 11
+### Level 11
 Certifies 10526 readings across 5051 kanji at 76.1% accuracy (150/197 correct). Exceptional proficiency depth.
-## Level 12
+### Level 12
 Certifies 11983 readings across 5822 kanji at 81.1% accuracy (180/222 correct). Beyond standard native ability.
-## Level 13
+### Level 13
 Certifies 13434 readings across 6631 kanji at 83.7% accuracy (200/239 correct). Extreme proficiency level.
-## Level 14
+### Level 14
 Certifies 14820 readings across 7442 kanji at 86.6% accuracy (200/231 correct). Elite certification tier.
-## Level 15
+### Level 15
 Certifies 16930 readings across 8726 kanji at 95.2% accuracy (200/210 correct). Pinnacle achievement.
 
-# Test Commands
+## Test Commands
 
 | Level | Kotoba Command |
 |-------|----------------|
@@ -82,14 +82,14 @@ Certifies 16930 readings across 8726 kanji at 95.2% accuracy (200/210 correct). 
 | 14 | `k!quiz stochs8(2.407%)+stochs9(3.709%)+stochs10(4.773%)+stochs11(8.529%)+stochs12(15.412%)+stochs13(18.572%)+stochs14(21.801%)+stochs15(22.342%)+stochl14(1.547%)+stochl15(0.908%) 200 mmq=31 hardcore nd dauq=1` |
 | 15 | `k!quiz stochs8(2.021%)+stochs9(3.502%)+stochs10(4.808%)+stochs11(9.545%)+stochs12(11.413%)+stochs13(16.367%)+stochs14(21.208%)+stochs15(28.127%)+stochl14(1.299%)+stochl15(1.710%) 200 mmq=10 hardcore nd dauq=1` |
 
-# Methodology
+## Methodology
 Kanji burden represents expected exposure time for each reading under Zipfian word frequencies (1/rawfreq weighting) from Jiten datasets. Readings are learned after 3 exposures; kanji reading requires all components.[^3] Stochastic sampling uses Weibull calibration correlating burden with frequency bands (`stochs0–15` represent increasing difficulty).[^4] Hardcore mode enforces `nd` (no duplicates) and `dauq=1` (daily unique questions).
-# Datasets
+## Datasets
 - **Jiten**: Global frequency lists (https://jiten.moe/other)
 - **JMdictFurigana**: Reading-annotated dictionary (https://github.com/Doublevil/JmdictFurigana)
-# Certification Process
+## Certification Process
 Passing certificates issued upon verified completion under fair conditions. Level 6+ passers receive free sticker packs.
-# Development
+## Development
 MIT License © 2025 黒羽 勇星 (Kurobane Yuusei). Contact via Discord for questions.
 
 [^1]: Original test specification  

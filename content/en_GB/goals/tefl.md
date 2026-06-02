@@ -13,7 +13,7 @@ Im currently working towards the **TEFL Level 5 diploma** with the goal of being
 > 54/54 (100.0%)\
 > <progress id="progress" value="1000" max="1000" style="width: 100%"> 100.0% </progress>
 
-# Units
+## Units
 - [x] Unit 1 — Introduction to lesson planning
 - [x] Unit 2 — Teaching vocabulary
 - [x] Unit 3 — Teaching pronunciation
@@ -24,7 +24,7 @@ Im currently working towards the **TEFL Level 5 diploma** with the goal of being
 - [x] Unit 8 — A history of the English language
 - [x] Unit 9 — Teaching materials and classroom management strategies
 - [x] Unit 10 — The effective use of resources
-# Assessments
+## Assessments
 - [x] A (Passed)
 - [x] B (Passed)
 - [ ] C (In Progress)

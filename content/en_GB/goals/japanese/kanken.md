@@ -10,17 +10,17 @@ tags:
 My long-term Japanese goal includes working toward the 漢検2級.
 
 Unlike the JLPT which measures broader Japanese proficiency, the 漢検 focuses much more on kanji knowledge, readings, writing, word formation and correct written usage. To me, 2級 feels like the right balance — it's a solid benchmark for meaningful level of kanji mastery that is challenging enough to show deep knowledge of 常用漢字 while also still remaining attainable as a practical long-term goal without pushing into the much more extreme higher levels, that while impressive, are not that practical.
-# Statistics
-## 10級
-## 9級
-## 8級
-## 7級
-## 6級
-## 5級
-## 4級
-## 3級
-## 準2級
-## 2級
+## Statistics
+### 10級
+### 9級
+### 8級
+### 7級
+### 6級
+### 5級
+### 4級
+### 3級
+### 準2級
+### 2級
 漢検2級 covers all 2,136 常用漢字 and expects the test taker to understand and use them appropriately in context. The exam is 200 points total and the passing standard is about 80%.
 
 | 項目     | 内容                  |

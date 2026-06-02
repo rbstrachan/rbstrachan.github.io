@@ -14,7 +14,7 @@ The **Kanken Reference** is a comprehensive database and practice hub for the **
 *Sample practice interface for reading and stroke order questions, mimicking official exam styling.*
 ## Overview
 This project serves as an accessible, ad-free, open-access online resource for the **Kanken**. The site provides comprehensive details on exam structure, levels, question types, history and practice games and books, as well as hosting interactive practice quizzes styled exactly like the real test. To keep costs low and ensure high speeds, everything runs client-side in your browser — no login needed.
-## What It Does
+## What it does
 - **Reference Hub**: Wikipedia-style pages detail Kanken's 12 levels (10 to 1), target kanji counts (e.g., 80 for level 10, 2136 for level 2), pass rates (~70-80%), and official formats.
 - **Practice Engine**: Over 20 authentic question types for levels 10-2, including:
 
@@ -49,7 +49,7 @@ This project serves as an accessible, ad-free, open-access online resource for t
 
 Questions replicate official phrasing, e.g., "Select the kanji read as 'しんせい' from options" for onyomi drills.
 
-## Who It's For
+## Who it's for
 - **Japanese Learners**: JLPT N2/N1 takers needing kanji output practice beyond multiple-choice.
 - **Native Speakers**: Students/teachers prepping for school exams or certification (levels 10=grade 1, 2=high school grad).
 - **Parents/Educators**: Tracking kids' progress against official benchmarks (e.g., 1026 kanji for level 5).
@@ -80,7 +80,7 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 
 ***
 %%
-# 日本漢字能力検定
+## 日本漢字能力検定
 
 **日本漢字能力検定**（にほんかんじのうりょくけんてい）は、公益財団法人日本漢字能力検定協会が実施する漢字の読み書き能力に関する検定である。一般には**漢検**または**漢字検定**と呼ばれる。
 

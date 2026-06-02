@@ -6,7 +6,7 @@ Thank you for visiting! Please feel free to leave a note, I'd love to hear from 
 > [!warning] Oh, and...
 > To keep this form from abuse, I manually approve entries. Please be aware that if your message is helpful, kind or interesting, it may be archived here permanently.
 
-# Sign the log!
+## Sign the log!
 <style>
   iframe[data-tally-src] {
     background: transparent !important;

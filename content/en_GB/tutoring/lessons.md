@@ -38,7 +38,7 @@ I can help you:
 >
 > Want a private, 1-on-1 language tutor to help you progress? See below for my language lesson prices. -->
 ***
-# Pricing
+## Pricing
 I am committed to helping you achieve natural and lasting fluency. Following your trial lesson, you can choose from several flexible booking options designed to align with your specific goals and schedule.
 
 The prices listed below are for a typical one-hour lesson, though individual sessions can be adapted from 30 to 90 minutes to accommodate your specific needs.
@@ -49,7 +49,7 @@ A discount of **5% per student** (up to 6 students) applies to any lesson where 
 > - **Single lessons** are best suited for students with **irregular or unpredictable schedules** and may be booked **up to 24 hours in advance**.
 > - **Lessons blocks** are the most popular choice and are designed for **students with specific goals** (such as consistent growth or exam preparation) who wish to commit to a schedule. Lesson blocks offer a significant discount over the price of a single lesson.[^block]
 
-## Standard
+### Standard
 For natural day-to-day conversation, social interaction and practical language skills for travel and daily life through comprehensive practice of speaking, listening and grammar fundamentals.\
 *Business lessons are coming soon! Please [get in touch](mailto:ross@reiwa.ca) if you'd like to discuss taking a business class.*
 <span style="margin-bottom:-10px"></span>
@@ -100,7 +100,7 @@ AFTER PRICE INCREASE — CHECK CURRENCY CONVERSIONS AND BLOCK PRICE CALCULATIONS
 | **Single Lesson**<br>(1 hour) | **North America**<br>**Europe**<br>**Asia** | USD\$77 ・ CAD\$107<br>£58 ・ €66<br>¥12,200 ・ ₩116,000 |
 | **Block of 12 Hours**<br><nobr>(1–3 months)</nobr> | **North America**<br>**Europe**<br>**Asia** | USD\$64 (\$768) ・ CAD\$89 (\$1,068)<br>£48 (£576) ・ €55 (€660)<br>¥10,200 (¥122,400) ・ ₩96,000 (₩1,152,000) | -->
 
-# Payment
+## Payment
 To ensure transfers are quick and easy, several payment methods are available. Payment can be made in any currency.\
 *We can discuss which method works best for your location and currency during your trial lesson.*
 

@@ -12,7 +12,7 @@ Set in a cemetery, **Pumpkin Panic** challenges players to catch as many falling
 >
 > This game is open source! Get started by [forking the repo](https://github.com/rbstrachan/p5.js/fork) or [opening an issue](https://github.com/rbstrachan/p5.js/issues).
 
-# The technical bits
+## The technical bits
 The game logic is built around a custom `FallingObject` class which handles the randomization of object types (pumpkin vs. skull), the varied falling speeds and unique scaling for each object.
 
 Also, there is a `spawnInterval` variable that resets to a random value between $200$ and $700$ milliseconds after every object spawn. This ensures that the rhythm of the game is unpredictable and prevents the player from simply clicking repeatedly for an easy win.
