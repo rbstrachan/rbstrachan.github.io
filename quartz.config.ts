@@ -13,12 +13,10 @@ const base = "reiwa.ca"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: lang === 'ja' ? "令和・路数" : "reiwa.ca",
-    pageTitleSuffix: "・Ross Strachan",
+    pageTitleSuffix: "・reiwa.ca",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: {},
     locale: lang === 'ja' ? "ja-JP" : lang === 'fr' ? "fr-FR" : "en-GB",
     baseUrl: lang === 'en' ? base : `${base}/${lang}`,
     ignorePatterns: ["private", "templates", ".obsidian"],
