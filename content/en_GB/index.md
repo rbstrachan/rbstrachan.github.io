@@ -2,7 +2,6 @@
 title: Welcome!
 cssclasses: no-page-header
 ---
-<!-- add ロス（侶寿）to Japanese translation -->
 <!-- cross-linguistic evolution and standardisation of Braille research
 cross-linguistic Braille evolution
 standards and accessibility, your research could involve:
