@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      noBacklinksFound: "No backlinks found.",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -51,7 +51,7 @@ export default {
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Search for something...",
     },
     tableOfContents: {
       title: "Table of Contents",
@@ -67,20 +67,20 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Whoops! We weren't able to find the page you're looking for — sorry. Perhaps try searching for it on the homepage...",
+      notFound: "Whoops! We weren't able to find the page you're looking for — sorry.<br> Perhaps try searching for it on the homepage...",
       home: "← Return home",
     },
     folderContent: {
       folder: "Folder",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "There is 1 item in this folder." : `There are ${count} items in this folder.`,
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
+        count === 1 ? "There is 1 item with this tag." : `There are ${count} items with this tag.`,
+      showingFirst: ({ count }) => `Showing the first ${count} tags.`,
       totalTags: ({ count }) => `Found ${count} total tags.`,
     },
   },
