@@ -1,8 +1,7 @@
 ---
-draft: true
 title: accessibility and performance
 ---
-I am committed to making sure this website can be navigated and read by all. Accessibility is [[my philosophy of learning|an import part of how I design]], build and maintain this site to ensure the content provided here is easy to read, navigate and interact with regardless of how you access the web.
+Accessibility is [[my philosophy of learning|an important part of how I design]], build and maintain this site to ensure the content provided here is easy to read, navigate and interact with regardless of how you access the web. I am committed to making sure this website welcomes all.
 
 Impactful accessibility design is a continuous, iterative effort that takes shape%%word for "improves itself"%% over time. Because web standards and assistive technologies constantly evolve, my goal towards an absolutely accessible site — although simple — remains a work in progress.
 
@@ -10,18 +9,18 @@ I'm currently relying on [Lighthouse](https://developer.chrome.com/docs/lighthou
 
 %% this section should be written better %%
 ## What do you mean by 'accessible'? What about performance?
-I'm not an accessibility expert and as someone who has never experienced using the web with assistive technologies, I don't know what I don't know. Therefore, I try at all times to follow established accessibility guidelines such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and [...].
+I'm not an accessibility expert and as someone who has never experienced using the web with assistive technologies, %%[[%%I don't know what I don't know%%]]%%. Therefore, I try at all times to follow established accessibility guidelines such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and [...].
 
-To successfully implement these guidelines at a acceptable level requires paying particular attention to things like (among others) colour contrast, semantic HTML, keyboard navigation and clear, predictable structure. I also try to avoid unnecessary complexity when designing layout and keep code concise so that the experience remains fast and reliable.
+To successfully implement these guidelines at an acceptable level requires paying particular attention to things like (among others) colour contrast, semantic HTML, keyboard navigation and clear, predictable structure. I also try to avoid unnecessary complexity when designing layout and keep code concise so that the experience remains fast and reliable.
 
 Performance and accessibility are closely related%%source%%. A lightweight site tends to provide a better experience for everyone, especially on slower connections and older devices.
 
 ## My approach to comprehensive testing
 To make sure I'm not relying on guesswork, I regularly test the site using well-regarded automated tools and manual checks.
 
-As it turns out, testing for the *presence* of digital accessibility features is trivial. Determining how *impactful* those features will be for a given visitor is notoriously%%ref%% difficult%%ref%%. Although automated tools can help catch obvious issues, they are not perfect. To mitigate any unintentional side effects, I take advantage of several different, yet complimentary, services — such as Lighthouse and [...] — to ensure maximum coverage, reliability of results and compatibility with assistive devices and software.
+As it turns out, testing for the *presence* of digital accessibility features is trivial. Determining how *impactful* those features will be for a given visitor is notoriously%%ref%% difficult%%ref%%. Although automated tools can help catch obvious issues, they are not perfect. To mitigate any unintentional side effects, I take advantage of several different, yet complimentary, services — such as Lighthouse and [Pa11y](https://github.com/pa11y/pa11y) — to ensure maximum coverage, reliability of results and compatibility with assistive devices and software.
 
-I also spend a not insignificant amount of time navigating the site using nothing but my keyboard and a screen reader to better understand how to structure content for visitors who use assistive technologies.
+I also spend a not insignificant amount of time navigating the site using nothing but my keyboard and a screen reader to better understand how to structure content for visitors who use assistive technologies and keyboard navigation addons like [Vimium](https://vimium.github.io/).
 
 Below you'll find some additional details about the automated services I use to test accessibility and performance across the site. This might be slightly boring, so feel free to [[accessibility#current-accessibility-scores|skip ahead to the test results]]!
 
@@ -195,4 +194,4 @@ The performance score, especially for mobile devices, is quite poor due mainly t
 
 [^caveat]: While I aim for the highest score possible, I recognise that automated testing is only a proxy for real-world accessibility. Passing an automated test does not guarantee with absolute certainty that every user will be able to interact with the site without issue. True confidence requires manual testing with screen readers and keyboard-only navigation.
 [^help]: If you can help manually test the accessibility of this site in any way I would love to hear from you. I would be more than happy to compensate you for your time. Please [email me](mailto:ross@reiwa.ca) to discuss arrangements. Subject to necessity.
-[^screen]: Desktop scores apply only to devices with a minimum screen width of 768px. Devices with a screen width less than that are considered mobile devices.
+[^screen]: Desktop scores apply only to devices with a minimum screen width of 800px. Devices with a screen width less than that are considered mobile devices.
