@@ -4,7 +4,7 @@ aliases:
   - QR code
 cssclasses: no-dropcap-no-smallcaps
 ---
-Feel free to share the below QR code to lead people to this website!
+Thanks so much for visiting — I hope you had a great time. Feel free to share the below QR code to lead people to this website!
 
 <img src="static/reiwaQR.png"
     style="
@@ -14,5 +14,4 @@ Feel free to share the below QR code to lead people to this website!
         image-rendering: pixelated;
         image-rendering: -moz-crisp-edges;
         image-rendering: crisp-edges;
-        image-rendering: pixelated;
 ">
