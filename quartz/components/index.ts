@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
+import SidebarBio from "./custom/SidebarBio"
 import MathBackground from "./custom/MathBackground"
 import SidebarLinks from "./custom/SidebarLinks"
 import LanguagePicker from "./custom/LanguagePicker"
@@ -58,6 +59,7 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  SidebarBio,
   MathBackground,
   SidebarLinks,
   LanguagePicker,

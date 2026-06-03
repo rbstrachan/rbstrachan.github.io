@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     // Component.MathBackground(),
     // Component.AsciiPlasma()
+    // Component.AccessibilityPanel()
   ],
   footer: Component.Footer({
     links: {
@@ -18,30 +19,6 @@ export const sharedPageComponents: SharedLayout = {
       Legal: "/legal/"
     },
   }),
-}
-
-import { h } from "preact" // Add this import at the very top
-
-// function ProfilePicture() {
-//   return h("div", {
-//     style: "display: flex; width: 100%;"
-//   }, [
-//     h("img", {
-//       src: "/static/me.jpg",
-//       class: "sidebar-profile-img",
-//       alt: "Me"
-//     })
-//   ])
-// }
-
-function Bio() {
-  return h("div", {}, [
-    h("hr", {
-      style: "margin: 0 0 28px 0; border: none; border-top: 1px solid var(--lightgray);"
-    }),
-    h("div", { style: "margin-bottom: 5px" }, ["he/him"]),
-    h("div", {}, ["🇬🇧 🇫🇷"])
-  ])
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -59,10 +36,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    // Component.ConditionalRender({
-    //   component: ProfilePicture,
-    //   condition: (page) => page.fileData.slug === "index",
-    // }),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -77,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
     Component.ConditionalRender({
-      component: Bio,
+      component: Component.DesktopOnly(Component.SidebarBio()),
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.DesktopOnly(Component.Spacer()), // These two are also showing on mobile?
@@ -107,5 +80,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: []
 }
