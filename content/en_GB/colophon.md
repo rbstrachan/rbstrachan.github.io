@@ -5,19 +5,30 @@ The site features a series of interactive background animations[^custom], includ
 Regarding typography, the main site title is styled in [Néo Castel](https://atypeofamigo.com/fonts/neo-castel/), a pixel art display font by [Max Lillo](https://www.instagram.com/maxlilllo/), with [Mac New York](https://aresluna.org/pixel-fonts/) by [Marcin Wichary](https://aresluna.org/) as the <span style="font-feature-settings: 'smcp' 1">Serif Mode</span>. The headings are [Ubuntu Regular](https://fonts.google.com/specimen/Ubuntu). The sidebar navigation, folder names, publication dates and footer all use [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3). The main article content uses [Georg Duffner](http://www.georgduffner.at/ebgaramond)'s open source digitization of [Egenolff-Berner's Garamond Regular](https://github.com/georgd/EB-Garamond) and [Garamond Dropcaps](https://github.com/georgd/EB-Garamond-Initials). Finally, code blocks are displayed in [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) to keep the technical sections clean and readable. Fonts are served via a mix of [Google Fonts](https://fonts.google.com/) and local loading.
 
 %%Regarding typography, the headers are in the [Schibsted Grotesk](https://fonts.google.com/specimen/Schibsted+Grotesk) font family, the body text is rendered in [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3) and the code blocks are displayed in [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono), served via%%
+
 ## QArt Code
 The website's URL is encoded within a [QArt code](https://research.swtch.com/qr/draw/)[^rsc], viewable at [[qr]], which takes advantage of the properties of [[Reed-Solomon error correction]] to embed the characters **令和** into the QR code’s body while ensuring it remains scannable.
+
 ## Accessibility
 [[accessibility|Accessibility]] is an important tenet of [[learning|my philosophy of learning]].
 This website aims to conform to the [Web Content Accessibility Guidelines 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) Level AA (Acceptable) or better[^tested] to maintain compliance with various international accessibility frameworks and legal standards.[^international] <!-- and other international accessibility standards for colour contrast and readability.-->
+
 ## Privacy
 This site does not use cookies, trackers or analytics of any kind. Your IP address may be collected by Cloudflare for their own analytical and DDOS-protection purposes, however this is outwith my control and the analytics information is only accessible in the aggregate.[^ip]
+
 ## License and Copyright
 The pages of this website and their content are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The technical framework and source code are derivative works of an MIT-licensed project and are therefore themselves licensed under [MIT](https://opensource.org/licenses/MIT).
+
+## Known Bugs & Issues
+1. Although French and Japanese translations exist for the [[404]] page, it currently only displays in English. This is a known limitation of how the translation system interacts with Quartz and GitHub Pages' handling of missing pages.
+
+1. Hovering over certain internal links causes the main article text to momentarily flash. It doesn't happen with every link, but it does consistently trigger on the same ones. I'm not yet sure why.
+
+Found a bug or issue that's not listed here? Please [[contact|let me know]]!
 
 [^custom]: The interactive backgrounds are custom-coded p5.js sketches running in `Instance Mode`. See individual animation pages for links to the source code.
 [^intense]: This animation simulates thousands of individual Physarum objects and their movements simultaneously inside a p5.js canvas object, which is quite resource-intensive. Viewing this animation may slow down your computer significantly or cause the page to crash. I'm working on optimising the code so that it runs smoother. Apologies in advance!
 [^international]: This includes conformity with the aforementioned [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) as well [ATAG 2.0](https://www.w3.org/TR/ATAG20/), which serves as the basis for meeting legal accessibility requirements under the UK Equality Act, ADA Title III (USA), AODA (Canada), EN 301 549 (EU) and other regional frameworks such as the Australian DDA and Israeli Standard 5568.
 [^tested]: Tested using tools from the [World Wide Web Consortium](https://www.w3.org/)'s [Web Accessibility Initiative](https://www.w3.org/WAI/)'s [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/), including automated contrast checkers and manual keyboard navigation audits.
 [^ip]: That is to say, the Cloudflare dashboard may show three unique visitors from the United States on a given day, but no identifying information or individual IP addresses are disclosed.
-[^rsc]: [Russ Cox](https://swtch.com/~rsc/), the brilliant mind who created this tool wrote a [post detailing his research](https://research.swtch.com/field).
+[^rsc]: [Russ Cox](https://swtch.com/~rsc/), the brilliant mind behind this tool, wrote a [post detailing his research](https://research.swtch.com/field).
