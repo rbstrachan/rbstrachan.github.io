@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     // Component.MathBackground(),
-    // Component.AsciiPlasma()
+    // Component.AsciiPlasmaBackground(),
     // Component.AccessibilityPanel()
   ],
   footer: Component.Footer({
@@ -16,6 +16,7 @@ export const sharedPageComponents: SharedLayout = {
       Contact: "/contact",
       Colophon: "/colophon",
       Acknowledgements: "/acknowledgements",
+      Accessibility: "/accessibility",
       Legal: "/legal/"
     },
   }),
@@ -31,8 +32,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+
     // Component.BrailleScramble(),
     Component.BookingButton(),
+    Component.SpoilerEffect()
   ],
   left: [
     Component.PageTitle(),
@@ -53,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.DesktopOnly(Component.SidebarBio()),
       condition: (page) => page.fileData.slug === "index",
     }),
-    Component.DesktopOnly(Component.Spacer()), // These two are also showing on mobile?
+    Component.DesktopOnly(Component.Spacer()),
     Component.DesktopOnly(Component.SidebarLinks())
   ],
   right: [
@@ -76,9 +79,12 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.LanguagePicker() }
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.SidebarLinks())
   ],
   right: []
 }
