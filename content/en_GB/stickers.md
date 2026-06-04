@@ -2,7 +2,7 @@
 draft: true
 ---
 
-I have more than 50 packs of stickers to give away this year. <!-- Since this is my personal website where I host my projects and research, I want to reward those who take a deeper look at what I publish. -->
+I have more than 50 packs of stickers to give away this year. <!-- Since this is my personal website where I host my projects and research, I want to reward those who take a deeper look at what I have published. -->
 
 > [!warning] Legal Disclaimer
 > Entries to the giveaway are completely free. Prize guaranteed if all conditions are met. No chance involved.

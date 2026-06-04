@@ -4,9 +4,9 @@ title: kanken reference
 aliases:
   - kanken reference
 ---
-The **Kanken Reference** is a comprehensive database and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k]
+The **Kanken Reference** is a comprehensive database and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k] We recommend you <a href="../ja/kanken">read this page in Japanese</a>.
 
-==Mastering the kanken takes an insane amount of practive. The Kankan Reference has analysed past exams, official guidance from the kanken association and official resources such as games and books to curate an comprehensive list of questions types that appear on the exam as well as specially curated question types not found on the kanken created by us to help you improve core skills needed for the test. Broken down by level, the kanken reference assures a pass at a given level if they can pass our [interactive assessments].==
+==Mastering the kanken takes an insane amount of practive. The Kankan Reference has analysed past exams, official guidance from the kanken association and official resources such as games and books to curate a comprehensive list of questions types that appear on the exam as well as specially curated question types not found on the kanken created by us to help you improve core skills needed for the test. Broken down by level, the kanken reference assures a pass at a given level if they can pass our [interactive assessments].==
 
 > [!check] Get started today!
 > Head over to the official [Kanji Kentei Reference](https://kanken.reiwa.ca) site and get started learning about and practicing for the Kanji Kentei.
@@ -53,7 +53,7 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 - **Japanese Learners**: JLPT N2/N1 takers needing kanji output practice beyond multiple-choice.
 - **Native Speakers**: Students/teachers prepping for school exams or certification (levels 10=grade 1, 2=high school grad).
 - **Parents/Educators**: Tracking kids' progress against official benchmarks (e.g., 1026 kanji for level 5).
-- **Professionals**: Resumes boost with Kanken 2nd grade certification.
+- **Professionals**: Résumé boost with Kanken 2nd grade certification.
 ## Screenshots
 
 *Dashboard for selecting levels and question banks.*
@@ -71,15 +71,15 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 - User-submitted questions.
 - Mobile app export.
 ## Links
-- **[Live Demo](https://yourusername.github.io/kanken-reference/)** ← Replace with your repo URL.
-- **[Source on GitHub](https://github.com/yourusername/kanken-reference)**.
-- **[Kanken Official (JP)](https://www.kanken.or.jp/kanken/)**.[kanken](https://www.kanken.or.jp/kanken/)
-- **[English Wiki](https://en.wikipedia.org/wiki/Kanji_Kentei)**.[wikipedia](https://en.wikipedia.org/wiki/Kanji_Kentei)
+- **[Live Demo](https://kanken.reiwa.ca/)**
+- **[Source on GitHub](https://github.com/rbstrachan/kanken)**.
+- **[Kanken Official (JP)](https://www.kanken.or.jp/kanken/)**.
+- **[English Wiki](https://en.wikipedia.org/wiki/Kanji_Kentei)**.
 
-*Last updated: May 2026. Kanji data from official sources. Not affiliated with or officially approved by the Japan Kanji Aptitude Testing Foundation.*
+*Last updated: May 2026. Kanji data from official sources^[which sources?]. Not affiliated with or officially approved by the Japan Kanji Aptitude Testing Foundation.*
 
-***
 %%
+***
 ## 日本漢字能力検定
 
 **日本漢字能力検定**（にほんかんじのうりょくけんてい）は、公益財団法人日本漢字能力検定協会が実施する漢字の読み書き能力に関する検定である。一般には**漢検**または**漢字検定**と呼ばれる。
@@ -201,4 +201,4 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 - [問題例](https://www.kanken.or.jp/kanken/grades/sample/)
 %%
 
-[^j1k]: As I have only studied for the Kanken up to Level 2, I am not familiar with, nor have the capabilities to, create accurate and reliable test content for the Pre-1 and 1 levels.
+[^j1k]: As I have only studied for the Kanken up to Level 2, I am not familiar with, nor have the capabilities, to create accurate and reliable test content for the Pre-1 and 1 levels.

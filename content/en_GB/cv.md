@@ -1,8 +1,7 @@
 ---
 draft: true
 ---
-<!-- ![[static/me.jpg]] -->
-%% GET PASSPORT PHOTO HERE? %%
+![[static/me.png|220]] %% USE PASSPORT PHOTO HERE? %%
 
 **English Tutor ・ Freelance Software Developer** %% RUBBISH - REWRITE %% \
 📍 UK ・ Canada ・ Japan\
@@ -14,14 +13,14 @@ draft: true
 > [!info] Professional Summary
 > **Multilingual educator** and **software developer** focused on intuitive, real-world English fluency. Looking to pursue an MLIS (Master’s in Library & Information Science) to apply research-led data organization methodologies to ESL curriculum design. Specializing in bridging the gap between technical complexity and accessible learning, concentrating on C1-level French support, neurodivergent-friendly pedagogy and real-world readiness for international professionals.
 
-***
+
 ## Skills & Technical Proficiencies
 * **Education & Linguistics**: ESL Pedagogy, Curriculum design, Bilingual instruction, Neurodivergent-adaptive teaching.
 * **Programming & Frameworks:** Electron (TS/JS), p5.js, Python, AHK.
 * **Technical:** Software development, Technical problem solving, Data management%% Analytical skills %%.
 * **Soft Skills:** Client collaboration, 90+ WPM typing, Technical training, Multi-timezone coordination.
 * **Languages:** English (Native), French (Professional Proficiency — CEFR C1).
-***
+
 ## Work Experience
 ### English Tutor ・ Freelance
 *Kyoto, Japan ・ December 2025–Present*
@@ -47,27 +46,27 @@ draft: true
 * **Collaborated globally**, assisting researchers across 3+ time zones (France, Canada and Japan).
 * **Securely managed** highly sensitive, confidential documents ensuring 100% availability while upholding strict security and encryption standards.
 <!-- expand! -->
-***
+
 ## Education
 ### BSc (Hons) Mathematics & Computer Science
 **Open University** ・ Online ・ 2027–2029
-* Differential Equations, Mathematical Programming, Algorithms & Data Structures %% UPDATE THIS WITH MODULES FROM OU SITE %%
+<!-- * Differential Equations, Mathematical Programming, Algorithms & Data Structures %% UPDATE THIS WITH MODULES FROM OU SITE %% -->
 ### MA Librarianship
 **Sheffield University** ・ MLIS ・ 2030
-### BA (Hons) French Language Studies %% OPEN DEGREE? %%
-**Open University** ・ Online ・ 2033
+<!-- ### BA (Hons) French Language Studies %% OPEN DEGREE? %%
+**Open University** ・ Online ・ 2033 -->
 <!-- ### BSc (Hons) Mathematics
 **University of Aberdeen** ・ UK ・ 2017–2019
 * **Focus:** Calculus, Linear Algebra, Set Theory, Analysis. -->
 <!--
 ### HNC Applied Sciences
 **North East Scotland College** ・ UK ・ 2016–2017 -->
-***
+
 ## Projects
 
 * **Maintainer, [[QADDOE]]** ([reiwa.ca/qaddoe](https://reiwa.ca/qaddoe)) – Lead developer and maintainer for a qualitative data analysis tool used by graduate students at the University of Quebec and across Canada.
 <!-- * **Designer, Serial Steno Typing Theory** – Developing advanced typing methodologies. -->
-***
+
 ## Certificates
-* **[[tefl|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language (2026)
-* **Certified Cybersecurity Analyst** ・ IBM ・ (August–December 2021)
+* **[[tefl|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language ・ 2026
+* **Certified Cybersecurity Analyst** ・ IBM ・ 2021

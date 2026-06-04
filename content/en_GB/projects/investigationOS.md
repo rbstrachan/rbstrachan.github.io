@@ -14,6 +14,7 @@
 
 ## Goal
 The primary goal of **investigationOS** is to eliminate ephemeral knowledge loss. By forcing the documentation of every logical connection, the vault ensures that if a lead investigator is removed from a case, any successor can reconstruct the investigation’s progress, rationale and evidentiary chain without gaps.
+
 ## Folder Structure
 The vault is divided into several folders to allow the easy organisation and ease of connections between raw data.
 - **meta/** — houses files necessary for the working of the vault itself, including investigative personnel profiles, attachments and automation templates.
@@ -23,5 +24,6 @@ The vault is divided into several folders to allow the easy organisation and eas
 - **inbox** — a note to temporarily store new information that hasn't been sorted into the vault yet.
 - **pinboard** — a interactive visual representation of the investigation analogous to a real-life pinboard.
 - **timeline** — a base of all events recorded in the vault in order of the date and time they occurred.
+
 ## Data Integrity & Chain of Custody
 Evidence management requires a verifiable history. Within each evidence note, the `collectedBy` property links directly to a investigative personnel note, establishing an unbroken line of responsibility. Tags such as `#exculpatory` are used to flag evidence that must by law be disclosed to the defence, ensuring the investigation remains trial-ready.

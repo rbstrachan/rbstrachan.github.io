@@ -10,12 +10,12 @@ standards and accessibility, your research could involve:
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
 - Information Retrieval: How do library catalogues index tactile materials in multiple languages?
 -->
-Hello! I'm *Ross*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
+Hello! I'm *%%[[about|%%Ross%%]]%%*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
 I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]--><a href="tefl"><small>TEFL</small> Level 5 diploma</a>.\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
 
-My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specificallysipecifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.
+My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.
 <!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardisation of Braille]]. -->
 <!-- This sentence is too heavy for the front page, move it elsewhere:
 My goal is to eventually work in a role where I can actively develop and improve library services, including braille and accessible materials, to ensure everyone has equal access to information. -->
@@ -49,9 +49,9 @@ Want to drop a digital note? Sign the [[guestbook]]!
 ⠊　⠇⠕⠧⠑　⠃⠗⠁⠊⠇⠇⠑
 
 > [!todo]- This website is a work in progress...
-> Building this personal space is a relatively new project and my first foray into "linked knowledge management". As I transition my notes from my private vault to this public one, you’ll find many areas that are still in their early stages.
+> Building this personal space is a relatively new project and my first foray into "linked knowledge management". As I transition my notes from my private vault to this public one, you’ll find many areas that are still in their early stages. I've compiled a list of [[colophon#known-bugs--issues|known bugs and issues]] with the site.
 >
-> I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here! Check back soon!
+> I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here. Check back soon!
 
 %%
 to be added to left-hand-column

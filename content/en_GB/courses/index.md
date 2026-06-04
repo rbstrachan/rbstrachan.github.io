@@ -1,6 +1,6 @@
 ---
+draft: true
 title: courses
 aliases:
   - courses
-draft: true
 ---

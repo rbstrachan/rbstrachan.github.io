@@ -169,9 +169,8 @@ The performance score, especially for mobile devices, is quite poor due mainly t
 </div>
 
 <script>
-  // Compute dasharray and text from data-score for all gauges
   (function () {
-    const CIRC = 2 * Math.PI * 56; // circumference for r=56 (~351.858)
+    const CIRC = 2 * Math.PI * 56;
 
     document.querySelectorAll('.gauge[data-score]').forEach(gauge => {
       const score = parseFloat(gauge.dataset.score) || 0;

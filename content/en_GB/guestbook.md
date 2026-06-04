@@ -1,3 +1,6 @@
+---
+cssclasses: no-dropcap-no-smallcaps
+---
 Thank you for visiting! Please feel free to leave a note, I'd love to hear from you.
 
 > [!quote] A foreword...
@@ -15,4 +18,4 @@ Thank you for visiting! Please feel free to leave a note, I'd love to hear from 
 </style>
 <iframe data-tally-src="https://tally.so/embed/9qDayE?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" frameborder="0" marginheight="0" marginwidth="0" title="Reiwa's Guestbook"></iframe>
 <script src="https://tally.so/widgets/embed.js"></script>
-<!-- # Archives -->
+<!-- ## Archives -->

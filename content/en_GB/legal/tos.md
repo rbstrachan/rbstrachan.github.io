@@ -29,8 +29,8 @@ For the safety, security and quality assurance of both the Student and the Tutor
 ## Booking Categories
 | Lesson&nbsp;Type | Description |
 | --- | --- |
-| **Trial Lesson** | A one-time, 45-minute introductory session offered free of charge to new students. |
-| **Single Lesson** | One-off sessions booked and paid for directly via the online booking system. |
+| **Trial Lesson**<br>&nbsp; | A one-time, 45-minute introductory session offered free of charge to new students. |
+| **Single&nbsp;Lesson** | One-off sessions booked and paid for directly via the online booking system. |
 | **Lesson Block**<br>&nbsp; | Discounted packages (e.g., 12 or 36 hours) paid in advance via invoice.<br>Scheduling for blocks is handled manually between the Tutor and Student. |
 
 ## Cancellations & Rescheduling
@@ -51,9 +51,9 @@ To maintain the group discount for all participants, prices are fixed at the ini
 
 ## Payments, Refunds & Expiry
 ### Currency
-Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. Prices shown may be rounded to the nearest quarter for easy calculation.
+Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. Prices shown may be rounded to the nearest quarter of a unit for easy calculation.
 ### Refunds & Voluntary Withdrawal
-Refunds will be issued to the original payment method wherever possible within 3 business days. Voluntary or 'change-of-heart' refunds, including withdrawal from this agreement or the privacy policy, will exclude non-recoverable payment processing fees (from 3.25% to 6.5% depending on the payment method and currency used) where legal.
+Refunds will be issued to the original payment method wherever possible within 3 business days. Voluntary or 'change-of-heart' refunds, including withdrawal from this agreement or the privacy policy, will exclude non-recoverable payment processing fees[^fees] where legal.
 ### Block Expiry
 To encourage consistent progress, unused block hours expire **6 months** from the date of purchase or the date of the last completed lesson, whichever is later. Extensions must be requested and are not guaranteed. Reminders will be sent before expiry.
 
@@ -69,10 +69,12 @@ In the event of a Code of Conduct violation, the Tutor reserves the right to can
   3. The Student will be permanently barred from booking future sessions with any tutor through this website.
 
 ## Intellectual Property
-All resources, worksheets and recordings provided by the Tutor are for the Student's personal educational use only and may not be redistributed, uploaded to public platforms or sold.
+All resources, worksheets and recordings provided by the Tutor are for the Student's personal educational use only and may not be copied, redistributed, uploaded to public platforms or sold.
 
 ## General Provisions
 ### Tutor Cancellations
 The Tutor promises not to cancel a lesson without good reason if it is at all avoidable. If the Tutor must cancel a lesson, the Student will be offered a full refund or a priority reschedule for the affected lesson(s).
 ### Governing Law
 These Terms are governed by the laws of the United Kingdom. We will attempt to resolve any disputes informally and in good faith before seeking external mediation.
+
+[^fees]: Payment processing fees range from 3.25% to 6.5% depending on the payment method, currency and location of the student.
