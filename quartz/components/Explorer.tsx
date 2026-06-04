@@ -155,6 +155,7 @@ export default ((userOpts?: Partial<Options>) => {
             </div>
           </li>
         </template>
+        <hr style="margin: 22px 0 6px 0; border: none; border-top: 1px solid var(--lightgray);" />
       </div>
     )
   }
