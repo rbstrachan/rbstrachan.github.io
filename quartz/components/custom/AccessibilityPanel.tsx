@@ -24,7 +24,7 @@ const AccessibilityPanel: QuartzComponent = ({ displayClass }: QuartzComponentPr
             <p className="control-desc">Uncheck to completely disable background shaders, motion graphics and canvas and interactive elements.</p>
           </div>
           <label className="switch-ui">
-            <input id="toggle-animations" type="checkbox" defaultChecked />
+            <input id="toggle-animations" type="checkbox" />
             <span className="switch-slider"></span>
           </label>
         </div>
@@ -32,8 +32,8 @@ const AccessibilityPanel: QuartzComponent = ({ displayClass }: QuartzComponentPr
         {/* Toggle 2: Serif Mode */}
         <div className="control-group-toggle">
           <div className="control-text-meta">
-            <label htmlFor="toggle-serifMode">Editorial Serif Mode</label>
-            <p className="control-desc">Swaps header font for an eccentric, high colour layout.</p>
+            <label htmlFor="toggle-serifMode">Eccentric Headers</label>
+            <p className="control-desc">Changes headers to have an eccentric, high colour pixel art font.</p>
           </div>
           <label className="switch-ui">
             <input id="toggle-serifMode" type="checkbox" />
@@ -44,7 +44,7 @@ const AccessibilityPanel: QuartzComponent = ({ displayClass }: QuartzComponentPr
         {/* Toggle 3: Sans Mode */}
         <div className="control-group-toggle">
           <div className="control-text-meta">
-            <label htmlFor="toggle-sansMode">Dyslexia Sans-Serif</label>
+            <label htmlFor="toggle-sansMode">Dyslexia & Sans Serif</label>
             <p className="control-desc">Forces standard, clean sans-serif fonts optimized for high readability.</p>
           </div>
           <label className="switch-ui">
