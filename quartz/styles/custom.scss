@@ -47,7 +47,7 @@ article p, article li {
   font-size: calc((22 / 18) * 1rem);
 }
 
-article p, article li, .explorer li, .toc li, .backlinks li {
+article p:not(.no-font), article li, .explorer li, .toc li, .backlinks li {
   font-family: 'EB Garamond GH Regular', 'Shippori Mincho B1', serif;
   line-height: 1.5;
   font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
@@ -72,6 +72,7 @@ body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallc
   font-family: 'EB Garamond GH Initials', serif;
   font-size: 5rem;
   font-weight: normal;
+  text-transform: uppercase;
   float: left;
   padding-top: 0.15rem;
   margin-right: 0.1em;
@@ -200,11 +201,12 @@ sup {
 }
 
 // sidebar
+.page-title,
 .sidebar,
+.explorer,
 .graph,
 .backlinks,
-.explorer,
-.page-title,
+footer,
 button {
   -webkit-user-select: none;
   -ms-user-select: none;
