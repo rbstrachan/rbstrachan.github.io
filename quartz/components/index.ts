@@ -25,13 +25,14 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
 import SidebarBio from "./custom/SidebarBio"
-import MathBackground from "./custom/MathBackground"
 import SidebarLinks from "./custom/SidebarLinks"
 import LanguagePicker from "./custom/LanguagePicker"
 import BrailleScramble from "./custom/BrailleScramble"
-import AsciiPlasma from "./custom/AsciiPlasma"
+import MathBackground from "./custom/MathBackground"
+import AsciiPlasmaBackground from "./custom/AsciiPlasmaBackground"
 import BookingButton from "./custom/BookingButton"
 import AccessibilityPanel from "./custom/AccessibilityPanel"
+import SpoilerEffect from "./custom/SpoilerEffect"
 
 export {
   ArticleTitle,
@@ -59,12 +60,14 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+
   SidebarBio,
-  MathBackground,
   SidebarLinks,
   LanguagePicker,
   BrailleScramble,
-  AsciiPlasma,
+  MathBackground,
+  AsciiPlasmaBackground,
   BookingButton,
-  AccessibilityPanel
+  AccessibilityPanel,
+  SpoilerEffect
 }
