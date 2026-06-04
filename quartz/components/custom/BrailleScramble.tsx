@@ -1,5 +1,5 @@
 import type { QuartzComponent, QuartzComponentConstructor } from "./types"
-import script from "../scripts/brailleScramble.inline"
+import script from "../scripts/custom/brailleScramble.inline"
 
 export default (() => {
   const BrailleScramble: QuartzComponent = () => <></>
@@ -7,13 +7,14 @@ export default (() => {
   BrailleScramble.afterDOMLoaded = script
 
   BrailleScramble.css = `
-  .text-block {
+  .braille-text-block {
     margin: 1vw;
     font-family: "Ubuntu Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
     font-size: clamp(14px, 4vw, 32px);
     color: var(--light);
     font-weight: 700;
     font-variant-ligatures: none;
+    user-select: none;
   }
 
   .word { display: inline-block; white-space: nowrap; }

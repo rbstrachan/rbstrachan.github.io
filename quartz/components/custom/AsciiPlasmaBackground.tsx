@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-const AsciiPlasma: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+const AsciiPlasmaBackground: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
     <canvas
       id="ascii-bg"
@@ -17,7 +17,7 @@ const AsciiPlasma: QuartzComponent = ({ displayClass }: QuartzComponentProps) =>
   )
 }
 
-AsciiPlasma.afterDOMLoaded = `
+AsciiPlasmaBackground.afterDOMLoaded = `
 (function () {
   const existingCanvas = document.getElementById('ascii-bg-persistent');
   if (existingCanvas) {
@@ -99,4 +99,4 @@ AsciiPlasma.afterDOMLoaded = `
 })();
 `
 
-export default (() => AsciiPlasma) satisfies QuartzComponentConstructor
+export default (() => AsciiPlasmaBackground) satisfies QuartzComponentConstructor
