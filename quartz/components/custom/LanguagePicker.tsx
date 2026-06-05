@@ -9,7 +9,7 @@ function LanguagePicker({ displayClass }: QuartzComponentProps) {
       <ul class="lang-menu">
         <li><button data-lang="en">English</button></li>
         <li><button data-lang="fr">Français</button></li>
-        <li><button data-lang="ja">日本語</button></li>
+        {/*<li><button data-lang="ja">日本語</button></li>*/}
       </ul>
 
       <script dangerouslySetInnerHTML={{
