@@ -20,6 +20,8 @@ This site does not use cookies, trackers or analytics of any kind. Your IP addre
 The pages of this website and their content are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The technical framework and source code are derivative works of an MIT-licensed project and are therefore themselves licensed under [MIT](https://opensource.org/licenses/MIT).
 
 ## Known Bugs & Issues
+The list below details problems, bugs and unintended behaviours discovered across the site. For known issues relating to accessibility and performance, see [[accessibility#known-accessibility-and-performance-issues|known accessibility issues]].
+
 1. Although French and Japanese translations exist for the [[404]] page, it currently only displays in English. This is a known limitation of how the translation system interacts with Quartz and GitHub Pages' handling of missing pages.
 
 1. Hovering over certain internal links causes the main article text to momentarily flash. It doesn't happen with every link, but it does consistently trigger on the same ones. I'm not yet sure why.
