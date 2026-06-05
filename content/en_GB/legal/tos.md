@@ -39,13 +39,13 @@ No reason is required for a cancellation, provided the following notice periods 
 ### Trial Lessons
 May be cancelled or rescheduled at any time without penalty.
 ### Single Lessons
-* **>24 Hours Notice:** Full refund or free reschedule.
-* **<24 Hours Notice:** No refund provided; reschedule offered only at the Tutor's sole discretion.
-* **No-Shows:** The lesson is forfeited and no refund will be issued.
+- **>24 Hours Notice:** Full refund or free reschedule.
+- **<24 Hours Notice:** No refund provided; reschedule offered only at the Tutor's sole discretion.
+- **No-Shows:** The lesson is forfeited and no refund will be issued.
 ### Lesson Blocks (Pre-paid)
-* **>24 Hours Notice:** The lesson credit is preserved and may be rescheduled.
-* **<24 Hours Notice:** The lesson will be charged at 50% of its value with the remaining 50% remaining as a credit.
-* **No-Shows / Same-Day Cancellation:** The lesson is charged in full and deducted from the block balance.
+- **>24 Hours Notice:** The lesson credit is preserved and may be rescheduled.
+- **<24 Hours Notice:** The lesson will be charged at 50% of its value with the remaining 50% remaining as a credit.
+- **No-Shows / Same-Day Cancellation:** The lesson is charged in full and deducted from the block balance.
 ### Group Lessons
 To maintain the group discount for all participants, prices are fixed at the initial booking. If an individual is absent, the lesson proceeds as scheduled. The Tutor will provide the recording, session notes and any appropriate teaching material to the absent student. No partial refunds or credits are provided for individual absences.
 

@@ -10,7 +10,7 @@ standards and accessibility, your research could involve:
 - Universal Design: Can we create a more unified "global" Braille standard that reduces the barrier for language learners who are visually impaired?
 - Information Retrieval: How do library catalogues index tactile materials in multiple languages?
 -->
-Hello! I'm *%%[[about|%%Ross%%]]%%*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
+Hello! I'm *<!--[[about|-->Ross<!--]]-->*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
 I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]--><a href="tefl"><small>TEFL</small> Level 5 diploma</a>.\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
@@ -40,7 +40,7 @@ This website serves as a central reference hub for information on [[projects/ind
 - [ ] guides (free) - Reiwa's guide to natural fluency
 - [ ] -->
 
-I'm currently in <!--[[Japan|🇯🇵 Japan]]-->**🇯🇵 Japan**. I'm available for both remote-freelance and hired work — <!--[[cv|interact with my CV]] or-->please don't hesitate to [get in touch](mailto:ross@reiwa.ca).
+I'm currently in <!--[[Japan|🇯🇵 Japan]]-->**🇯🇵 Japan**. I'm available for both remote-freelance and hired work — <!--[[cv|interact with my CV]] or-->please don't hesitate to [[contact|get in touch]].
 
 Want to drop a digital note? Sign the [[guestbook]]!
 
@@ -53,15 +53,15 @@ Want to drop a digital note? Sign the [[guestbook]]!
 >
 > I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here. Check back soon!
 
-%%
+<!--
 to be added to left-hand-column
 at the bottom:
 home (if not on home welcome page)
 
 - language tools
-	* 「日本語」[令和リーダー](/nihongo/reader)
-	* (Français) [Outil pour Réviser les Genres des Mots Français (1500 mots)](/p5.js/francais)
+	- 「日本語」[令和リーダー](/nihongo/reader)
+	- (Français) [Outil pour Réviser les Genres des Mots Français (1500 mots)](/p5.js/francais)
 - games
-	* [Harley's Hallows' Halloween Haunt](https://harleyshallows.github.io/games/hhhh/)
-	* [Hogwarts Express Ticket Generator](https://harleyshallows.github.io/games/ticket/)
-%%
+	- [Harley's Hallows' Halloween Haunt](https://harleyshallows.github.io/games/hhhh/)
+	- [Hogwarts Express Ticket Generator](https://harleyshallows.github.io/games/ticket/)
+-->

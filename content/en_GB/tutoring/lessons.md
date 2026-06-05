@@ -17,10 +17,10 @@ With a library of **over 1,400 lessons** across both languages, I have spaces av
 <!-- Limited spaces are also available for Business English and Business French classes. -->
 
 I can help you:
-* **learn targeted vocabulary and grammar** to build natural and functional vocabularies, both active and passive.
-* **overcome the intermediate plateau** with targeted strategies to move beyond B1/B2 into advanced, native-like fluency.
-* **correct mistakes in real time** to help you identify and immediately fix mistakes and prevent bad habits forming.
-* **hold a natural conversation** by mastering the nuance, slang and rhythm used by native speakers.
+- **learn targeted vocabulary and grammar** to build natural and functional vocabularies, both active and passive.
+- **overcome the intermediate plateau** with targeted strategies to move beyond B1/B2 into advanced, native-like fluency.
+- **correct mistakes in real time** to help you identify and immediately fix mistakes and prevent bad habits forming.
+- **hold a natural conversation** by mastering the nuance, slang and rhythm used by native speakers.
 
 > [!success] Ready to get started?
 > **Book a free 45-minute trial lesson.**\
