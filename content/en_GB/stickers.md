@@ -1,20 +1,22 @@
----
-draft: true
----
-I enjoy, from time to time, designing stickers inspired by my research, projects, and topics that interest me. Below, you can check out the current collection (available in both digital and physical formats) ~~and discover a few ways to grab a pack of your own *for free*~~<sup><small>COMING SOON!</small></sup>
-<!-- use base to show all designs for digital downloading, can be down from reiwa.ca without having to redirect elsewhere? -->
+I enjoy, from time to time, designing stickers inspired by my research, projects, and topics that interest me. Below, you can check out the current collection %%(available in both digital and physical formats)%% ~~and discover a few ways to win a pack of your own *for free*~~<sup>COMING SOON!</sup>
+<!-- use a .base file to show all designs for digital downloading? -->
 
 ## Current designs
-Decorating your laptop? Expanding your sticker collection? Claiming your prize as a giveaway winner? Feel free to choose from any of the available designs in either physical or digital format.
+Decorating your laptop? Expanding your sticker collection?<!--Claiming your prize as a giveaway winner?--> Feel free to choose from any the below designs in %%either physical or%% digital format.
 
-- [<small>PHYSICAL</small> high-quality, laminated stickers](https://www.stickermule.com/reiwa) with free shipping right to your door; or
-- [<small>DIGITAL</small> files for non-paper-based projects](https://shop.reiwa.ca) and hobbyist sticker printers. <u>personal use only</u>.
+- ~~%%[%%PHYSICAL high-quality, laminated stickers%%](https://www.stickermule.com/reiwa)%% with free shipping right to your door; or~~<sup>COMING SOON!</sup>
+- [DIGITAL files for non-paper-based projects](https://shop.reiwa.ca) and hobbyist sticker printers. <u>personal use only</u>.
 
-> *Currently, only two stickers designs are available — those of the logo of this site with a light and dark version.*
+> *Currently, only two stickers designs are available — those of the logo of this site with a light and dark version — however more are in the works. Check back soon!*
+
 <center>
 <div style="padding-top: 5px; display: flex; justify-content: center;">
-<div style="background-color: #faf8f5; width: 40%; border-radius: 7px;"><img src="static/reiwaStickerDark.png" style="width: 250px;"></div>
+<!-- <span href="https://shop.reiwa.ca/l/reiwa-logo-sticker-light"> -->
+<div style="background-color: #faf8f5; width: 40%; border-radius: 7px;"><img src="static/reiwaStickerDark.png" style="width: 250px;"></div></a>
+<!-- </span> -->
+<!-- <a href="https://shop.reiwa.ca/l/reiwa-logo-sticker-dark"> -->
 <div style="background-color: #161618; width: 40%; border-radius: 7px;"><img src="static/reiwaStickerLight.png" style="width: 250px;"></div>
+<!-- </a> -->
 </div>
 </center>
 
@@ -33,7 +35,7 @@ You can earn a free sticker pack (shipping on me) by completing any of the below
 ### Claim your pack
 Once you've completed the hunt, solved a puzzle or made a contribution, **[email me](mailto:ross@reiwa.ca?subject=Scavenger%20hunt%20stickers)** to claim your pack. Please include proof of your contribution, your mailing address and your chosen design, and I'll handle the rest. -->
 
-## Submit a sticker design
+<!-- ## Submit a sticker design
 Got some artwork or a concept that you think I'd like? **[Submit your design](mailto:ross@reiwa.ca?subject=Sticker%20design%20submission)**, and if accepted, I'll credit you prominently[^credit] *and* send 100% of the net profits[^profits] directly back to you.
 
 > [!info]- Submission terms
@@ -51,7 +53,7 @@ Designs made with the use of AI are not allowed.
 > >
 > > If a third party claims intellectual property infringement over designs you submitted, you agree to indemnify and hold me harmless from any claims, damages, losses or legal fees. **This includes an obligation to immediately reimburse me for any previously distributed profits or payouts earned from the designs in question, as well as any damages that arise from the dispute.**
 > >
-> > Accordingly, I reserve the right to withhold any pending payouts while the claim is investigated, and to forfeit said funds entirely if it is determined that you did not hold the necessary rights or licenses to submit the artwork for sale.
+> > Accordingly, I reserve the right to withhold any pending payouts while the claim is investigated, and to forfeit said funds entirely if it is determined that you did not hold the necessary rights or licenses to submit the artwork for sale. -->
 
 [^pack]: One sticker pack contains 10 identical stickers. Retail value between US$17 and US$29.
 [^disclaimer]: Entries to the giveaway are completely free. No chance involved; prizes are guaranteed if all conditions are met. You must be 18 years or older, live in the US, Canada, the UK or the EU and be willing to provide a valid mailing address to be eligible. One sticker pack per household. Void where prohibited. Subject to availability.
