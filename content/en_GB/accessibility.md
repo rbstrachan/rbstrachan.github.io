@@ -30,9 +30,9 @@ Below you'll find some additional details about the automated services I use to 
 ### Google Lighthouse
 Lighthouse evaluates a visitors user experience across several core accessibility standards, providing an automated score from 0 to 100 in four categories — performance, accessibility, best practices and search engine optimisation. Google have set the following thresholds, where a higher score is better:
 
-- **90–100 (<small>PASS</small>):** The website successfully implements automated accessibility best practices with only minimal barriers and *should*[^caveat][^help] be widely usable.
-- **50–89 (<small>DEFICIENT</small>):** The website is mostly functional but has some moderate barriers such as poor colour contrast or missing labels that may impact usability for some visitors.
-- **0–49 (<small>FAIL</small>):** The website has critical barriers whose friction prevents the majority of users with assistive technologies from navigating, reading or interacting with content.
+- **90–100 (PASS):** The website successfully implements automated accessibility best practices with only minimal barriers and *should*[^caveat][^help] be widely usable.
+- **50–89 (DEFICIENT):** The website is mostly functional but has some moderate barriers such as poor colour contrast or missing labels that may impact usability for some visitors.
+- **0–49 (FAIL):** The website has critical barriers whose friction prevents the majority of users with assistive technologies from navigating, reading or interacting with content.
 
 Read this site's latest [Lighthouse report](https://pagespeed.web.dev/analysis/https-reiwa-ca/f8lrpaxq6p?hl=en&form_factor=desktop), generated on June 1st, 2026.
 

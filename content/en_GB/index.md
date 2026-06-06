@@ -12,7 +12,7 @@ standards and accessibility, your research could involve:
 -->
 Hello! I'm *<!--[[about|-->Ross<!--]]-->*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
-I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]--><a href="tefl"><small>TEFL</small> Level 5 diploma</a>.\
+I'm currently studying for the <!--[[tefl|TEFL Level 5 diploma]]-->[[tefl|TEFL Level 5 diploma]].\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
 
 My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal to research the differences in the implementation of [[Braille]] across international writing systems.

@@ -104,19 +104,19 @@ CURRENT STENO SPEED <strong>5 WPM</strong>   •   CURRENT QWERTY SPEED <s
 
 <!-- Landmarks -->
 <div class="steno-landmark" style="left: calc((40 / 250) * 100%);">
-<div class="steno-landmark-label"><b>40</b><br><small>average QWERTY</small></div>
+<div class="steno-landmark-label"><b>40</b><br>average QWERTY</div>
 </div>
 <div class="steno-landmark" style="left: calc((80 / 250) * 100%);">
-<div class="steno-landmark-label"><b>80</b><br><small>fast QWERTY</small></div>
+<div class="steno-landmark-label"><b>80</b><br>average QWERTY</div>
 </div>
 <div class="steno-landmark" style="left: calc((150 / 250) * 100%);">
-<div class="steno-landmark-label"><b>150</b><br><small>speed of speech</small></div>
+<div class="steno-landmark-label"><b>150</b><br>average QWERTY</div>
 </div>
 <div class="steno-landmark" style="left: calc((225 / 250) * 100%);">
-<div class="steno-landmark-label"><b>225</b><br><small>professional steno                              </small></div>
+<div class="steno-landmark-label"><b>225</b><br>average QWERTY</div>
 </div>
 <div class="steno-landmark" style="left: calc((240 / 250) * 100%);">
-<div class="steno-landmark-label"><b>240</b><br><small>         my goal</small></div>
+<div class="steno-landmark-label"><b>240</b><br>average QWERTY</div>
 </div>
 </div>
 </div>
