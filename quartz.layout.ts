@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     // Component.MathBackground(),
     // Component.AsciiPlasmaBackground(),
-    // Component.AccessibilityPanel()
+    Component.AccessibilityPanel()
   ],
   footer: Component.Footer({
     links: {
@@ -48,7 +48,8 @@ export const defaultContentPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
-        { Component: Component.LanguagePicker() }
+        { Component: Component.LanguagePicker() },
+        { Component: Component.PrideMode() }
       ],
     }),
     Component.Explorer(),
@@ -79,7 +80,8 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.LanguagePicker() }
+        { Component: Component.LanguagePicker() },
+        { Component: Component.PrideMode() }
       ],
     }),
     Component.Explorer(),
