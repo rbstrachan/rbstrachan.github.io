@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     pageTitle: lang === 'ja' ? "令和・路数" : "reiwa.ca",
     pageTitleSuffix: "・reiwa.ca",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {},
     locale: lang === 'ja' ? "ja-JP" : lang === 'fr' ? "fr-FR" : "en-GB",
     baseUrl: lang === 'en' ? base : `${base}/${lang}`,
@@ -68,6 +68,8 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Dropcaps(),
+      Plugin.SmallCaps()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
