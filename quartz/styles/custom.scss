@@ -6,6 +6,8 @@
 @use 'custom/explorer';
 @use 'custom/languagePicker';
 @use 'custom/lighthouse';
+@use 'custom/prideMode';
+@use 'custom/acronyms';
 
 :root {
   --pixel-purple: #9d4edd;
@@ -21,6 +23,7 @@ html {
   font-size: 14px;
 }
 
+// force .desktop-only class to be hidden regardless of other styles
 @media (max-width: 800px) {
   .desktop-only {
     display: none !important;
@@ -47,7 +50,7 @@ article p, article li {
   font-size: calc((22 / 18) * 1rem);
 }
 
-article p:not(.no-font), article li, .explorer li, .toc li, .backlinks li {
+article p:not(.no-font), article li, .explorer li, .toc li, .backlinks li, #pride-bar {
   font-family: 'EB Garamond GH Regular', 'Shippori Mincho B1', serif;
   line-height: 1.5;
   font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
@@ -68,18 +71,28 @@ article p:not(.no-font), article li, .explorer li, .toc li, .backlinks li {
 // - we are not in a folder
 // - the article language is english
 // - the no-dropcap-no-smallcaps frontmatter cssclasses is not present
-body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-letter {
-  font-family: 'EB Garamond GH Initials', serif;
-  font-size: 5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  float: left;
-  padding-top: 0.15rem;
-  margin-right: 0.1em;
-}
+body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallcaps) > p:first-of-type {
+  .dropcap {
+    font-family: 'EB Garamond GH Initials F1', serif;
+    font-size: 5.2rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    float: left;
+    padding-top: 0.175rem;
+    margin-right: 0.1em;
+    line-height: 1;
 
-body:not([data-slug$="/index"]) article:not(:lang(ja)):not(.no-dropcap-no-smallcaps) > p:first-of-type::first-line {
-  font-feature-settings: "smcp" 1, "c2sc" 1;
+    &::before {
+      font-family: 'EB Garamond GH Initials F2', serif;
+      content: attr(data-first-letter);
+      // color: var(--darkgray) !important;
+      position: absolute;
+    }
+  }
+
+  &::first-line {
+    font-feature-settings: "smcp" 1, "c2sc" 1;
+  }
 }
 
 em, i {
@@ -229,39 +242,39 @@ button {
 }
 
 // background animations
-#bg-canvas-host {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: -1;
-  pointer-events: none;
-  opacity: 0.3;
-}
-
-#bg-controls {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 100;
-
-  #toggle-bg {
-    background: var(--lightgray);
-    border: 1px solid var(--gray);
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    cursor: pointer;
-    font-size: 1.2rem;
-    transition: transform 0.2s;
-
-    &:hover {
-      transform: rotate(90deg);
-      background: var(--highlight);
-    }
-  }
-}
+// #bg-canvas-host {
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   width: 100vw;
+//   height: 100vh;
+//   z-index: -1;
+//   pointer-events: none;
+//   opacity: 0.3;
+// }
+//
+// #bg-controls {
+//   position: fixed;
+//   bottom: 20px;
+//   right: 20px;
+//   z-index: 100;
+//
+//   #toggle-bg {
+//     background: var(--lightgray);
+//     border: 1px solid var(--gray);
+//     border-radius: 50%;
+//     width: 40px;
+//     height: 40px;
+//     cursor: pointer;
+//     font-size: 1.2rem;
+//     transition: transform 0.2s;
+//
+//     &:hover {
+//       transform: rotate(90deg);
+//       background: var(--highlight);
+//     }
+//   }
+// }
 
 // profilep picture
 .sidebar-profile-img {
