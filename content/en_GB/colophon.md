@@ -24,7 +24,7 @@ The list below details problems, bugs and unintended behaviours discovered acros
 
 1. Although French and Japanese translations exist for the [[404]] page, it currently only displays in English. This is a known limitation of how the translation system interacts with Quartz and GitHub Pages' handling of missing pages.
 
-1. Hovering over certain internal links causes the main article text to momentarily flash. It doesn't happen with every link, but it does consistently trigger on the same ones. I'm not yet sure why.
+1. Hovering over certain internal links causes the main article text to momentarily flash. It doesn't happen with every link, but it does consistently trigger on the same ones. I'm not yet sure why. **I have temporarily disabled popovers to prevent this from happening.**
 
 Found a bug or issue that's not listed here? Please [[contact|let me know]]!
 
