@@ -11,3 +11,6 @@ export { SyntaxHighlighting } from "./syntax"
 export { TableOfContents } from "./toc"
 export { HardLineBreaks } from "./linebreaks"
 export { RoamFlavoredMarkdown } from "./roam"
+
+export { Dropcaps } from "./custom/dropcaps"
+export { SmallCaps } from "./custom/smallcaps"
