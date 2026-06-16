@@ -3,8 +3,9 @@ draft: true
 title: kanken reference
 aliases:
   - kanken reference
+  - kanken
 ---
-The **Kanken Reference** is a comprehensive database and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k] We recommend you <a href="../ja/kanken">read this page in Japanese</a>.
+The Kanken Reference is a comprehensive database and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k] We recommend you <a href="../ja/kanken">read this page in Japanese</a>.
 
 ==Mastering the kanken takes an insane amount of practive. The Kankan Reference has analysed past exams, official guidance from the kanken association and official resources such as games and books to curate a comprehensive list of questions types that appear on the exam as well as specially curated question types not found on the kanken created by us to help you improve core skills needed for the test. Broken down by level, the kanken reference assures a pass at a given level if they can pass our [interactive assessments].==
 
@@ -13,7 +14,7 @@ The **Kanken Reference** is a comprehensive database and practice hub for the **
 
 *Sample practice interface for reading and stroke order questions, mimicking official exam styling.*
 ## Overview
-This project serves as an accessible, ad-free, open-access online resource for the **Kanken**. The site provides comprehensive details on exam structure, levels, question types, history and practice games and books, as well as hosting interactive practice quizzes styled exactly like the real test. To keep costs low and ensure high speeds, everything runs client-side in your browser — no login needed.
+This project serves as an accessible, ad-free, open-access online resource for the Kanken. The site provides comprehensive details on exam structure, levels, question types, history and practice games and books, as well as hosting interactive practice quizzes styled exactly like the real test. To keep costs low and ensure high speeds, everything runs client-side in your browser — no login needed.
 ## What it does
 - **Reference Hub**: Wikipedia-style pages detail Kanken's 12 levels (10 to 1), target kanji counts (e.g., 80 for level 10, 2136 for level 2), pass rates (~70-80%), and official formats.
 - **Practice Engine**: Over 20 authentic question types for levels 10-2, including:

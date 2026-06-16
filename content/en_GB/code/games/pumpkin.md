@@ -3,9 +3,9 @@ title: "pumpkin panic"
 aliases:
    - pumpkin panic
 ---
-**Pumpkin Panic** is a simple, fast-paced, Halloween-themed reaction game I developed using the [[p5.js]] library to explore how collision detection, randomized spawning patterns and state management mechanics used together could complement each other in a game.
+Pumpkin Panic is a simple, fast-paced, Halloween-themed reaction game I developed using the [[p5.js]] library to explore how collision detection, randomized spawning patterns and state management mechanics used together could complement each other in a game.
 
-Set in a cemetery, **Pumpkin Panic** challenges players to catch as many falling pumpkins as possible while avoiding skulls. The game has a set time limit and dynamic background music that gets progressively more stressful as the game goes on.
+Set in a cemetery, Pumpkin Panic challenges players to catch as many falling pumpkins as possible while avoiding skulls. The game has a set time limit and dynamic background music that gets progressively more stressful as the game goes on.
 
 > [!success] Want to give it a go?
 > Try your hand at [Pumpkin Panic](https://reiwa.ca/p5.js/pumpkin) and let me know your high score!

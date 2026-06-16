@@ -1,10 +1,10 @@
-**Braille** is a system of encoding written language into a grid of (usually six or eight) raised dots, allowing blind and visually impaired people to read and write using their sense of touch. Such patterns of raised dots, individually called **Braille** *cells*, can represent individual letters, specific sounds or even entire words and phrases.
+Braille is a system of encoding written language into a grid of (usually six or eight) raised dots, allowing blind and visually impaired people to read and write using their sense of touch. Such patterns of raised dots, individually called Braille *cells*, can represent individual letters, specific sounds or even entire words and phrases.
 
-While almost every language has an equivalent **Braille** system, the way in which language specific rules and writing systems are encoded varies significantly.
+While almost every language has an equivalent Braille system, the way in which language specific rules and writing systems are encoded varies significantly.
 
 %% Have a play around with my [English to Braille converter](). %%
 
-<!--As part of my research into %% \[\[%% implementations of **Braille** across diverse  writing  systems and orthographies%%\]\]%%, I have written about the core differences between [[English Braille|English]], [[French Braille|French]] and [[Japanese Braille]] and the thought processes that led to these systems becoming the standards for their respective linguistic branches.-->
+<!--As part of my research into %% \[\[%% implementations of Braille across diverse  writing  systems and orthographies%%\]\]%%, I have written about the core differences between [[English Braille|English]], [[French Braille|French]] and [[Japanese Braille]] and the thought processes that led to these systems becoming the standards for their respective linguistic branches.-->
 
 %%
 

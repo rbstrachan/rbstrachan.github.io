@@ -121,4 +121,4 @@ CURRENT STENO SPEED <strong>5 WPM</strong>   •   CURRENT QWERTY SPEED <s
 </div>
 </div>
 
-**Stenography** is [...].
+Stenography is [...].

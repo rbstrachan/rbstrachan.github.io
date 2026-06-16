@@ -7,7 +7,7 @@ cssclasses: no-dropcap-no-smallcaps
 
 **Effective Date: April 16, 2026**
 
-As a provider of private language tutoring, I am committed to creating a learning environment that is safe, respectful and effective. This **Code of Conduct** outlines the standards of behaviour expected from both the Student and the Tutor.
+As a provider of private language tutoring, I am committed to creating a learning environment that is safe, respectful and effective. This Code of Conduct outlines the standards of behaviour expected from both the Student and the Tutor.
 
 While I respect student privacy, confidentiality for students under 18 cannot be guaranteed if a disclosure is made that suggests a risk of harm to the student or others. In such cases, I am legally obligated to report the disclosure to relevant authorities or safeguarders.
 
@@ -46,11 +46,11 @@ To ensure the best pedagogical outcomes, Students are encouraged to follow the b
 As noted in the [[privacy|privacy policy]], all sessions are recorded for the safety and security of both parties. While you may request a copy of this recording, please respect the privacy of the Tutor by not recording sessions on personal devices or sharing lesson links with unauthorized third parties. <u>**Doing so is a serious violation of this agreement and may result in immediate and permanent termination of services.**</u>
 
 ## Violations & Consequences
-I reserve the right to pause or terminate a session immediately if this **Code of Conduct** is violated.
+I reserve the right to pause or terminate a session immediately if this Code of Conduct is violated.
 
 | Action | Consequence |
 | :--- | :--- |
-| **Minor or First Violation** | A verbal or written request to abide by the **Code of Conduct**.<br>Reminder that failure to do so may result in termination of the lesson. |
+| **Minor or First Violation** | A verbal or written request to abide by the Code of Conduct.<br>Reminder that failure to do so may result in termination of the lesson. |
 | **Major Violation**<br>&nbsp; | Immediate termination of the current session with no refund for the remaining time. |
 | **Persistent or<br>Serious Misconduct** | Immediate termination of the current session with no refund for the remaining time. Permanent ban of the Student's access to services.<br>See the *[[tos#conduct--termination|Terms of Service § Conduct and Termination]]* for more information. |
 
