@@ -69,7 +69,8 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Dropcaps(),
-      Plugin.SmallCaps()
+      Plugin.SmallCaps(),
+      Plugin.AutoBoldTitle()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
