@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-![[static/me.png|220]] %% USE PASSPORT PHOTO HERE? %%
+<!-- ![[static/me.png|220]] %% USE PASSPORT PHOTO HERE? %%
 
 **English Tutor ・ Freelance Software Developer** %% RUBBISH - REWRITE %% \
 📍 UK ・ Canada ・ Japan\
@@ -44,15 +44,15 @@ draft: true
 ### Research Assistant ・ PhD Thesis Project
 *UK & Canada ・ December 2021–June 2023*
 - **Collaborated globally**, assisting researchers across 3+ time zones (France, Canada and Japan).
-- **Securely managed** highly sensitive, confidential documents ensuring 100% availability while upholding strict security and encryption standards.
+- **Securely managed** highly sensitive, confidential documents ensuring 100% availability while upholding strict security and encryption standards. -->
 <!-- expand! -->
 
-## Education
+<!-- ## Education
 ### BSc (Hons) Mathematics & Computer Science
-**Open University** ・ Online ・ 2027–2029
+**Open University** ・ Online ・ 2027–2029 -->
 <!-- * Differential Equations, Mathematical Programming, Algorithms & Data Structures %% UPDATE THIS WITH MODULES FROM OU SITE %% -->
-### MA Librarianship
-**Sheffield University** ・ MLIS ・ 2030
+<!-- ### MA Librarianship
+**Sheffield University** ・ MLIS ・ 2030 -->
 <!-- ### BA (Hons) French Language Studies %% OPEN DEGREE? %%
 **Open University** ・ Online ・ 2033 -->
 <!-- ### BSc (Hons) Mathematics
@@ -62,11 +62,11 @@ draft: true
 ### HNC Applied Sciences
 **North East Scotland College** ・ UK ・ 2016–2017 -->
 
-## Projects
+<!-- ## Projects
 
-- **Maintainer, [[QADDOE]]** ([reiwa.ca/qaddoe](https://reiwa.ca/qaddoe)) – Lead developer and maintainer for a qualitative data analysis tool used by graduate students at the University of Quebec and across Canada.
+- **Maintainer, [[QADDOE]]** ([reiwa.ca/qaddoe](https://reiwa.ca/qaddoe)) – Lead developer and maintainer for a qualitative data analysis tool used by graduate students at the University of Quebec and across Canada. -->
 <!-- * **Designer, Serial Steno Typing Theory** – Developing advanced typing methodologies. -->
 
-## Certificates
+<!-- ## Certificates
 - **[[tefl|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language ・ 2026
-- **Certified Cybersecurity Analyst** ・ IBM ・ 2021
+- **Certified Cybersecurity Analyst** ・ IBM ・ 2021 -->

@@ -1,3 +1,6 @@
+---
+tags: meta
+---
 This website is authored in [Obsidian](https://obsidian.md), converted into a static single-page application using [Quartz](https://quartz.jzhao.xyz/), routed through [Cloudflare](https://www.cloudflare.com/) and published via [GitHub Pages](https://docs.github.com/pages).
 ## Interactive Backgrounds
 The site features a series of interactive background animations[^custom], including [[keys|bouncing keys]], [[voronoi|Voronoi tessellation]], [[boids|boids flocking]] and a [[slime|Physarum slime simulation]][^intense]. Users may jump from one animation to another in the order listed above using the dedicated button located in the bottom right corner of the screen.<!-- If the interactive backgrounds are distracting or cause discomfort, they can be completely disabled by [...]. -->
@@ -30,7 +33,7 @@ Found a bug or issue that's not listed here? Please [[contact|let me know]]!
 
 [^custom]: The interactive backgrounds are custom-coded p5.js sketches running in `Instance Mode`. See individual animation pages for links to the source code.
 [^intense]: This animation simulates thousands of individual Physarum objects and their movements simultaneously inside a p5.js canvas object, which is quite resource-intensive. Viewing this animation may slow down your computer significantly or cause the page to crash. I'm working on optimising the code so that it runs smoother. Apologies in advance!
-[^international]: This includes conformity with the aforementioned [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) as well [ATAG 2.0](https://www.w3.org/TR/ATAG20/), which serves as the basis for meeting legal accessibility requirements under the UK Equality Act, ADA Title III (USA), AODA (Canada), EN 301 549 (EU) and other regional frameworks such as the Australian DDA and Israeli Standard 5568.
+[^international]: This includes conformity with the aforementioned [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/) as well as the [ATAG 2.0](https://www.w3.org/TR/ATAG20/), which serves as the basis for meeting legal accessibility requirements under the UK Equality Act, ADA Title III (USA), AODA (Canada), EN 301 549 (EU) and other regional frameworks such as the Australian DDA and Israeli Standard 5568.
 [^tested]: Tested using tools from the [World Wide Web Consortium](https://www.w3.org/)'s [Web Accessibility Initiative](https://www.w3.org/WAI/)'s [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/), including automated contrast checkers and manual keyboard navigation audits.
 [^ip]: That is to say, the Cloudflare dashboard may show three unique visitors from the United States on a given day, but no identifying information or individual IP addresses are disclosed.
 [^rsc]: [Russ Cox](https://swtch.com/~rsc/), the brilliant mind behind this tool, wrote a [post detailing his research](https://research.swtch.com/field).

@@ -8,7 +8,7 @@ Impactful accessibility design is a continuous, iterative effort that takes shap
 I'm currently relying on [Lighthouse](https://developer.chrome.com/docs/lighthouse), an automated and open-source tool developed by Google, to help me monitor, maintain and transparently report my progress.
 
 <!-- this section should be written better -->
-## What do you mean by 'accessible'? What about performance?
+## What do you mean by *accessible*? What about performance?
 I'm not an accessibility expert and as someone who has never experienced using the web with assistive technologies, <!--[[-->I don't know what I don't know<!--]]-->. Therefore, I try at all times to follow established accessibility best practices such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)<!-- and [...]-->.
 
 To successfully implement these guidelines at an acceptable level requires paying particular attention to things like (among others) colour contrast, semantic HTML, keyboard navigation and clear, predictable structure. I also try to avoid unnecessary complexity when designing layout and keep code concise so that the site remains fast and the experience reliable.
@@ -48,7 +48,7 @@ Second, the tool evaluates operability with <abbr title="Accessibility Rich Inte
 Finally, the audit measures visual and text alternatives. This includes checking that text elements maintain a clear colour contrast ratio against their backgrounds to remain readable for users with low vision. It also ensures that meaningful images contain descriptive alt text while decorative images are properly hidden, and confirms that the layout won't break or overlap when a user scales the text up to 200%.-->
 
 ## Continuous improvement and feedback
-If you encounter any friction or accessibility barriers while browsing the site or have any questions or suggestions, please don't hesitate to [reach out](mailto:ross@reiwa.ca). If possible, please include a brief description of the issue and what you were using at the time, such as your device, browser or screen reader. I endeavour to reply to all inquiries within 24 hours and publish fixes for serious issues in 72 hours or less. Your feedback is invaluable in improving the accessibility of the site.
+If you encounter any friction or accessibility barriers while browsing the site or have any questions or suggestions, please don't hesitate to [[contact|reach out]]. If possible, please include a brief description of the issue and what you were using at the time, such as your device, browser or screen reader. I endeavour to reply to all inquiries within 24 hours and publish fixes for serious issues in 72 hours or less. Your feedback is invaluable in improving the accessibility of the site.
 
 <!-- ### Accessibility bounty
 A bounty of up to £10 (US$15) per issue identified is claimable if you:

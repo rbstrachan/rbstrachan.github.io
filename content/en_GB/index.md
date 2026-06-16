@@ -20,7 +20,7 @@ My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , speci
 <!-- This sentence is too heavy for the front page, move it elsewhere:
 My goal is to eventually work in a role where I can actively develop and improve library services, including braille and accessible materials, to ensure everyone has equal access to information. -->
 
-This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, animations and tools I've [[code/index|coded]], <!--[[media]] I'm consuming-->[[goals/index|goals]] I'm working towards as well as notes and documentation on my personal <!--[[research/index|-->**research**<!--]]--> and <!--[[publications/index|-->**publications**<!--]]-->. <!--You'll also find notes I have written on topics that interest me. -->
+This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, animations and tools I've [[code/index|coded]], <!--[[media]] I'm consuming-->[[goals/index|goals]] I'm working towards as well as notes and documentation on my personal <!--[[research/index|-->**research**<!--]]--> and <!--[[publications/index|-->**publications**<!--]]-->.<sup>COMING SOON!</sup> <!--You'll also find notes I have written on topics that interest me. -->
 <!--
 - [ ] accreditations
 - [ ] code
@@ -49,9 +49,9 @@ Want to drop a digital note? Sign the [[guestbook]]!
 ⠊　⠇⠕⠧⠑　⠃⠗⠁⠊⠇⠇⠑
 
 > [!todo]- This website is a work in progress...
-> Building this personal space is a relatively new project and my first foray into "linked knowledge management". As I transition my notes from my private vault to this public one, you’ll find many areas that are still in their early stages. I've compiled a list of [[colophon#known-bugs--issues|known bugs and issues]] with the site.
+> Building this personal space is a relatively new project and my first foray into "linked knowledge management". As I transition my notes from my private vault to this public one, you’ll find many areas that are still in their early stages. I've compiled a list of [[colophon#known-bugs--issues|known bugs and issues]].
 >
-> I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here. Check back soon!
+> I'm open to ideas and suggestions! Please feel free to [[contact|reach out]] or leave a message in the [[guestbook]] if you'd like to discuss something you see here.
 
 <!--
 to be added to left-hand-column

@@ -12,8 +12,15 @@ export const SmallCaps: QuartzTransformerPlugin = () => {
             visit(tree, "text", (node, index, parent) => {
               if (!parent || index === undefined || typeof node.value !== "string") return
 
-              if (parent.type === "element" && (parent.properties?.className as string[])?.includes("small-caps")) {
-                return SKIP
+              if (parent.type === "element") {
+                const ignoredTags = ["script", "style", "code", "pre"]
+                if (ignoredTags.includes(parent.tagName)) {
+                  return SKIP
+                }
+
+                if ((parent.properties?.className as string[])?.includes("small-caps")) {
+                  return SKIP
+                }
               }
 
               const upperCaseRegex = /[A-Z\u00C0-\u00D6\u00D8-\u00DE]{2,}/g

@@ -12,6 +12,8 @@ export const Dropcaps: QuartzTransformerPlugin = () => {
 
             // ADD CHECK FOR LIST PAGES HERE
             // RETURN SO SCRIPT DOESNT RUN
+            // CURRENTLY THIS RUNS ON LIST PAGES BUT
+            // HAS NO EFFECT AS DROPCAPS CSS RULE RESTRICTS IT
 
             // check for no-dropcap-no-smallcaps frontmatter cssclass
             const frontmatterClasses = file.data.frontmatter?.cssclasses

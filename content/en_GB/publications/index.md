@@ -12,3 +12,5 @@ aliases:
 > If you are interested in collaborating on research or technical writing, feel free to [get in touch](mailto:ross@reiwa.ca).
 
 ***
+
+<!-- see [Directory of Open Access Journals](https://doaj.org/) -->

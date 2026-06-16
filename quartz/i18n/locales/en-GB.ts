@@ -76,8 +76,8 @@ export default {
         count === 1 ? "There is 1 item in this folder." : `There are ${count} items in this folder.`,
     },
     tagContent: {
-      tag: "Tag",
-      tagIndex: "Tag Index",
+      tag: "tag",
+      tagIndex: "tag index",
       itemsUnderTag: ({ count }) =>
         count === 1 ? "There is 1 item with this tag." : `There are ${count} items with this tag.`,
       showingFirst: ({ count }) => `Showing the first ${count} tags.`,

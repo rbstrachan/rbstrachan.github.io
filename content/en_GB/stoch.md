@@ -10,7 +10,7 @@ The **KBYS stoch quiz** is a stochastic kanji reading proficiency test administe
 Developed by [黒羽 勇星]() (Kurobane Yuusei), the test addresses limitations of traditional frequency-based quizzes by sampling readings according to immersion-based "kanji burden" models.[^2]
 
 ## Test Levels
-Each level requires obtaining a minimum number of correct answer before a maximum number of incorrect answers on hardcore quizzes (no duplicates, daily unique questions) using custom stochastic parameters.
+Each level requires obtaining a minimum number of correct answers without giving a maximum number of incorrect answers on %%hardcore%% quizzes (no duplicates, daily unique questions) using custom stochastic parameters.
 
 | Level | Points Required (Accuracy) | Min. Readings (Kanji) | JLPT Proxy |
 |------:|----------------------------|-----------------------|------------|

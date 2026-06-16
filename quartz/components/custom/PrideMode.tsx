@@ -20,35 +20,40 @@ const PrideMode: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
 
 const prideScript = `
 (() => {
-  const toggleBtn = document.getElementById("pride-toggle")
-  if (!toggleBtn) return
+  const init = () => {
+    const toggleBtn = document.getElementById("pride-toggle")
+    if (!toggleBtn) return
 
-  const root = document.documentElement
-  const stored = localStorage.getItem("theme-pride")
+    const root = document.documentElement
+    const stored = localStorage.getItem("theme-pride")
 
-  if (stored === "disabled") {
-    root.removeAttribute("data-theme-pride")
-  } else {
-    root.setAttribute("data-theme-pride", "enabled")
-    if (stored === null) localStorage.setItem("theme-pride", "enabled")
-  }
-
-  toggleBtn.addEventListener("click", (e) => {
-    const isPride = root.getAttribute("data-theme-pride") === "enabled"
-
-    const x = e.clientX
-    const y = e.clientY
-    root.style.setProperty("--pride-x", \`\${x}px\`)
-    root.style.setProperty("--pride-y", \`\${y}px\`)
-
-    if (isPride) {
+    if (stored === "disabled") {
       root.removeAttribute("data-theme-pride")
-      localStorage.setItem("theme-pride", "disabled")
     } else {
       root.setAttribute("data-theme-pride", "enabled")
-      localStorage.setItem("theme-pride", "enabled")
+      if (stored === null) localStorage.setItem("theme-pride", "enabled")
     }
-  })
+
+    toggleBtn.onclick = (e) => {
+      const isPride = root.getAttribute("data-theme-pride") === "enabled"
+      const x = e.clientX
+      const y = e.clientY
+      root.style.setProperty("--pride-x", \`\${x}px\`)
+      root.style.setProperty("--pride-y", \`\${y}px\`)
+
+      if (isPride) {
+        root.removeAttribute("data-theme-pride")
+        localStorage.setItem("theme-pride", "disabled")
+      } else {
+        root.setAttribute("data-theme-pride", "enabled")
+        localStorage.setItem("theme-pride", "enabled")
+      }
+    }
+  }
+
+  init()
+  document.addEventListener("nav", init)
+  document.addEventListener("render", init)
 })()
 `
 

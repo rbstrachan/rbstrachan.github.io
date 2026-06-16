@@ -14,3 +14,4 @@ export { RoamFlavoredMarkdown } from "./roam"
 
 export { Dropcaps } from "./custom/dropcaps"
 export { SmallCaps } from "./custom/smallcaps"
+export { AutoBoldTitle } from "./custom/autoBoldTitle"

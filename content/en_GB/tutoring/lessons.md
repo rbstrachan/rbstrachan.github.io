@@ -12,7 +12,7 @@ Personalised, guided learning for students that want to see genuine, applicable 
 
 Targeted lessons designed to build confidence in real-world scenarios. Focusing on everyday communication, travel preparation and the nuances of daily life, these lessons bridge the gap between textbook language and the way people actually speak.
 -->
-With a library of **over 1,400 lessons** across both languages, I have spaces available for 1-on-1 and group lessons at **all levels <nobr>(A0–C2)</nobr>**[^A0] in both English and French.
+With a library of **over 1,400 lessons** across both languages, I have spaces available for 1-on-1 and group lessons at **all levels <nobr><span class="small-caps">(A0–C2)</span></nobr>**[^A0] in both English and French.
 <!-- Spaces are available for 1-on-1 and group lessons for all levels (A1–C2) in both English and French. -->
 <!-- Limited spaces are also available for Business English and Business French classes. -->
 
@@ -66,9 +66,9 @@ For natural day-to-day conversation, social interaction and practical language s
 | Lessons (Duration) | | Price Per Hour (Total)[^prices] |
 | :--- | ---: | :--- |
 | **Trial** (45 mins) | | Free |
-| **Single Lesson**<br>(1 hour) | **North America**<br>**Europe**<br>**Asia** | \$32 ・ C\$44<br>£24 ・ €27<br>¥5,000 ・ ₩47,000 |
-| **Block of 12 Hours**<br><nobr>(1–3 months)</nobr> | **North America**<br>**Europe**<br>**Asia** | \$29 (\$348) ・ C\$39 (\$468)<br>£21 (£252) ・ €24 (€288)<br>¥4,500 (¥54,000) ・ ₩42,000 (₩504,000) |
-| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | **North America**<br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) |
+| **Single Lesson**<br>(1 hour) | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$32 ・ C\$44<br>£24 ・ €27<br>¥5,000 ・ ₩47,000 |
+| **Block of 12 Hours**<br><nobr>(1–3 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$29 (\$348) ・ C\$39 (\$468)<br>£21 (£252) ・ €24 (€288)<br>¥4,500 (¥54,000) ・ ₩42,000 (₩504,000) |
+| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) |
 
 <!-- ## Business
 *Advanced professional communication, including corporate etiquette, interview preparation and industry-specific terminology.*
@@ -113,7 +113,7 @@ To ensure transfers are quick and easy, several payment methods are available. P
 *PayPal transfers, mobile carrier billing and prepaid vouchers are not currently supported.*
 
 > [!warning]- Responsible Use of Buy Now Pay Later (BNPL) Services such as Klarna, et al.
-> For our larger lesson blocks (36-Hour Standard or 12-Hour Business), we offer **Klarna** as a checkout option via Stripe. This allows you to either (a) spread the cost over three or four interest-free instalments, or; (b) defer payment for 30 days.
+> For our larger lesson blocks (36-Hour Standard or 12-Hour Business), we offer **Klarna** as a checkout option via Stripe. This allows you to either (a) spread the cost over three or four interest-free instalments; or (b) defer payment for 30 days.
 >
 > While we want to make language coaching as accessible as possible, please remember that the use of Klarna and related BNPL schemes is a form of credit. We encourage students to use this option responsibly. You should know that:
 > - **BNPL is debt. Even when interest-free, BNPL is a financial commitment that can become very expensive very quickly if it is not paid on time and in full.**
@@ -123,12 +123,12 @@ To ensure transfers are quick and easy, several payment methods are available. P
 > Your progress is our priority and that includes your financial peace of mind. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch]() and I'll work with you to find a better plan.
 
 ***
-<span style="opacity:50%">Please make sure you have read, understood and agreed to the required [[legal|legal agreements]] before booking a lesson.</span>
+<span style="opacity:75%">Please make sure you have read, understood and agreed to the required [[legal|legal agreements]] before booking a lesson.</span>
 
 <!-- [^1]: Includes international debit and credit cards from American Express, Cartes Bancaires, China UnionPay, Diners Club, Discover, eftpos Australia, Interac, JCB, Mastercard, Visa.
 [^2]: Includes Alipay, Amazon Pay, Apple Pay, Cash App Pay, Google Pay, GrabPay, Kakao Pay, Link, Naver Pay, PayCo, PayPal, PayPay, Revolut Pay, Samsung Pay, satispay, WeChat Pay. -->
 
-[^A0]: While the official [CEFR scale]() begins at A1, I use A0 to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
+[^A0]: While the official [CEFR scale]() begins at <span class="small-caps">A1</span>, I use <span class="small-caps">A0</span> to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
 [^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **July 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
 [^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.  
