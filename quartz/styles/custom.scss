@@ -46,6 +46,14 @@ html {
 }
 
 // START OF TESTING BLOCK
+#about-me-page-photo {
+  float: left;
+  margin: 0 20px 20px 0;
+  border-radius: 8px;
+  max-width: 10.4rem;
+  width: 100%;
+}
+
 article p, article li {
   font-size: calc((22 / 18) * 1rem);
 }
