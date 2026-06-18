@@ -1,41 +1,50 @@
 ---
-draft: true
+draft:
+title: JLPT
 aliases:
   - japanese language proficiency test
+  - JLPT
 tags:
   - skill/language
   - exam
 ---
-
-> [!abstract] Progress overview
-> | Stat | Progress |
-> | :--- | :--- |
-> | **Kaishi Deck Completion** | <progress value="31" max="100"></progress> 31% |
-> | **Anki Reviews** | 12,450 |
-> | **Characters Read** | ~45,000 |
-> | **Total Hours** | 215h |
+The Japanese Language Proficiency Test (JLPT) is the Japanese government's standardized test used to evaluate and certify the proficiency of non-native Japanese speakers. Jointly administered by the Japan Foundation and Japan Educational Exchanges and Services (JEES), it serves as a minimum benchmark for academic admissions, visa applications and professional employment in Japan.
 
 <!-- <div id="japanese-heatmap"></div> -->
 <!-- CUSTOM COMPONENT CAN TARGET ABOVE DIV -->
 
-your JLPT history.
+<!-- your JLPT history.
 why N2 is the target.
 why you may or may not care about N1.
 your current study plan.
-a JLPT tracker.
+a JLPT tracker. -->
 
-My long-term Japanese goal is to reach JLPT N2.
+As part of my long-term goal to learn Japanese, I indent to study for and pass the JLPT <span class="small-caps">N2</span>.
 
+## My progress
 I’m using a mix of Anki for vocabulary, reading books and novels for reading practice, YouTube and podcasts for listening practice and grammar guides for grammar study. This page serves to show both what I’m studying and how my progress is changing over time.
 
-## Current target
+> [!abstract] Anki progress overview
+> | Stat | Progress |
+> | :--- | :--- |
+> | **Kaishi Deck Completion** | <progress value="1014" max="1248"></progress> 81.25% |
+> | **Kanken 10K Deck Completion** | <progress value="0" max="160"></progress> 0% |
+> | **Total Reviews** | 7,568 |
+> | **Characters Read** | *unknown* |
+> | **Total Hours** | 15h |
 
-- Current level: N4
-- Target: JLPT N2
-- Optional later target: JLPT N1
-- Main focus: reading, listening, speaking, vocabulary, grammar
+## Structure
+The test is split into five distinct exam levels, starting at <span class="small-caps">N5</span> (the easiest) up to <span class="small-caps">N1</span> (advanced, specialised, pseudo-native fluency). Passing a level requires obtaining a minimum overall score *as well as* a passing score above the threshold for every individual section.
 
-## Progress stats
+<!-- | Level | CEFR Equivalent | Practical Competence |
+| :--- | :--- | :--- |
+| **N5** | A1 |  |
+| **N4** | A2 |  |
+| **N3** | B1 |  |
+| **N2** | B2 |  |
+| **N1** | C1 |  | -->
+
+<!-- ## Progress stats
 ### Vocab
 - Anki cards learned:
 - Average Anki cards due:
@@ -155,4 +164,4 @@ I’m using a mix of Anki for vocabulary, reading books and novels for reading p
 - First novel finished:
 - First grammar guide finished:
 - First mock test:
-- Best mock score:
+- Best mock score: -->
