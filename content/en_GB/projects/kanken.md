@@ -5,14 +5,14 @@ aliases:
   - kanken reference
   - kanken
 ---
-The Kanken Reference is a comprehensive database and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k] We recommend you <a href="../ja/kanken">read this page in Japanese</a>.
+The Kanken Reference is a comprehensive database<!-- discord bot,--> and practice hub for the **Japan Kanji Aptitude Test**, commonly referred to as the Kanken. It currently covers levels 10 through 2.[^j1k] We recommend you <a href="../ja/kanken">read this page in Japanese</a>.
 
 ==Mastering the kanken takes an insane amount of practive. The Kankan Reference has analysed past exams, official guidance from the kanken association and official resources such as games and books to curate a comprehensive list of questions types that appear on the exam as well as specially curated question types not found on the kanken created by us to help you improve core skills needed for the test. Broken down by level, the kanken reference assures a pass at a given level if they can pass our [interactive assessments].==
 
 > [!check] Get started today!
 > Head over to the official [Kanji Kentei Reference](https://kanken.reiwa.ca) site and get started learning about and practicing for the Kanji Kentei.
 
-*Sample practice interface for reading and stroke order questions, mimicking official exam styling.*
+<!-- *Sample practice interface for reading and stroke order questions, mimicking official exam styling.*
 ## Overview
 This project serves as an accessible, ad-free, open-access online resource for the Kanken. The site provides comprehensive details on exam structure, levels, question types, history and practice games and books, as well as hosting interactive practice quizzes styled exactly like the real test. To keep costs low and ensure high speeds, everything runs client-side in your browser — no login needed.
 ## What it does
@@ -77,9 +77,33 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 - **[Kanken Official (JP)](https://www.kanken.or.jp/kanken/)**.
 - **[English Wiki](https://en.wikipedia.org/wiki/Kanji_Kentei)**.
 
-*Last updated: May 2026. Kanji data from official sources^[which sources?]. Not affiliated with or officially approved by the Japan Kanji Aptitude Testing Foundation.*
+*Last updated: May 2026. Kanji data from official sources^[which sources?]. Not affiliated with or officially approved by the Japan Kanji Aptitude Testing Foundation.* -->
 
-%%
+<!--
+## Discord bot
+- sudden death mode
+- levels 1-10
+- all ds games and kanken books
+- database^[what does that mean?]
+- srs
+- at least all 29 question types from kanken ds deluxe and possible additionally others from other games
+- commands like /stats that generates a description /image of kanken category mastery (heatmaps, nintendo-style radial diagrams, etc.)
+- server and global leaderboard per level
+- streak system (srs)
+- /yoji dictionary feature
+- kanji of the hour (dedicated channel for this)
+- generates images instead of copyable text to prevent copy-paste cheating^[any cheating beyond this is not practically preventable and only harms the user although leaderboards may be incentive to cheat]
+- error logging
+- /train for not exam style questions (must ask how many questions)
+- /exam to start a mock exam -> link to mock kanken exam website for better layout? private channel for results etc?
+- certificates per user for each exam passed
+- /placement for a test to see which level they are roughly  
+- writing questions should be handled by the users keyboard or OS
+- write UI layout templates per question type (multiple choice select 2, etc.)
+- DM user a weekly report of missed questions, most common question types failed, most common kanji / radicals failed, etc. 
+ -->
+
+<!--
 ***
 ## 日本漢字能力検定
 
@@ -200,6 +224,6 @@ Questions replicate official phrasing, e.g., "Select the kanji read as 'しん�
 - [公益財団法人 日本漢字能力検定協会](https://www.kanken.or.jp/kanken/)
 - [各級の概要](https://www.kanken.or.jp/kanken/grades/overview/)
 - [問題例](https://www.kanken.or.jp/kanken/grades/sample/)
-%%
+-->
 
 [^j1k]: As I have only studied for the Kanken up to Level 2, I am not familiar with, nor have the capabilities, to create accurate and reliable test content for the Pre-1 and 1 levels.
