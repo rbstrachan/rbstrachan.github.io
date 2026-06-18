@@ -1,5 +1,4 @@
 ---
-draft: false
 title: stenography
 aliases:
   - stenography
@@ -31,7 +30,7 @@ tags:
 
 .steno-dot {
   position: absolute;
-  left: calc((5 / 250) * 100%);
+  left: calc((3 / 250) * 100%);
   top: 50%;
   transform: translate(-50%, -50%);
   width: 15px;
@@ -90,9 +89,16 @@ tags:
 }
 </style>
 
+Stenography is the art of shorthand writing[^old] using a purpose-made [chorded keyboard](https://www.opensteno.org/) to capture the spoken word in real time at speeds often exceeding 200 words per minute.
+
+Unlike a standard QWERTY keyboard where you type letter by letter, a stenographer depresses multiple keys simultaneously to spell out entire words, syllables or phrases in a single stroke.
+
+## My progress
+I only recently started learning [the theory behind steno](https://opensteno.org/learn-plover/home.html) and haven't really practiced at all yet, so my writing speed is abysmally slow.
+
 <div class="steno-minimal">
 <div class="steno-info">
-CURRENT STENO SPEED <strong>5 WPM</strong>   •   CURRENT QWERTY SPEED <strong>90 WPM</strong>
+CURRENT AVERAGE SPEEDS   →   STENO <strong>3 WPM</strong>   •   QWERTY <strong>90 WPM</strong>
 </div>
 
 <div class="steno-bar-container">
@@ -104,21 +110,21 @@ CURRENT STENO SPEED <strong>5 WPM</strong>   •   CURRENT QWERTY SPEED <s
 
 <!-- Landmarks -->
 <div class="steno-landmark" style="left: calc((40 / 250) * 100%);">
-<div class="steno-landmark-label"><b>40</b><br>average QWERTY</div>
+<div class="steno-landmark-label"><b>40</b><br><span class="small-caps">average QWERTY</span></div>
 </div>
 <div class="steno-landmark" style="left: calc((80 / 250) * 100%);">
-<div class="steno-landmark-label"><b>80</b><br>average QWERTY</div>
+<div class="steno-landmark-label"><b>80</b><br><span class="small-caps">fast QWERTY</span></div>
 </div>
 <div class="steno-landmark" style="left: calc((150 / 250) * 100%);">
-<div class="steno-landmark-label"><b>150</b><br>average QWERTY</div>
+<div class="steno-landmark-label"><b>150</b><br><span class="small-caps">speed of speech</span></div>
 </div>
 <div class="steno-landmark" style="left: calc((225 / 250) * 100%);">
-<div class="steno-landmark-label"><b>225</b><br>average QWERTY</div>
+<div class="steno-landmark-label"><b>225</b><br><span class="small-caps">professional steno                             </span></div>
 </div>
 <div class="steno-landmark" style="left: calc((240 / 250) * 100%);">
-<div class="steno-landmark-label"><b>240</b><br>average QWERTY</div>
+<div class="steno-landmark-label"><b>240</b><br><span class="small-caps">        my goal</span></div>
 </div>
 </div>
 </div>
 
-Stenography is [...].
+[^old]: The practice of stenography is not new — in fact, it was used as far back as ancient Rome, where Cicero's secretary invented the [Tironian notes](https://en.wikipedia.org/wiki/Tironian_notes) to record speeches in the Senate. In the days before modern technology became widespread (and to a much lesser degree today) stenography was, quite literally, systems of *written* shorthand (e.g. Gregg; Pitman) that used symbols and particular strokes of the pen to write words and phrases as quickly as one could speak them. The mechanical chorded keyboards that have become ubiqutous today were not patented until the late 19th century.
