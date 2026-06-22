@@ -24,7 +24,7 @@ I can help you:
 
 > [!success] Ready to get started?
 > **Book a free 45-minute trial lesson.**\
-> We'll use this time to get to know each other, discuss your current competency level and draw up a concrete plan to attain your future language goals. I look forward to chatting with you. In the mean time, feel free to [get in touch](mailto:ross@reiwa.ca) if you have any questions.
+> We'll use this time to get to know each other, discuss your current competency level and draw up a concrete plan to attain your future language goals. I look forward to chatting with you. In the mean time, feel free to [get in touch](mailto:tutoring@reiwa.ca) if you have any questions.
 >
 > <div style='padding-bottom: 15px;'><div id='calendar-target'></div></div>
 
@@ -50,7 +50,7 @@ A discount of **5% per student** (up to 6 students) applies to any lesson where 
 
 ### Standard
 For natural day-to-day conversation, social interaction and practical language skills for travel and daily life through comprehensive practice of speaking, listening and grammar fundamentals.\
-*Business lessons are coming soon! Please [get in touch](mailto:ross@reiwa.ca) if you'd like to discuss taking a business class.*
+*Business lessons are coming soon! Please [get in touch](mailto:tutoring@reiwa.ca) if you'd like to discuss taking a business class.*
 <span style="margin-bottom:-10px"></span>
 > [!tip]+ Early bird offer for the next 10 students!
 > To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
