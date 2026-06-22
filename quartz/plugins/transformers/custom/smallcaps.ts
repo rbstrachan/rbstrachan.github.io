@@ -23,7 +23,7 @@ export const SmallCaps: QuartzTransformerPlugin = () => {
                 }
               }
 
-              const upperCaseRegex = /[A-Z\u00C0-\u00D6\u00D8-\u00DE]{2,}/g
+              const upperCaseRegex = /[A-Z\u00C0-\u00D6\u00D8-\u00DE]{3,}/g
 
               const text = node.value
               let match
