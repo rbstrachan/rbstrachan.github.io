@@ -1,26 +1,133 @@
 ---
-draft: true
+draft:
+title: CV
+aliases:
+  - CV
+cssclasses: no-dropcap-no-smallcaps
 ---
-<!-- ![[static/me.png|220]] %% USE PASSPORT PHOTO HERE? %%
+<img id="selfie-photo-float-left" src="/static/me.png" alt="A profile photo of me smiling" />
+<span style="text-align: justify;">
 
-**English Tutor ・ Freelance Software Developer** %% RUBBISH - REWRITE %% \
-📍 UK ・ Canada ・ Japan\
-📧 [[contact|contact me]]\
-%% ADD GREEN DOT HERE? %% Available for remote-freelance and hired work.
+Below you can find everything you need to know about my education history, work experience, projects, interests, research and publications.\
+I also have an accessible [PDF version]() available for download if you'd prefer.
 
+<span style="display: inline-block; width: 1em; height: 1em; background-color: #22c55e; border-radius: 50%; margin-right: 0.4em; vertical-align: sub;" aria-hidden="true"></span>*I'm available for both remote (freelance) and hired work — please don’t hesitate to [[contact|contact me]] to discuss an available role or project for collaboration.*
+
+<!-- ## Ross Strachan -->
+<p style="font-family: var(--headerFont); font-size: 1.75em; font-weight: 600; color: var(--dark); margin-top: 1.5em; margin-bottom: 0.5em; letter-spacing: -0.02em; text-align: center;">Ross Strachan</p>
+
+<span style="display: flex; justify-content: space-between; flex-wrap: wrap; font-family: var(--bodyFont), inherit;"><span>UK・Canada<!--・Japan--></span>  |  ross@reiwa.ca  |  [reiwa.ca](https://reiwa.ca)  |  [github.com/rbstrachan](https://github.com/rbstrachan)</span>
+
+<!-- ## Personal Summary
+A [...]. -->
+***
+## Current Status
+**International Travel Sabbatical** <span style="float: right;">October 2024 — September 2026</span>\
+PERSONAL TIME OFF *<span style="float: right;">Canada, Japan & South Korea</span>*
+- Took some time off to travel, focus on language learning and my own personal interests prior to returning to the UK to finish my degree and resume full-time employment.\
+Please see my work experience below.
+
+<!-- INSERT LOCATION TIMELINE HERE -->
+
+***
+## Work Experience
+**Research Assistant** <span style="float: right;">December 2022 — September 2024</span>\
+PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
+- Verified academic sources and gathered relevant data to support a doctoral thesis in social communication.%%[^prix]%%
+- Acted as a central point of contact for external academic bodies, international universities and primary authors to gain access
+to academic papers and research materials across Canada, the United States and Japan.
+- Processed, analysed and transformed raw datasets into professional, publication-ready graphs and data visualisations in Python.
+- Provided multilingual proofreading and editorial layout support across chapters containing English, French and Japanese text.
+- Established and manually implemented a framework of hundreds of typographical and formatting rules to ensure absolute
+consistency across the entire 275 page manuscript.
+- Identified and manually corrected more than 2,500 complex grammatical, punctuation and typographical errors prior to official
+submission.
+- Ensured a high-level of quality control, resulting in a significantly below-average number of corrections during subsequent
+professional independant editorial reviews.
+
+**College Exam Marker**<span style="float: right;">October — December 2023</span>\
+PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
+- Evaluated and marked 100s of college-level exams and assignments, providing constructive and detailed feedback according to
+provided rubrics.
+
+**Café Assistant** <span style="float: right;">July 2020 — September 2021</span>\
+HMP PETERHEAD PRISON MUSEUM (ADMIRALTY GATEWAY CHARITABLE TRUST) *<span style="float: right;">Peterhead, Scotland</span>*<!-- *HMP Peterhead Prison Museum (Admiralty Gateway Charitable Trust) Peterhead, Scotland* -->
+- Managed the day-to-day operations of the museum café, overseeing both front-of-house service and food preparation within a
+high-volume, 5-star visitor attraction.
+- Entrusted with full financial responsibility, including processing transactions efficiently using the POS system, cashing up the
+till, and securely handling cash volume using the on-site safes.
+- Conducted daily inventory checks to ensure optimal stock levels and independently managed procurement, coordinating with
+suppliers to order over 100 different food, drink, and kitchen components.
+- Streamlined kitchen workflows to reduce overhead costs, successfully identifying ways to minimise food waste and improve
+serving efficiency.
+- Maintained meticulous daily food safety and temperature records to ensure absolute compliance with UK food hygiene
+legislation.
+- Oversaw daily health and safety protocols, including maintaining clear fire evacuation routes and conducting routine fire
+extinguisher checks.
+- Strictly upheld rigorous hygiene and deep-cleaning schedules to meet both COVID-19 safety regulations and the high standards
+expected of a top-tier tourist venue.
+- Handled high-volume service windows under pressure, managing large crowds of visitors daily while maintaining a calm,
+professional, and welcoming composure.
+- Resolved customer complaints and enquiries with diplomacy to ensure a positive visitor experience, resulting in regular mention
+in positive venue reviews.
+- Developed new menu options by actively gathering customer feedback and identifying popular visitor preferences.
+- Learned basic British Sign Language to ensure d/Deaf and hard-of-hearing visitors felt comfortable, included and fully
+accommodated.
+
+## Education
+<!-- ### MA Librarianship
+**Sheffield University** ・ MLIS ・ 2030 -->
+<!-- ### BA (Hons) French Language Studies %% OPEN DEGREE? %%
+**Open University** ・ Online ・ 2033 -->
+**University of Aberdeen  &  The Open University** <span style="float: right;">2017 — 2022</span>\
+Completed coursework in Mathematics & Computer Science<span style="float: right;">SCQF Level 8</span>
+- Completed two years of undergraduate-level study (DipHE equivalent) in calculus, linear algebra and software principles.<!-- • Undertook distance-learning modules focusing on TOPIC. -->
+- Developed skills in analytical problem solving, academic writing and independent research.
+
+**North East Scotland College** <span style="float: right;">2016 — 2017</span>\
+HNC [Applied Sciences](https://www.nescol.ac.uk/courses/hnc-applied-science-chemistry-physics-route/) (Chemistry & Physics)<span style="float: right;">SCQF Level 7</span>
+
+## Projects
+**Developer & Maintainer**, [QADDOE](https://reiwa.ca/qaddoe) <span style="float: right;">April 2023 — Present</span>
+- Commissioned by a university professor to design and build an open-source qualitative data analysis application from scratch, now adopted and used
+by research and doctoral students across Canada.<!-- - Realised with Electron (TypeScript) (so its cross compatible with all OSes) writing over 24,000 lines of code. -->
+- Engineered algorithms and data structures to allow researchers to code, categorise and manage large qualitative textual datasets.<!-- more than 100,000 lines per file supported without impact on usability^[need a new word here]. -->
+- Coordinated with a test group of graduate researchers to gather real user feedback and translate user requirements <!-- requests? -->into functional software updates.
+- Delivered targeted technical training seminars to university faculty and students at l’Université du Québec à Trois-Rivières to
+facilitate software adoption.
+- Maintained and iteratively updated the application’s data processing capabilities based on real-world research workflows to
+improve overall usability.<!-- this sentence doesn’t make sense -->
+- Optimised application performance to achieve a 15% reduction in startup time.
+
+## Certifications & Training
+[[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">Expected July 2026</span>\
+The TEFL Academy
+
+**Pedagogical Training for Higher Education**<span style="float: right">September 2024</span>\
+l'Université du Québec à Trois-Rivières
+- Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
+the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
+
+## Extracurricular Activities %% Interests? %%
+[[steno|Stenography]]
+- Studying how to type at up to 240 words per minute using a specially designed keyboard to help me triple my efficiency and
+become more accurate and reliable at data entry and general typing.
+
+**British Sign Language**
+- Learning to communicate via BSL to better understand d/Deaf and Hard of Hearing culture and expand the number of people
+I can communicate with.
+
+## Skills
+**Personal** — client collaboration, efficient communication (written and verbal), teamwork, technical support, user training\
+**Technical** — software development, technical problem solving, data management, analytical skills, attention to detail
+
+## Languages
+English\
+French
+</span>
+
+<!--
 **Looking to develop natural, native-like English skills? [Get in touch](mailto:ross@reiwa.ca) to book a trial lesson with me today!**
-%% THIS IS RUBBISH REWRITE %%
-> [!info] Professional Summary
-> **Multilingual educator** and **software developer** focused on intuitive, real-world English fluency. Looking to pursue an MLIS (Master’s in Library & Information Science) to apply research-led data organization methodologies to ESL curriculum design. Specializing in bridging the gap between technical complexity and accessible learning, concentrating on C1-level French support, neurodivergent-friendly pedagogy and real-world readiness for international professionals.
-
-
-## Skills & Technical Proficiencies
-- **Education & Linguistics**: ESL Pedagogy, Curriculum design, Bilingual instruction, Neurodivergent-adaptive teaching.
-- **Programming & Frameworks:** Electron (TS/JS), p5.js, Python, AHK.
-- **Technical:** Software development, Technical problem solving, Data management%% Analytical skills %%.
-- **Soft Skills:** Client collaboration, 90+ WPM typing, Technical training, Multi-timezone coordination.
-- **Languages:** English (Native), French (Professional Proficiency — CEFR C1).
-
 ## Work Experience
 ### English Tutor ・ Freelance
 *Kyoto, Japan ・ December 2025–Present*
@@ -37,36 +144,6 @@ draft: true
 - **Designed algorithms** and data structures resulting in a **15% reduction** in loading times.
 - **Focused on user-centric design**, translating complex researcher requirements into tailored software functionalities.
 - **Provided comprehensive technical training** on how to take advantage of the application for best research results.
-### College Teaching Assistant ・ Freelance
-*Quebec, Canada ・ December 2022–June 2023* %% FIX THIS DATE %%
-- **Marked hundreds of exams and assignments**, providing constructive feedback based on detailed rubrics.
-- **Supported faculty and students** in delivering seminars on the effective use of college software and digital tools.
-### Research Assistant ・ PhD Thesis Project
-*UK & Canada ・ December 2021–June 2023*
-- **Collaborated globally**, assisting researchers across 3+ time zones (France, Canada and Japan).
-- **Securely managed** highly sensitive, confidential documents ensuring 100% availability while upholding strict security and encryption standards. -->
-<!-- expand! -->
+-->
 
-<!-- ## Education
-### BSc (Hons) Mathematics & Computer Science
-**Open University** ・ Online ・ 2027–2029 -->
-<!-- * Differential Equations, Mathematical Programming, Algorithms & Data Structures %% UPDATE THIS WITH MODULES FROM OU SITE %% -->
-<!-- ### MA Librarianship
-**Sheffield University** ・ MLIS ・ 2030 -->
-<!-- ### BA (Hons) French Language Studies %% OPEN DEGREE? %%
-**Open University** ・ Online ・ 2033 -->
-<!-- ### BSc (Hons) Mathematics
-**University of Aberdeen** ・ UK ・ 2017–2019
-- **Focus:** Calculus, Linear Algebra, Set Theory, Analysis. -->
-<!--
-### HNC Applied Sciences
-**North East Scotland College** ・ UK ・ 2016–2017 -->
-
-<!-- ## Projects
-
-- **Maintainer, [[QADDOE]]** ([reiwa.ca/qaddoe](https://reiwa.ca/qaddoe)) – Lead developer and maintainer for a qualitative data analysis tool used by graduate students at the University of Quebec and across Canada. -->
-<!-- * **Designer, Serial Steno Typing Theory** – Developing advanced typing methodologies. -->
-
-<!-- ## Certificates
-- **[[tefl|Level 5 TEFL Diploma]]** ・ Advanced certification in Teaching English as a Foreign Language ・ 2026
-- **Certified Cybersecurity Analyst** ・ IBM ・ 2021 -->
+<!-- [^prix]: The thesis in question — [Production, disponibilité et consommation de ressources satisfatoires à caractère sexuel pour hommes au Japon](https://www.researchgate.net/publication/399960331_Production_disponibilite_et_consommation_de_ressources_satisfatoires_a_caractere_sexuel_pour_hommes_au_Japon) (PDF) — was successfully defended by its author, Chantal Pioch, who was awarded the highest possible honours of « *mention exceptionnelle* » (exceptional distinction) for its outstanding academic quality.<br><br>Following a unanimous recommendation by the jury, the manuscript was officially nominated for the ***Prix de la meilleure thèse de l'UQTR*** in 2025. -->
