@@ -3,6 +3,12 @@ title: my philosophy of learning
 aliases:
   - my philosophy of learning
 ---
+<!--
+- additionally include "open information" stance
+- tie it into a separate "open science" note that talks about my thought on closed science, why I dont think it's a good thing and why I choose to only publish in OAJs. etc. (ask AI for better structure and layout)
+- change link on homepage to link to open information stance instead of philosophy of learning note. link both together so they are still mutually discoverable.
+- eventually add maths / science explainer animations to website. in folder index page, talk about passion of creating intuitive, easy to understand (sometimes interactive) animations to break down complex topics into manageable bites as part of why I enjoy teaching (link back to philosophy?)
+-->
 This document outlines my beliefs regarding the acquisition of knowledge and the ethics of information delivery. The philosophies herein serve as the governing framework for all of the projects I work on and the content I produce.
 
 While these tenets are my personal convictions, they also act as an expression of my commitment to the autonomy of the learner and the democratisation of information. I take seriously my responsibility %% as an information architect %%to ensure that the discovery of new information remains open to all whenever possible, regardless of the interface through which one engages with the world.
