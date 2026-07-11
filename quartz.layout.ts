@@ -49,7 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
         { Component: Component.LanguagePicker() },
-        { Component: Component.PrideMode() }
+        // { Component: Component.PrideMode() }
       ],
     }),
     Component.Explorer(),
@@ -81,7 +81,7 @@ export const defaultListPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.LanguagePicker() },
-        { Component: Component.PrideMode() }
+        // { Component: Component.PrideMode() }
       ],
     }),
     Component.Explorer(),

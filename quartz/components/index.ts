@@ -33,7 +33,7 @@ import AsciiPlasmaBackground from "./custom/AsciiPlasmaBackground"
 import BookingButton from "./custom/BookingButton"
 import AccessibilityPanel from "./custom/AccessibilityPanel"
 import SpoilerEffect from "./custom/SpoilerEffect"
-import PrideMode from "./custom/PrideMode"
+// import PrideMode from "./custom/PrideMode"
 
 export {
   ArticleTitle,
@@ -71,5 +71,5 @@ export {
   BookingButton,
   AccessibilityPanel,
   SpoilerEffect,
-  PrideMode
+  // PrideMode
 }
