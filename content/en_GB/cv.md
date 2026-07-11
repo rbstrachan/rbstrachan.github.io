@@ -22,7 +22,7 @@ I also have an accessible [PDF version]() available for download if you'd prefer
 A [...]. -->
 ***
 ## Current Status
-**International Travel Sabbatical** <span style="float: right;">October 2024 — September 2026</span>\
+**International Travel** <span style="float: right;">October 2024 — June 2026</span>\
 PERSONAL TIME OFF *<span style="float: right;">Canada, Japan & South Korea</span>*
 - Took some time off to travel, focus on language learning and my own personal interests prior to returning to the UK to finish my degree and resume full-time employment.\
 Please see my work experience below.
