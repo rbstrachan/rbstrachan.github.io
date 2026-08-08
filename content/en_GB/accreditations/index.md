@@ -1,5 +1,4 @@
 ---
-draft: true
 title: accreditations
 aliases:
   - accreditations
@@ -8,9 +7,10 @@ This folder serves to list my education qualifications, professional accreditati
 
 A summary of these accreditations is provided below. Click on a title to find out more information.
 
-  > [!info]- Know a course that might suit me?
-> I’m always looking for new courses and certifications to keep pace with the latest in math, computer science and library and information sciences.
-> If you have any recommendations for programs that would help me sharpen my skills or align with my work in [[projects/index|projects]], [[tools/index|tools]] or [[research/index|research]], please feel free to [[contact|get in touch]].
+> [!info]- Know a course that might suit me?
+> I’m always looking for new courses and professional development certifications to keep pace with the latest in mathematics, computer science and library and information sciences.
+>
+> If you have any recommendations for programs that would help me sharpen my skills or align with my work in [[projects/index|projects]] or [[tools/index|tools]]<!-- or [[research/index|research]] -->, please feel free to [[contact|get in touch]].
 
 ***
 ## Qualifications
@@ -18,21 +18,21 @@ A summary of these accreditations is provided below. Click on a title to find ou
 *After taking a break from my degree to work abroad in Canada and Japan, I intend to complete my studies starting at the beginning of 2027.*
 %% - [GitHub Foundations Certification](https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/?practice-assessment-type=certification) ・ Microsoft Learn ・ 2026 %% %% COSTS £56 %%
 - %%[[bsc|%%BSc (Hons) Mathematics & Computer Science%%]]%% (Q67) ・ Open University ・ 2027–2029
-- %%[[mlis|%%MA Librarianship%%]]%% (<abbr title="Library & Information Sciences">MLIS</abbr>) ・ Sheffield University[^rank] ・ 2030
+- %%[[mlis|%%MA Librarianship%%]]%% (<abbr title="Master's in Library & Information Sciences">MLIS</abbr>) ・ Sheffield University<!-- [^rank] --> ・ 2030
 
-### Current
-*Qualifications that I am currently studying for.*
-- [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ June 2026
-	- Advanced English pedagogy, lesson planning and linguistic analysis.
-	- Intended to allow me to teach English online.%%, while bridging the gap between my [[research/index|research]] and my ability to communicate complex systems to diverse audiences.%%
+<!-- ### Current
+*Qualifications that I am currently studying for.* -->
 
 ### Completed
 *Past certifications that I have finished. Links are provided to verify certificates.*
+- [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ 2026
 - [IBM Cybersecurity Analyst](https://coursera.org/share/62f893485e757fcd49dacc29ca0fecf5) (96/100) ・ Coursera ・ 2021
 - [Data Science Math Skills](https://coursera.org/share/9671e583075914278e0fc008064e17e2) (92/100) ・ Coursera ・ 2020
 - HNC Applied Sciences ・ <abbr title="North East Scotland College">NESCOL</abbr> ・ 2017
+
 <!-- ## Professional Associations -->
 <!-- - [IOP] (from–to) -->
+
 %%
 - [ ] GitHub Foundations
 - [ ] [Google Technical Writing](https://developers.google.com/tech-writing/announcements) and other Google courses (developer and others)
