@@ -38,5 +38,6 @@ A summary of these accreditations is provided below. Click on a title to find ou
 - [ ] [Google Technical Writing](https://developers.google.com/tech-writing/announcements) and other Google courses (developer and others)
 - [ ] Advanced Generative Art Study (p5.js)
 %%
+***
 
 [^rank]: Ranked #1 globally in the [QS World University Rankings for Library & Information Management](https://www.topuniversities.com/university-subject-rankings/library-information-management).
