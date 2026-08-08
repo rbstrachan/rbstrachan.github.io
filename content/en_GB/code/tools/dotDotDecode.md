@@ -1,3 +1,7 @@
+---
+tags:
+  - braille
+---
 dotDotDecode is a fairly simple tool to test and train your visual [[Braille]] reading ability and speed.
 I made this hastily while I was learning to read Braille by sight myself, mainly as a way to practice and get used to seeing Braille in type.
 

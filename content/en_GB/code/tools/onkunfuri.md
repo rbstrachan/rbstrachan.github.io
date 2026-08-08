@@ -1,3 +1,7 @@
+---
+tags:
+  - japanese/meta
+---
 onkunfuri is a Japanese-language project that provides a robust and highly accurate system for classifying Japanese kanji readings as on‑yomi or kun‑yomi directly from dictionary-style entries. It is designed to handle real‑world lexical data, including edge cases that commonly cause misclassification in naïve implementations.
 
 The classifier processes `kanji[reading]` mappings and applies linguistic rules, dictionary data and optional manual overrides to produce consistent and explainable results.
