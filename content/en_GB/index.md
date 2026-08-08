@@ -40,7 +40,7 @@ This website serves as a central reference hub for information on [[projects/ind
 - [ ] guides (free) - Reiwa's guide to natural fluency
 - [ ] -->
 
-I'm currently in <!--[[Japan|🇯🇵 Japan]]--><!-- **🇯🇵 Japan** -->the 🇬🇧 **UK**. I'm available for both remote-freelance and hired work — please don't hesitate to [[cv|check out my CV]] or [[contact|get in touch]].
+I'm currently in <!--[[Japan|🇯🇵 Japan]]--><!-- **🇯🇵 Japan** --> 🇬🇧 **the UK**. I'm available for both remote-freelance and hired work — please don't hesitate to [[cv|check out my CV]] or [[contact|get in touch]].
 
 ***
 

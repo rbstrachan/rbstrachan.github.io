@@ -1,5 +1,6 @@
 ---
-title: 🏳️‍🌈 fierté
+draft: true
+title: fierté
 ---
 Joyeux Mois de la Fierté! reiwa.ca, désormais abordé de 100% d'arcs-en-ciel de plus! L'internet est à son meilleur lorsqu'il s'agit d'un espace ouvert, inclusif, accessible et accueillant pour tout le monde. Le web est bien plus qu'une simple liste de liens; c'est le reflet de la communauté diversifiée qui l'utilise.
 
