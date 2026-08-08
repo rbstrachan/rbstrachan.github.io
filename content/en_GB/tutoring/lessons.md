@@ -3,7 +3,7 @@ title: English and French language lessons
 aliases:
   - English and French language lessons
 ---
-As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I'm studying for a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**. I speak both **English** and **French** fluently.
+As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I have a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**. I speak both **English** and **French** fluently.
 
 <!-- PROMOTIONAL COPY
 These lessons are designed to motivate, inspire and support you through your language learning journey; lower cognitive debt by fixing bad habits and preventing mistakes as they happen, and; etc.^[?].
@@ -53,22 +53,22 @@ For natural day-to-day conversation, social interaction and practical language s
 *Business lessons are coming soon! Please [get in touch](mailto:tutoring@reiwa.ca) if you'd like to discuss taking a business class.*
 <span style="margin-bottom:-10px"></span>
 > [!tip]+ Early bird offer for the next 10 students!
-> To mark the launch of our language tutoring, we're offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
+> To mark the launch of my French language tutoring, I'm offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
 > |  | Standard<span style="opacity: 0%">00000</span> | Early Bird |
 > | :--- | ---: | :--- |
 > | **Trial Lesson**  | Free<span style="opacity: 0%">/hr (£252)</span>　-> | Free |
 > | **Single Lesson** | ~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 -> | **£18** |
 > | **12-Hour Block** | ~~£21/hr (£252)~~　 -> | **£15.75/hr (£189)** |
 > | **36-Hour Block** | ~~£19/hr (£684)~~　 -> | **£14/hr (£504)** |
->
-> *<span style="opacity:50%">The prices in the table below are our standard prices and will take effect after the early bird offer has concluded.</span>*
+> &nbsp;
+<!-- > *<span style="opacity:50%">The prices in the table below are my standard prices and will take effect after the early bird offer has concluded.</span>* -->
 
-| Lessons (Duration) | | Price Per Hour (Total)[^prices] |
+<!-- | Lessons (Duration) | | Price Per Hour (Total)[^prices] |
 | :--- | ---: | :--- |
 | **Trial** (45 mins) | | Free |
 | **Single Lesson**<br>(1 hour) | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$32 ・ C\$44<br>£24 ・ €27<br>¥5,000 ・ ₩47,000 |
 | **Block of 12 Hours**<br><nobr>(1–3 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$29 (\$348) ・ C\$39 (\$468)<br>£21 (£252) ・ €24 (€288)<br>¥4,500 (¥54,000) ・ ₩42,000 (₩504,000) |
-| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) |
+| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) | -->
 
 <!-- ## Business
 *Advanced professional communication, including corporate etiquette, interview preparation and industry-specific terminology.*
@@ -105,22 +105,22 @@ To ensure transfers are quick and easy, several payment methods are available. P
 
 | Payment&nbsp;method | |
 | ---: | --- |
-| **Direct Transfer**<br>(Recommended) | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IBAN**. Available for UK, EU, US, CA and JP.<br>**Get an additional one-hour lesson for free per block of 12 hours paid via direct transfer.**<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
-| **Stripe** | For secure payments from a **bank account**, **bank card**<!--[^1]--> or **digital wallet**<!--[^2] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
-| **Buy Now Pay Later**<br>&nbsp; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**.<br>**BNPL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
+| **Direct Transfer**<br>(Recommended)<br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IBAN**.<br>Available for UK, EU, US, CA and JP.<br>**Get an additional one-hour lesson for free per block of 12 hours paid via direct transfer.**<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
+| **Stripe**<br>&zwj; | For secure payments from a **bank account**, **bank card**<!--[^1]--> or **digital wallet**<!--[^2] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
+| <nobr>**Buy Now Pay Later**</nobr><br><br>&zwj; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**.<br>**BNPL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
 
 <!-- | **Konbini**<br>&nbsp; | In Japan? Pay with ease at a local **7-11**, **Family Mart** or **Lawson** konbini.<br>LOGOS HERE | -->
 *PayPal transfers, mobile carrier billing and prepaid vouchers are not currently supported.*
 
 > [!warning]- Responsible Use of Buy Now Pay Later (BNPL) Services such as Klarna, et al.
-> For our larger lesson blocks (36-Hour Standard or 12-Hour Business), we offer **Klarna** as a checkout option via Stripe. This allows you to either (a) spread the cost over three or four interest-free instalments; or (b) defer payment for 30 days.
+> For the larger lesson blocks (36-Hour Standard or 12-Hour Business), **Klarna** is available as a checkout option via Stripe. This allows you to either (a) spread the cost over three or four interest-free instalments; or (b) defer payment for 30 days.
 >
-> While we want to make language coaching as accessible as possible, please remember that the use of Klarna and related BNPL schemes is a form of credit. We encourage students to use this option responsibly. You should know that:
+> While I want to make language coaching as accessible as possible, please remember that the use of Klarna and related BNPL schemes is a form of credit. Students are encouraged to use this option responsibly. You should know that:
 > - **BNPL is debt. Even when interest-free, BNPL is a financial commitment that can become very expensive very quickly if it is not paid on time and in full.**
 > - **Only select this option if you are certain you have the funds to meet the scheduled payments in full and on time, every time.**
 > - **Please consider your overall budget before committing to a long-term payment plan.**
 >
-> Your progress is our priority and that includes your financial peace of mind. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch]() and I'll work with you to find a better plan.
+> Your progress is my priority and that includes your financial peace of mind. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch](mailto:tutoring@reiwa.ca) and I'll work with you to find a better plan.
 
 ***
 <span style="opacity:75%">Please make sure you have read, understood and agreed to the required [[legal|legal agreements]] before booking a lesson.</span>
@@ -128,7 +128,7 @@ To ensure transfers are quick and easy, several payment methods are available. P
 <!-- [^1]: Includes international debit and credit cards from American Express, Cartes Bancaires, China UnionPay, Diners Club, Discover, eftpos Australia, Interac, JCB, Mastercard, Visa.
 [^2]: Includes Alipay, Amazon Pay, Apple Pay, Cash App Pay, Google Pay, GrabPay, Kakao Pay, Link, Naver Pay, PayCo, PayPal, PayPay, Revolut Pay, Samsung Pay, satispay, WeChat Pay. -->
 
-[^A0]: While the official [CEFR scale]() begins at <span class="small-caps">A1</span>, I use <span class="small-caps">A0</span> to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
-[^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **July 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
+[^A0]: While the official [CEFR scale](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) begins at <span class="small-caps">A1</span>, I use <span class="small-caps">A0</span> to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
+[^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **October 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
 [^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.  
