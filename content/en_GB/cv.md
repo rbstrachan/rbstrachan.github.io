@@ -8,8 +8,8 @@ cssclasses: no-dropcap-no-smallcaps
 <img id="selfie-photo-float-left" src="/static/me.png" alt="A profile photo of me smiling" />
 <span style="text-align: justify;">
 
-Below you can find everything you need to know about my education history, work experience, projects, interests, research and publications.\
-I also have an accessible [PDF version]() available for download if you'd prefer.
+Below you can find everything you need to know about my education history, work experience, projects, interests and seminars I've delivered. %% research and publications. %% \
+I also have an accessible [[static/cv.pdf|PDF version]] available for download.
 
 <span style="display: inline-block; width: 1em; height: 1em; background-color: #22c55e; border-radius: 50%; margin-right: 0.4em; vertical-align: sub;" aria-hidden="true"></span>*I'm available for both remote (freelance) and hired work — please don’t hesitate to [[contact|contact me]] to discuss an available role or project for collaboration.*
 
@@ -31,48 +31,36 @@ Please see my work experience below.
 
 ***
 ## Work Experience
-**Research Assistant** <span style="float: right;">December 2022 — September 2024</span>\
+**Research Assistant** <span style="float: right;">October 2022 — October 2024</span>\
 PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
 - Verified academic sources and gathered relevant data to support a doctoral thesis in social communication.%%[^prix]%%
-- Acted as a central point of contact for external academic bodies, international universities and primary authors to gain access
-to academic papers and research materials across Canada, the United States and Japan.
+- Acted as a central point of contact for external academic bodies, international universities and primary authors to gain access to academic papers and research materials across Canada, the United States and Japan.
 - Processed, analysed and transformed raw datasets into professional, publication-ready graphs and data visualisations in Python.
 - Provided multilingual proofreading and editorial layout support across chapters containing English, French and Japanese text.
-- Established and manually implemented a framework of hundreds of typographical and formatting rules to ensure absolute
-consistency across the entire 275 page manuscript.
-- Identified and manually corrected more than 2,500 complex grammatical, punctuation and typographical errors prior to official
-submission.
-- Ensured a high-level of quality control, resulting in a significantly below-average number of corrections during subsequent
-professional independant editorial reviews.
+- Established and manually implemented a framework of hundreds of typographical and formatting rules to ensure absolute consistency across the entire 275 page manuscript.
+- Identified and manually corrected more than 2,500 complex grammatical, punctuation and typographical errors prior to official submission.
+- Ensured a high-level of quality control, resulting in a significantly below-average number of corrections during subsequent professional independent editorial reviews.
 
 **College Exam Marker**<span style="float: right;">October — December 2023</span>\
 PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
-- Evaluated and marked 100s of college-level exams and assignments, providing constructive and detailed feedback according to
-provided rubrics.
+- Evaluated and marked hundreds of exams and assignments, applying complex grading rubrics to maintain institutional academic standards.
+- Provided constructive, detailed written feedback to students to support their academic development.
+- Managed sensitive student data and final grades confidentially, ensuring accurate data entry for final tracking.
+- Prioritised a heavy workload independently to ensure all marking turnarounds met strict deadlines.
 
 **Café Assistant** <span style="float: right;">July 2020 — September 2021</span>\
-HMP PETERHEAD PRISON MUSEUM (ADMIRALTY GATEWAY CHARITABLE TRUST) *<span style="float: right;">Peterhead, Scotland</span>*<!-- *HMP Peterhead Prison Museum (Admiralty Gateway Charitable Trust) Peterhead, Scotland* -->
-- Managed the day-to-day operations of the museum café, overseeing both front-of-house service and food preparation within a
-high-volume, 5-star visitor attraction.
-- Entrusted with full financial responsibility, including processing transactions efficiently using the POS system, cashing up the
-till, and securely handling cash volume using the on-site safes.
-- Conducted daily inventory checks to ensure optimal stock levels and independently managed procurement, coordinating with
-suppliers to order over 100 different food, drink, and kitchen components.
-- Streamlined kitchen workflows to reduce overhead costs, successfully identifying ways to minimise food waste and improve
-serving efficiency.
-- Maintained meticulous daily food safety and temperature records to ensure absolute compliance with UK food hygiene
-legislation.
-- Oversaw daily health and safety protocols, including maintaining clear fire evacuation routes and conducting routine fire
-extinguisher checks.
-- Strictly upheld rigorous hygiene and deep-cleaning schedules to meet both COVID-19 safety regulations and the high standards
-expected of a top-tier tourist venue.
-- Handled high-volume service windows under pressure, managing large crowds of visitors daily while maintaining a calm,
-professional, and welcoming composure.
-- Resolved customer complaints and enquiries with diplomacy to ensure a positive visitor experience, resulting in regular mention
-in positive venue reviews.
+HMP PETERHEAD PRISON MUSEUM (ADMIRALTY GATEWAY CHARITABLE TRUST) *<span style="float: right;">Peterhead, Scotland</span>*
+- Managed the day-to-day operations of the museum café, overseeing both front-of-house service and food preparation within a high-volume, 5-star visitor attraction.
+- Entrusted with full financial responsibility, including processing transactions efficiently using the POS system, cashing up the till, and securely handling cash volume using the on-site safes.
+- Conducted daily inventory checks to ensure optimal stock levels and independently managed procurement, coordinating with suppliers to order over 100 different food, drink, and kitchen components.
+- Streamlined kitchen workflows to reduce overhead costs, successfully identifying ways to minimise food waste and improve serving efficiency.
+- Maintained meticulous daily food safety and temperature records to ensure absolute compliance with UK food hygiene legislation.
+- Oversaw daily health and safety protocols, including maintaining clear fire evacuation routes and conducting routine fire extinguisher checks.
+- Strictly upheld rigorous hygiene and deep-cleaning schedules to meet both COVID-19 safety regulations and the high standards expected of a top-tier tourist venue.
+- Handled high-volume service windows under pressure, managing large crowds of visitors daily while maintaining a calm, professional, and welcoming composure.
+- Resolved customer complaints and enquiries with diplomacy to ensure a positive visitor experience, resulting in regular mention in positive venue reviews.
 - Developed new menu options by actively gathering customer feedback and identifying popular visitor preferences.
-- Learned basic British Sign Language to ensure d/Deaf and hard-of-hearing visitors felt comfortable, included and fully
-accommodated.
+- Learned basic British Sign Language to ensure d/Deaf and hard-of-hearing visitors felt comfortable, included and fully accommodated.
 
 ## Education
 <!-- ### MA Librarianship
@@ -93,20 +81,27 @@ HNC [Applied Sciences](https://www.nescol.ac.uk/courses/hnc-applied-science-chem
 by research and doctoral students across Canada.<!-- - Realised with Electron (TypeScript) (so its cross compatible with all OSes) writing over 24,000 lines of code. -->
 - Engineered algorithms and data structures to allow researchers to code, categorise and manage large qualitative textual datasets.<!-- more than 100,000 lines per file supported without impact on usability^[need a new word here]. -->
 - Coordinated with a test group of graduate researchers to gather real user feedback and translate user requirements <!-- requests? -->into functional software updates.
-- Delivered targeted technical training seminars to university faculty and students at l’Université du Québec à Trois-Rivières to
-facilitate software adoption.
-- Maintained and iteratively updated the application’s data processing capabilities based on real-world research workflows to
-improve overall usability.<!-- this sentence doesn’t make sense -->
-- Optimised application performance to achieve a 15% reduction in startup time.
+- Delivered targeted technical training seminars to university faculty and students at l’Université du Québec à Trois-Rivières to facilitate software adoption.
+- Optimised application performance, achieving a 15% reduction in startup time.
 
 ## Certifications & Training
-[[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">Expected July 2026</span>\
+[[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">July 2026</span>\
 The TEFL Academy
 
+<!-- [[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">Expected September 2026</span>\
+The TEFL Academy -->
+
 **Pedagogical Training for Higher Education**<span style="float: right">September 2024</span>\
-l'Université du Québec à Trois-Rivières
+Université du Québec à Trois-Rivières
 - Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
 the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
+
+## Professional Development Seminars
+**Technical Workshop Assistant**<span style="float: right">2023</span>\
+Université du Québec à Trois-Rivières, Québec, Canada
+- Co-delivered a two-day bilingual training seminar focused on the NVivo qualitative data analysis software and its methodologies and workflows.
+- Executed live on-screen software demonstrations to guide participants through complex interface navigation and data coding procedures in real time.
+- Provided individual troubleshooting and technical support, assisting attendees with project setup, file organisation and interface configuration.
 
 ## Extracurricular Activities %% Interests? %%
 [[steno|Stenography]]
@@ -122,8 +117,10 @@ I can communicate with.
 **Technical** — software development, technical problem solving, data management, analytical skills, attention to detail
 
 ## Languages
-English\
-French
+English<span style="float: right">Native</span>\
+French<span style="float: right">Advanced (Professional) Proficiency (C1–C2)</span>
+
+<!-- text align justify span -->
 </span>
 
 <!--
