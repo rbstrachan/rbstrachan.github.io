@@ -1,30 +1,19 @@
 ---
-draft: true
 title: research
 aliases:
   - research
 ---
-> [!info] A small footnote...
-> This page list the research topics I am working on.
-> Projects listed here reflect work in development and are likely to evolve over time.
-> For a list of completed research materials, see my [[publications/index|publications]].
->
-> If you are interested in collaborating on research or technical writing, feel free to [get in touch](mailto:ross@reiwa.ca).
+This page collects my current %%and past%% research interests across Library & Information Sciences, specifically tactile accessibility and digital preservation.
+
+Undertaken in preparation for future graduate studies, these notes reflect active and evolving research whose methodologies and outlines may evolve over time.
+
+I'm always open to feedback and opportunities to collaborate. If you're interested in discussing a topic you think might interest me, please don't hesitate to [[contact|get in touch]].
+
+<!-- > For a list of completed research materials, see my [[publications/index|publications]]. -->
 
 ***
 
 <!--
-to be researched:
-- Encoding Touch: A Comparative Analysis of Braille Representation Across Writing Systems
-Length: ~3000–4000 words (eventually to be published and put in publications) (see example layout below)
-Introduction
-Overview of Braille Systems
-Unicode Representation
-Encoding Differences (e.g., French vs Japanese)
-Metadata Implications
-Accessibility & Archival Implications
-Conclusion
-
 - Designing a Metadata & Encoding Framework for Multilingual Braille Publishing
 ## 1. Problem Definition
 - Braille is not universal.
@@ -156,7 +145,6 @@ Forensic Recovery of Corrupted Minecraft Worlds
 3. Attempt recovery using heuristics.
 4. Document success rates.
 
-
 TIMELINE
 ## Months 1–2: Foundations
 Study and model:
@@ -181,5 +169,4 @@ Publish short structured essays:
 - Create sample metadata records for Braille publication
 - Integrate preservation layer
 - Refine paper toward publishable standard
-
  -->
