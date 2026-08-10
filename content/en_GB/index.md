@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Ross Strachan
 cssclasses: no-page-header
 ---
 <!-- cross-linguistic evolution and standardisation of Braille research
@@ -12,26 +12,26 @@ standards and accessibility, your research could involve:
 -->
 Hello! I'm *<!--[[about|-->Ross<!--]]-->*, an<!-- [[information architecture| --> **information architect**<!-- ]] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many<!-- [[ --> **interfaces between humans and machines**<!-- ]] -->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
-My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal or Sheffield University to research the differences in the implementation of [[Braille]] across international writing systems.
+My background is in <!-- [[ -->**Mathematics & Computer Science**<!-- ]] , specifically [[computational linguistics]]-->. I'd like to pursue a Master's in <!-- [[ -->**Library & Information Sciences**<!-- ]] --> at l'Université de Montréal or the University of Sheffield to research [[braille-implementations|the differences in the implementation of Braille across international writing systems]].
 <!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardisation of Braille]]. -->
 <!-- This sentence is too heavy for the front page, move it elsewhere:
 My goal is to eventually work in a role where I can actively develop and improve library services, including braille and accessible materials, to ensure everyone has equal access to information. -->
 
-I have a <!--[[tefl|TEFL Level 5 diploma]]-->[[tefl|TEFL Level 5 diploma]]<!-- and a certificate in Pedagogical Training for Higher Education-->.\
+I hold a <!--[[tefl|TEFL Level 5 diploma]]-->[[tefl|TEFL Level 5 diploma]]<!-- and a certificate in Pedagogical Training for Higher Education-->.\
 I offer language lessons in both English and French — [[lessons|book a free trial lesson]] with me today!<!-- directly or on [Preply](https://preply.com) or [italki](https://italki.com)-->
 
-This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, animations and tools I've [[code/index|coded]], <!--[[media]] I'm consuming-->[[goals/index|goals]] I'm working towards as well as notes and documentation on my personal <!--[[research/index|-->**research**<!--]]--> and <!--[[publications/index|-->**publications**<!--]]-->.<sup>COMING SOON!</sup> <!--You'll also find notes I have written on topics that interest me. -->
+This website serves as a central reference hub for information on [[projects/index|projects]] I'm working on, animations and tools I've [[code/index|coded]], <!--[[media]] I'm consuming-->[[goals/index|goals]] I'm working towards as well as notes and documentation on my personal [[research/index|research]] and <!--[[publications/index|-->**publications**<!--]]-->.<sup>COMING SOON!</sup> <!--You'll also find notes I have written on topics that interest me. -->
 <!--
-- [ ] accreditations
-- [ ] code
+- [x] accreditations
+- [x] code
 	- [x] animations
 	- [x] games - put WIPs into a 'sandbox' section?
 	- [x] tools (free) - tools and utilities I have coded like onkunfuri, ORGNFr, etc.
-- [ ] goals
+- [x] goals
 - [ ] media
 - [x] philosophies
 - [x] projects - see [[projects]]
-	- [x] applications - QADDOE
+	- [x] applications - QADDOE, etc.
 - [ ] publications - technical whitepapers on projects, etc.
 - [ ] research - Photogrammetry in Minecraft, etc.
 *** perhaps merge the below folders with projects or something else?
@@ -60,10 +60,11 @@ to be added to left-hand-column
 at the bottom:
 home (if not on home welcome page)
 
-- language tools
-	- 「日本語」[令和リーダー](/nihongo/reader)
-	- (Français) [Outil pour Réviser les Genres des Mots Français (1500 mots)](/p5.js/francais)
-- games
-	- [Harley's Hallows' Halloween Haunt](https://harleyshallows.github.io/games/hhhh/)
-	- [Hogwarts Express Ticket Generator](https://harleyshallows.github.io/games/ticket/)
+- code
+  - tools
+	 - 「日本語」[令和リーダー](/nihongo/reader)
+	  - (Français) [Outil pour Réviser les Genres des Mots Français (1500 mots)](/p5.js/francais)
+  - games
+	 - [Harley's Hallows' Halloween Haunt](https://harleyshallows.github.io/games/hhhh/)
+   - [Hogwarts Express Ticket Generator](https://harleyshallows.github.io/games/ticket/)
 -->

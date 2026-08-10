@@ -4,7 +4,7 @@ While almost every language has an equivalent Braille system, the way in which l
 
 %% Have a play around with my [English to Braille converter](). %%
 
-<!--As part of my research into %% \[\[%% implementations of Braille across diverse  writing  systems and orthographies%%\]\]%%, I have written about the core differences between [[English Braille|English]], [[French Braille|French]] and [[Japanese Braille]] and the thought processes that led to these systems becoming the standards for their respective linguistic branches.-->
+<!--As part of my research into %% \[\[%% implementations of Braille across diverse writing systems and orthographies%%\]\]%%, I have written about the core differences between English Braille, [[French Braille|French]] and [[Japanese Braille]] and the thought processes that led to these systems becoming the standards for their respective linguistic branches.-->
 
 %%
 

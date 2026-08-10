@@ -6,12 +6,17 @@ aliases:
   - TEFL Level 5 certification
 tags:
   - accreditation/diploma
+  - accreditation/pedagogy
+  - continuous-personal-development
 ---
-I studied for, and obtained, the TEFL Level 5 diploma with the goal of teaching English as a Second Language to students internationally. I started the course in January 2026 and received my certificate in June 2026.
+I hold a Qualifi-accredited Teaching English as a Foreign Language (TEFL) Level 5 diploma, completed between January and June 2026, that certifies me to teach English to learners internationally — both in-person and online.
 
-> [!info] Current overall course progress
-> 54/54 (100.0%)\
+> [!success]+ Fully certified!
+> **Module Progress:** 54/54 (100.0%)\
+> **Completed:** June 2026\
 > <progress id="progress" value="100" max="100" style="width: 99%"> 100.0% </progress>
+
+The course covered the core pedagogical theory, lesson design, language analysis and classroom management techniques required to deliver high-impact language instruction to non-native English speakers of varying ages and proficiency levels.
 
 ## Units
 - [x] Unit 1 — Introduction to lesson planning
@@ -26,6 +31,6 @@ I studied for, and obtained, the TEFL Level 5 diploma with the goal of teaching 
 - [x] Unit 10 — The effective use of resources
 
 ## Assessments
-- [x] A (Passed)
-- [x] B (Passed)
-- [x] C (Passed)
+- [x] Elementary Lesson Planning & Communicative Activities (Passed)
+- [x] Grammar Analysis & Full Lesson Design (Passed)
+- [x] Authentic Materials & Coursebook Evaluation (Passed)

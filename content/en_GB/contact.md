@@ -1,5 +1,7 @@
 ---
 cssclasses: no-dropcap-no-smallcaps
+aliases:
+   - contact me
 ---
 Want to get in touch? Feel free to contact me directly via any of the below methods.
 
