@@ -3,6 +3,7 @@ title: accreditations
 aliases:
   - accreditations
 ---
+<!-- TODO: ADD PROFESSIONAL ASSOCIATIONS (CILIP, ETC.) -->
 This folder serves to list my education qualifications, professional accreditations, technical certifications and pedagogical training — past, present and upcoming.
 
 A summary of these accreditations is provided below. Click on a title to find out more information.
@@ -26,14 +27,14 @@ A summary of these accreditations is provided below. Click on a title to find ou
 
 ## Current
 *Qualifications and certifications that I am currently studying for or renewing.*
-- [[fppes|Practical Training in Higher Education Pedagogy]] (Renewal) ・ UQTR & OPES
+- [[fppes|Practical Training in Higher Education Pedagogy]] ・ OPES at UQTR
 
 ## Completed
 *Previous certifications that I have completed. Links are provided to verify certificates.*
 
 ### Pedagogy
 - [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ 2026
-- [[fppes|Practical Training in Higher Education Pedagogy]] ・ UQTR & OPES ・ 2024–2026
+<!-- - [[fppes|Practical Training in Higher Education Pedagogy]] ・ OPES at UQTR ・ 2024–2026 -->
 
 ### Mathematics & Computer Science
 - [IBM Cybersecurity Analyst](https://coursera.org/share/62f893485e757fcd49dacc29ca0fecf5) (96/100) ・ IBM (Coursera) ・ 2021
@@ -41,7 +42,6 @@ A summary of these accreditations is provided below. Click on a title to find ou
 - <a href="/accreditations/hnc"><abbr title="Higher National Certificate">HNC</abbr> Applied Sciences</a> ・ <abbr title="North East Scotland College">NESCOL</abbr> ・ 2017
 
 <!-- ## Professional Associations -->
-<!-- - [IOP] (from–to) -->
 <!-- Chartered Institute of Library and Information Professionals (CILIP)  -->
 
 %%

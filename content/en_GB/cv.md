@@ -5,6 +5,7 @@ aliases:
   - CV
 cssclasses: no-dropcap-no-smallcaps
 ---
+<!-- TODO: ADD PROFESSIONAL ASSOCIATIONS (CILIP, ETC.) -->
 <img id="selfie-photo-float-left" src="/static/me.png" alt="A profile photo of me smiling" />
 <span style="text-align: justify;">
 
@@ -20,17 +21,17 @@ I also have an accessible [[static/cv.pdf|PDF version]] available for download.
 
 <!-- ## Personal Summary
 A [...]. -->
-***
+<!-- *** -->
 ## Current Status
-**International Travel** <span style="float: right;">October 2024 — June 2026</span>\
+I'm currently based in the UK and preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking full- or part-time Library & Information Science roles to gain practical experience, fund my remaining studies and continue developing my skills in open access and digital accessibility.
+
+***
+## Work Experience
+**International Travel** <span style="float: right;">April 2025 — June 2026</span>\
 PERSONAL TIME OFF *<span style="float: right;">Canada, Japan & South Korea</span>*
 - Took some time off to travel, focus on language learning and my own personal interests prior to returning to the UK to finish my degree and resume full-time employment.\
 Please see my work experience below.
 
-<!-- INSERT LOCATION TIMELINE HERE -->
-
-***
-## Work Experience
 **Research Assistant** <span style="float: right;">October 2022 — October 2024</span>\
 PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
 - Verified academic sources and gathered relevant data to support a doctoral thesis in social communication.%%[^prix]%%
@@ -91,14 +92,14 @@ The TEFL Academy
 <!-- [[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">Expected September 2026</span>\
 The TEFL Academy -->
 
-**Pedagogical Training for Higher Education**<span style="float: right">September 2024</span>\
+<!-- **Pedagogical Training for Higher Education**<span style="float: right">September 2024</span>\
 Université du Québec à Trois-Rivières
 - Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
-the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
+the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette). -->
 
 ## Professional Development Seminars
 **Technical Workshop Assistant**<span style="float: right">2023</span>\
-Université du Québec à Trois-Rivières, Québec, Canada
+Université du Québec à Trois-Rivières<span style="float: right">Québec, Canada</span>
 - Co-delivered a two-day bilingual training seminar focused on the NVivo qualitative data analysis software and its methodologies and workflows.
 - Executed live on-screen software demonstrations to guide participants through complex interface navigation and data coding procedures in real time.
 - Provided individual troubleshooting and technical support, assisting attendees with project setup, file organisation and interface configuration.
