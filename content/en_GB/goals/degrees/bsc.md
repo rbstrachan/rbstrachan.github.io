@@ -12,6 +12,7 @@ In 2022, before completing my degree, I got the opportunity to live and work abr
 
 As I find myself back in the UK, I am preparing to complete my remaining undergraduate credits through studies in Mathematics & Computer Science — two areas of personal interest to me. I also plan to use this degree to enrol in a Master's program in [[mlis|Library & Information Sciences]].
 
+<!--
 > [!info]- Progress and statistics...
 > ### Completion
 > |  | Year 1 | Year 2 | Year 3 | Total |
@@ -47,7 +48,7 @@ As I find myself back in the UK, I am preparing to complete my remaining undergr
 #### Computer Science
 
 ## TMAs & EMAs
-
+ -->
 <!-- - Computing
   - Stage 1
     - Introduction to computing and information technology 1 (TM111)
