@@ -73,7 +73,7 @@ Completed coursework in Mathematics & Computer Science<span style="float: right;
 - Developed skills in analytical problem solving, academic writing and independent research.
 
 **North East Scotland College** <span style="float: right;">2016 — 2017</span>\
-HNC [Applied Sciences](https://www.nescol.ac.uk/courses/hnc-applied-science-chemistry-physics-route/) (Chemistry & Physics)<span style="float: right;">SCQF Level 7</span>
+[[hnc|HNC Applied Sciences]] (Chemistry & Physics)<span style="float: right;">SCQF Level 7</span>
 
 ## Projects
 **Developer & Maintainer**, [QADDOE](https://reiwa.ca/qaddoe) <span style="float: right;">April 2023 — Present</span>
