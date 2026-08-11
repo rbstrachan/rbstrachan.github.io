@@ -13,7 +13,7 @@ Tactile Typology & Architectures of Touch: A Comparative Analysis of Braille Imp
 
 The 6-dot [[Braille]] cell is a Western invention designed explicitly around, and for, the Latin alphabet. As other countries with completely different cultures and writing systems[^1] adopted the Braille philosophy to promote literacy and facilitate information access, they were forced to bend Braille's underlying framework to accommodate their vastly different phonetic, syllabic, logographic and tonal writing systems. This structural mismatch creates inherent tension between the Latinate design assumptions of the original cell and its localised, non-Latin implementation.
 
-This research aims to investigate how this structural<!-- ^[repeated in previous sentence] --> tension creates, affects, shapes, guides and informs the implementation of Braille as a tactile information architecture across distinct writing systems, with a particular focus on how localised systems such as %%[[Japanese Braille|%%Japanese Kana-based Braille%%]]%% have successfully re-engineered tactile mechanics%%^[i dont like this word]%% from the ground up to escape such constraints<!-- ^[this should be talking about the previously mentioned stress but that is not clear here] -->.
+This research aims to investigate how this structural<!-- ^[repeated in previous sentence] --> tension creates, affects, shapes, guides and informs the evolution and standardisation of Braille as a tactile information architecture across feature-distinct writing systems, with a particular focus on how localised systems such as %%[[Japanese Braille|%%Japanese Kana-based Braille%%]]%% have successfully re-engineered tactile mechanics%%^[i dont like this word]%% from the ground up to escape such constraints<!-- ^[this should be talking about the previously mentioned stress but that is not clear here] -->.
 
 > [!warning] This is a prospective Master's degree mémoire research topic and is a work in progress.
 > Content found on this page is preliminary in nature. This means it's subject to change without notice, may be incomplete, incorrect or otherwise unreliable and does **not** represent published or peer-reviewed research. It should **not** be cited as published findings.<br><br>
@@ -75,4 +75,4 @@ Accessibility & Archival Implications
 Conclusion
 -->
 
-[^1]: Such as French and Japanese<!-- ^[EXPAND. EXPLAIN WHY THESE ARE DIFFERENT. RELEVANCE TO SENTENCE?] -->
+[^1]: Such as French (accents) and Japanese (mora and kana).<!-- ^[EXPAND. EXPLAIN WHY THESE ARE DIFFERENT. RELEVANCE TO SENTENCE?] -->

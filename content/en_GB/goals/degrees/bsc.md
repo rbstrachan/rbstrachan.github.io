@@ -29,62 +29,104 @@ As I find myself back in the UK, I am preparing to complete my remaining undergr
 > | **<abbr title="Overall Examination Score">OES</abbr>** | -- | -- | -- |
 >
 > <progress id="progress" value="33" max="100" style="width: 99%"> 33.3% </progress>
-
+-->
 ## Modules
 ### Year 1
 #### Mathematics
-- [ ] blah
+- [ ] Essential mathematics 1 (MST124) (30 credits)
+- [ ] Essential mathematics 2 (MST125) (30 credits)
 
 #### Computer Science
+- [ ] Computing fundamentals 1: concepts and Python programming (TM110) (30 credits)
+- [ ] Computing fundamentals 2: programming, databases, software engineering (TM113) (30 credits)
 
 ### Year 2
 #### Mathematics
+- [ ] Mathematical methods, models and modelling (MST210) (60 credits)
 
 #### Computer Science
+- [ ] Object-oriented Java programming (M250) (30 credits)
+- [ ] Algorithms, data structures and computability (M269) (30 credits)
 
 ### Year 3
 #### Mathematics
+- [ ] Complex analysis (M337) (30 credits)
+- [ ] Computational applied mathematics (MST374) (30 credits)
 
 #### Computer Science
+- [ ] Data management and analysis (TM351) (30 credits)
+- [ ] The computing and IT project (TM470) (30 credits)
 
-## TMAs & EMAs
- -->
-<!-- - Computing
+<!-- ## TMAs, iCMAs & EMAs
+### Year 1
+#### Mathematics
+7 TMAs\
+8 iCMAs\
+2 Exams
+
+#### Computer Science
+6 TMAs
+
+### Year 2
+#### Mathematics
+8 TMAs\
+Exam
+
+#### Computer Science
+5 TMAs\
+2 Exams
+
+### Year 3
+#### Mathematics
+8 TMAs\
+1 Exam
+
+#### Computer Science
+5 TMAs\
+7 iCMAs\
+2 Exams -->
+
+<!--
+- Computing
   - Stage 1
-    - Introduction to computing and information technology 1 (TM111)
-    - Introduction to computing and information technology 2 (TM112)
+    - Introduction to computing and information technology 1 (TM111) (30 credits)
+    - Introduction to computing and information technology 2 (TM112) (30 credits)
+
+    - Computing fundamentals 1: concepts and Python programming (TM110) (30 credits)
+    - Computing fundamentals 2: programming, databases, software engineering (TM113) (30 credits)
   - Stage 2 (any of 4 pathways)
-    - Cisco networking (CCNA) part 1 (TM257)
-    - Communication and information technologies (TM255)
+    - Cisco networking (CCNA) part 1 (TM257) (30 credits)
+    - Communication and information technologies (TM255) (30 credits)
     - ***
-    - Object-oriented Java programming (M250)
-    - Algorithms, data structures and computability (M269)
+    - Object-oriented Java programming (M250) (30 credits)
+    - Algorithms, data structures and computability (M269) (30 credits)
     - ***
-    - Managing IT: the why, the what and the how (TM254)
-    - Object-oriented Java programming (M250)
+    - Managing IT: the why, the what and the how (TM254) (30 credits)
+    - Object-oriented Java programming (M250) (30 credits)
     - ***
-    - Web technologies (TM252)
-    - Object-oriented Java programming (M250)
+    - Web technologies (TM252) (30 credits)
+    - Object-oriented Java programming (M250) (30 credits)
   - Stage 3 (1 + project)
-    - Cisco networking (CCNA) part 2 (TM357)
-    - Communications technology (TM355)
-    - Data management and analysis (TM351)
-    - Interaction design and the user experience (TM356)
-    - IT systems: planning for success (TM353)
-    - Software engineering (TM354)
-    - Web, mobile and cloud technologies (TM352)
-    - The computing and IT project (TM470)
+    - Cisco networking (CCNA) part 2 (TM357) (30 credits)
+    - Communications technology (TM355) (30 credits)
+    - Data management and analysis (TM351) (30 credits)
+    - Interaction design and the user experience (TM356) (30 credits)
+    - IT systems: planning for success (TM353) (30 credits)
+    - Software engineering (TM354) (30 credits)
+    - Web, mobile and cloud technologies (TM352) (30 credits)
+    - The computing and IT project (TM470) (30 credits) (required)
 - Mathematics
   - Stage 1
-    - Essential mathematics 1 (MST124) 30
-    - Essential mathematics 2 (MST125) 30
+    - Essential mathematics 1 (MST124) (30 credits)
+    - Essential mathematics 2 (MST125) (30 credits)
   - Stage 2 (1 of 2)
-    - Pure mathematics (M208) 60
-    - Mathematical methods, models and modelling (MST210) 60
-  - Stage 3 (60 credits)
-    - Complex analysis (M337) 30
-    - Computational applied mathematics (MST374) 30
-    - Deterministic and stochastic dynamics (MS327) 30
-    - Further pure mathematics (M303) 60
-    - Graphs, games and designs (MST368) 30
-    - Mathematical methods and fluid mechanics (MST326) 30 -->
+    - Pure mathematics (M208) (60 credits)
+    - Mathematical methods, models and modelling (MST210) (60 credits)
+  - Stage 3 ((60 credits) credits)
+    - Complex analysis (M337) (30 credits)
+    - Computational applied mathematics (MST374) (30 credits)
+    - Deterministic and stochastic dynamics (MS327) (30 credits)
+    - Further pure mathematics (M(30 credits)3) (60 credits)
+    - Graphs, games and designs (MST368) (30 credits)
+    - Mathematical methods and fluid mechanics (MST326) (30 credits)
+-->

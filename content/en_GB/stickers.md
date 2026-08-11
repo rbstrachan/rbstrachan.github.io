@@ -1,4 +1,4 @@
-I enjoy, from time to time, designing stickers inspired by my research, projects and topics that interest me. Below, you can check out the current collection %%(available in both digital and physical formats)%% ~~and discover a few ways to win a pack of your own *for free*~~<sup>COMING SOON!</sup>
+I enjoy, from time to time, designing stickers inspired by my [[research/index|research]], [[projects/index|projects]] and topics that interest me. Below, you can check out the current collection %%(available in both digital and physical formats)%% ~~and discover a few ways to win a pack of your own *for free*~~<sup>COMING SOON!</sup>
 <!-- use a .base file to show all designs for digital downloading? -->
 <!-- stickers for people who pass stoch quiz level 9+? -->
 

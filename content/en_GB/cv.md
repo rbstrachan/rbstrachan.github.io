@@ -19,11 +19,8 @@ I also have an accessible [[static/cv.pdf|PDF version]] available for download.
 
 <span style="display: flex; justify-content: space-between; flex-wrap: wrap; font-family: var(--bodyFont), inherit;"><span>UK・Canada<!--・Japan--></span>  |  ross@reiwa.ca  |  [reiwa.ca](https://reiwa.ca)  |  [github.com/rbstrachan](https://github.com/rbstrachan)</span>
 
-<!-- ## Personal Summary
-A [...]. -->
-<!-- *** -->
 ## Current Status
-I'm currently based in the UK and preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking full- or part-time Library & Information Science roles to gain practical experience, fund my remaining studies and continue developing my skills in open access and digital accessibility.
+I'm currently based in the UK and preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking Library & Information Science-related roles to gain practical experience, fund my remaining studies and continue my professional development.
 
 ***
 ## Work Experience

@@ -12,7 +12,8 @@ tags:
 I hold a Qualifi-accredited Teaching English as a Foreign Language (TEFL) Level 5 diploma, completed between January and June 2026, that certifies me to teach English to learners internationally — both in-person and online.
 
 > [!success]+ Fully certified!
-> **Module Progress:** 54/54 (100.0%)\
+> **Module Progress:** 54/54 (100%)\
+> **Hours Studied:** 168/168 (100%)\
 > **Completed:** June 2026\
 > <progress id="progress" value="100" max="100" style="width: 99%"> 100.0% </progress>
 

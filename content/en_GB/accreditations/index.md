@@ -33,8 +33,9 @@ A summary of these accreditations is provided below. Click on a title to find ou
 *Previous certifications that I have completed. Links are provided to verify certificates.*
 
 ### Pedagogy
+*As part of [[teaching|my philosophy of teaching]], I regularly complete advanced professional development certificates in higher education pedagogy to stay up to date with modern research and continuously improve my teaching skills.*
+<!-- - [[fppes|Practical Training in Higher Education Pedagogy]] ・ OPES at UQTR ・ 2024–2026-->
 - [[tefl|Qualifi TEFL Level 5 Diploma]] (Ofqual Regulated) ・ The TEFL Academy ・ 2026
-<!-- - [[fppes|Practical Training in Higher Education Pedagogy]] ・ OPES at UQTR ・ 2024–2026 -->
 
 ### Mathematics & Computer Science
 - [IBM Cybersecurity Analyst](https://coursera.org/share/62f893485e757fcd49dacc29ca0fecf5) (96/100) ・ IBM (Coursera) ・ 2021
