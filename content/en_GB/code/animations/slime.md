@@ -20,17 +20,17 @@ The agent's movement is governed by a simple steering rule based on the sampled 
 
 If $C_F > C_L$ and $C_F > C_R$, the agent continues straight, so $Δθ=0$. If $C_F < C_L$ and $C_F < C_R$, the agent randomly rotates either left or right by the rotation angle $α$. Otherwise, it rotates toward the side with the higher concentration.
 ### Decay
-The environment itself is a dynamic grid. Every frame, the pheromone map undergoes two processes — deposition and decay — to simulate biological dissipation, with an optional third step, diffusion.
+The environment itself is a dynamic grid. Every frame, the pheromone map undergoes two processes (deposition and decay) to simulate biological dissipation, with an optional third diffusion step.
 
-As an agent moves to a new pixel, it increases that pixel’s intensity
+As an agent moves to a new pixel, it increases that pixel’s intensity through a process called deposition, calculated by
 $$
-C_{new} = C_{old}+ScentStrength
+C_{new} = C_{old}+\text{ScentStrength}
 $$
-through a process called deposition. Then, to prevent the map from saturating, every pixel value is multiplied by a decay factor $γ$ (where $0<γ<1$).
+Then, to prevent the map from saturating, every pixel value is multiplied by a decay factor $γ$ ($0<γ<1$), hence
 $$
 C(t+1)=C(t)γ
 $$
-To create smoother paths, the values are then optionally often diffused by averaging them with their neighbours using a Laplacian-like kernel, simulating the natural spreading of chemicals through a medium.
+To create smoother paths, the values are then optionally diffused by averaging them with their neighbours using a Laplacian-like kernel, simulating the natural spreading of chemicals through a medium.
 
 ## Play with the code!
 See the code, change the parameters and try creating your very own Physarum network in the [p5.js web editor](https://editor.p5js.org/reiwa/sketches/44ueVo8Ev).

@@ -5,7 +5,7 @@ aliases:
 draft: ""
 ---
 > [!info] Coming soon!
-> This animation is available to check out now at the [p5.js web editor](https://editor.p5js.org/reiwa/sketches/sdq_ArUwT). A technical explanation of the workings behind the animation are being written as we speak. Check back soon!
+> This animation is available to check out now in the [p5.js web editor](https://editor.p5js.org/reiwa/sketches/sdq_ArUwT). A technical explanation of the workings behind the animation are being written as we speak. Check back soon!
 ## Try it out for yourself
 <iframe src="https://editor.p5js.org/reiwa/full/sdq_ArUwT" style="width: 100%; height: 500px;"></iframe>
 

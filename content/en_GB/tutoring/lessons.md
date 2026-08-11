@@ -3,11 +3,12 @@ title: English and French language lessons
 aliases:
   - English and French language lessons
 ---
-As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I have a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**<!-- and a certificate in [[fppes|Practical Training in Higher Education Pedagogy]]-->. I speak both **English** and **French** fluently.
+As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I hold a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**<!-- and a [[fppes|Practical Training in Higher Education Pedagogy]] certificate from [OPES]()-->. I speak both **English** and **French** fluently.
 
 <!-- PROMOTIONAL COPY
 These lessons are designed to motivate, inspire and support you through your language learning journey; lower cognitive debt by fixing bad habits and preventing mistakes as they happen, and; etc.^[?].
-Reduce your learning timeline, get rid of fossilised errors, get motivated and get access to personal and professional opportunities that require competency in English or French. (longer it takes to learn, the more opportunities are missed)
+Reduce your learning timeline, get rid of fossilised errors and get access to personal and professional opportunities that require competency in English or French.
+(longer it takes to learn, the more opportunities are missed)
 Personalised, guided learning for students that want to see genuine, applicable progress quickly.
 
 Targeted lessons designed to build confidence in real-world scenarios. Focusing on everyday communication, travel preparation and the nuances of daily life, these lessons bridge the gap between textbook language and the way people actually speak.
@@ -59,7 +60,7 @@ For natural day-to-day conversation, social interaction and practical language s
 > | **Trial Lesson**  | Free<span style="opacity: 0%">/hr (£252)</span>　-> | Free |
 > | **Single Lesson** | ~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 -> | **£18** |
 > | **12-Hour Block** | ~~£21/hr (£252)~~　 -> | **£15.75/hr (£189)** |
-> | **36-Hour Block** | ~~£19/hr (£684)~~　 -> | **£14/hr (£504)** |
+> | **36-Hour Block** | ~~£19/hr (£684)~~　 -> | **£14.25/hr (£513)** |
 > &nbsp;
 <!-- > *<span style="opacity:50%">The prices in the table below are my standard prices and will take effect after the early bird offer has concluded.</span>* -->
 
