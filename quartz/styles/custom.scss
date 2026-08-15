@@ -8,6 +8,7 @@
 @use 'custom/lighthouse';
 @use 'custom/prideMode';
 @use 'custom/acronyms';
+@use 'custom/bookingButtonCal';
 
 :root {
   --pixel-purple: #9d4edd;
@@ -284,7 +285,7 @@ button {
 //   }
 // }
 
-// profilep picture
+// profile picture
 .sidebar-profile-img {
   width: 100px;
   height: 100px;
