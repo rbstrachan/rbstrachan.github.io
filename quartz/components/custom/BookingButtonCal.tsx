@@ -44,33 +44,107 @@ export default (() => {
     })(window, "https://app.cal.com/embed/embed.js", "init");
 
     Cal("init", "trial", { origin: "https://cal.com" });
+    Cal("init", "standard", { origin: "https://cal.com" });
+    Cal("init", "audit", { origin: "https://cal.com" });
+
+    if (!document.getElementById('tally-js')) {
+      const tallyScript = document.createElement('script');
+      tallyScript.id = 'tally-js';
+      tallyScript.src = 'https://tally.so/widgets/embed.js';
+      tallyScript.async = true;
+      document.head.appendChild(tallyScript);
+    }
   `
+
   BookingButton.afterDOMLoaded = `
-    const setupCalButton = () => {
-      const target = document.getElementById("calendar-target");
-      if (!target) return;
+    const setupCalAndTallyButtons = () => {
+      const trialTarget = document.getElementById("book-trial-button");
+      if (trialTarget) {
+        trialTarget.innerHTML = "";
+        const trialBtn = document.createElement("button");
+        trialBtn.setAttribute("data-cal-namespace", "trial");
+        trialBtn.setAttribute("data-cal-link", "reiwa/trial");
+        trialBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
+        trialBtn.className = "cal-embed-button";
+        trialBtn.innerText = "Book a Free Trial Lesson    →";
+        trialTarget.appendChild(trialBtn);
 
-      target.innerHTML = "";
+        if (window.Cal && window.Cal.ns && window.Cal.ns["trial"]) {
+          window.Cal.ns["trial"]("ui", {
+            styles: { branding: { brandColor: "#0b8043" } },
+            hideEventTypeDetails: false,
+            layout: "month_view"
+          });
+        }
+      }
 
-      const button = document.createElement("button");
-      button.setAttribute("data-cal-namespace", "trial");
-      button.setAttribute("data-cal-link", "reiwa/trial");
-      button.setAttribute("data-cal-config", '{"layout":"month_view"}');
-      button.className = "cal-embed-button";
-      button.innerText = "Book a Free Trial Lesson   →";
+      const standardTarget = document.getElementById("book-standard-lesson-button");
+      if (standardTarget) {
+        standardTarget.innerHTML = "";
+        const standardBtn = document.createElement("button");
+        standardBtn.setAttribute("data-cal-namespace", "standard");
+        standardBtn.setAttribute("data-cal-link", "reiwa/standard");
+        standardBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
+        standardBtn.className = "cal-embed-button";
+        standardBtn.innerText = "Book a Single Standard Lesson    →";
+        standardTarget.appendChild(standardBtn);
 
-      target.appendChild(button);
+        if (window.Cal && window.Cal.ns && window.Cal.ns["standard"]) {
+          window.Cal.ns["standard"]("ui", {
+            styles: { branding: { brandColor: "#0b8043" } },
+            hideEventTypeDetails: false,
+            layout: "month_view"
+          });
+        }
+      }
 
-      if (window.Cal && window.Cal.ns && window.Cal.ns["trial"]) {
-        window.Cal.ns["trial"]("ui", {
-          styles: { branding: { brandColor: "#0b8043" } },
-          hideEventTypeDetails: false,
-          layout: "month_view"
+      const auditTargets = document.querySelectorAll(".book-audit-button");
+      if (auditTargets.length > 0) {
+        auditTargets.forEach((target) => {
+          target.innerHTML = "";
+          const auditBtn = document.createElement("button");
+          auditBtn.setAttribute("data-cal-namespace", "audit");
+          auditBtn.setAttribute("data-cal-link", "reiwa/audit");
+          auditBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
+          auditBtn.className = "cal-embed-button";
+          auditBtn.innerText = "Book a Language Learning Progress Audit    →";
+          target.appendChild(auditBtn);
         });
+
+        if (window.Cal && window.Cal.ns && window.Cal.ns["audit"]) {
+          window.Cal.ns["audit"]("ui", {
+            styles: { branding: { brandColor: "#0b8043" } },
+            hideEventTypeDetails: false,
+            layout: "month_view"
+          });
+        }
+      }
+
+      if (window.Tally) {
+        window.Tally.loadEmbeds();
       }
     };
 
-    document.addEventListener("nav", setupCalButton);
+    // Run button setup on fresh page load
+    setupCalAndTallyButtons();
+
+    // Catch SPA transitions strictly ONCE, and ONLY for notes inside /tutoring/
+    document.addEventListener("nav", () => {
+      // Standardize path without trailing slashes
+      const path = window.location.pathname.replace(/\\/$/, "");
+
+      // True only for sub-paths like /tutoring/lessons, false for /tutoring
+      const isSubNoteInTutoring = path.startsWith("/tutoring/") && path !== "/tutoring";
+
+      if (isSubNoteInTutoring) {
+        if (!sessionStorage.getItem("spa_reloaded")) {
+          sessionStorage.setItem("spa_reloaded", "true");
+          window.location.reload();
+        } else {
+          sessionStorage.removeItem("spa_reloaded");
+        }
+      }
+    });
   `
 
   return BookingButton

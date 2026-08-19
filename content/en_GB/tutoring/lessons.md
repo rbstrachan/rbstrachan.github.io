@@ -14,20 +14,58 @@ Targeted lessons designed to build confidence in real-world scenarios. Focusing 
 
 With a library of **over 1,400 lessons** across both languages, I have spaces available for 1-on-1 and group lessons at **all levels <nobr><span class="small-caps">(A0–C2)</span></nobr>**[^A0] in both English and French.
 <!-- Limited spaces are also available for Business English and Business French classes. -->
+<!--
+ADD SECTION DETAILING SERVICES I CAN OFFER SUCH AS:
+- custom teaching and learning materials, notes, exercices by a professionally trained language teacher
+- marking and videos (or lessons) reviewing such materials and exercices
+- ??
 
+## What I Offer
+Every learner has different needs, which is why I tailor my services to suit your specific learning style and schedule. Alongside structured 1-on-1 and group lessons, I provide:
+
+**Custom Teaching & Learning Materials**  
+You will receive bespoke lesson notes, targeted exercises and custom-made learning resources designed specifically around your goals and areas for growth.
+
+**Detailed Assignment Marking & Feedback**  
+Submit written work or recorded speaking exercises between sessions to receive thorough marking and personalized review lessons or video breakdowns to address your specific errors.
+
+**Targeted Language Mastery**  
+Whether you need to master practical vocabulary, push past the intermediate plateau into advanced fluency, or refine your natural conversational rhythm and slang, our sessions are designed to deliver immediate, applicable progress.
+
+**Flexible Asynchronous Support**  
+For busy professionals, I offer flexible feedback loops between scheduled sessions to keep your momentum going without requiring additional live contact hours.
+***
+To help you see genuine progress quickly, I offer a comprehensive suite of teaching services tailored to your exact needs:
+
+* **Tailored Learning Resources:** Receive bespoke lesson materials, custom exercises and structured notes created specifically for your level and learning objectives.
+* **Comprehensive Written & Oral Feedback:** Gain deeper insights through detailed marking of your exercises, paired with review lessons or personal video walkthroughs analysing your progress.
+* **Real-Time & Asynchronous Coaching:** Combine live interactive sessions focused on real-time error correction and natural conversation with flexible, asynchronous support to fit your schedule.
+* **Intermediate Plateau Breakthroughs:** Use targeted strategies designed to eliminate fossilized errors and move you smoothly from B1/B2 into native-like fluency.
+### Asynchronous Support
+- Voice-Note / Mini Coaching via WhatsApp/Telegram: Allow students to send 1–2 short audio messages a week for quick pronunciation, accent, or grammar checks.
+- Asynchronous Writing Feedback: A dedicated review service where students submit short texts (emails, essays, cover letters up to 300 words) for proofreading, marking, and native-level rephrasing before or between sessions.
+- On-Demand Micro-Lessons: Personalized video breakdowns (3–5 minutes recorded via Loom) answering a specific question they had during homework.
+- Digital Flashcard Decks (Anki/Quizlet): After every lesson, compile their newly learned vocabulary, idioms, and corrected mistakes into a custom spaced-repetition flashcard deck for spaced review.
+- Personalized Lesson Hub: Provide a shared Notion page, Google Drive, or Obsidian vault containing all lesson notes, custom exercises, recommended media (podcasts, videos tailored to their interests), and a running progress log.
+
+* **Custom Flashcards & Digital Hub:** Every lesson yields personalized vocabulary decks and central digital notes so you can review seamlessly on the go.
+* **Between-Lesson Feedback:** Submit short written tasks or audio messages for async review and targeted corrections between our scheduled classes.
+* **Real-World Cultural Insights:** Tap into first-hand experience of living and working across the UK, Canada and Japan to prepare for real-world relocation, travel or international business scenarios.
+
+## What I Can Help You Achieve -->
 I can help you:
 - **learn targeted vocabulary and grammar** to build natural and functional vocabularies, both active and passive
 - **overcome the intermediate plateau** with targeted strategies to move beyond B1/B2 into advanced, native-like fluency
 - **correct mistakes in real time** to help you immediately identify, fix and prevent problematic habits from forming
 - **hold a natural conversation** by mastering the nuance, slang and rhythm used by native speakers...
 
-...and much more.%%including your own goals%%
+...and much more.
 
 > [!success] Ready to get started?
 > **Book a free 45-minute trial lesson.**\
 > We'll use this time to get to know each other, discuss your current competency level and draw up a concrete plan to attain your future language goals. I look forward to chatting with you. In the meantime, feel free to [get in touch](mailto:tutoring@reiwa.ca) if you have any questions.
 >
-> <div style='padding-bottom: 15px;'><div id='calendar-target'></div></div>
+> <div style='padding-bottom: 18px;'><div id='book-trial-button'></div></div>
 
 <!--
 > [!question]- Prefer to fly solo?
@@ -43,7 +81,7 @@ I am committed to helping you achieve natural and lasting fluency. Following you
 
 The prices listed below are for a typical one-hour lesson. Individual sessions can be adapted from 30 to 90 minutes to accommodate your specific needs.
 
-A discount of **5% per student** (up to 6 students) applies to any lesson where more than one student is present.
+A discount of **5% per student** (up to 6 students) applies to any lesson where multiple students book together[^group].
 
 > [!info]- Choose the right path for your goals
 > - **Single lessons** are best suited for students with **irregular or unpredictable schedules** and may be booked **up to 24 hours in advance**.
@@ -53,23 +91,26 @@ A discount of **5% per student** (up to 6 students) applies to any lesson where 
 For natural day-to-day conversation, social interaction and practical language skills for travel and daily life through comprehensive practice of speaking, listening and grammar fundamentals.\
 *Business lessons are coming soon! Please [get in touch](mailto:tutoring@reiwa.ca) if you'd like to discuss taking a business class.*
 <span style="margin-bottom:-10px"></span>
-> [!tip]+ Early bird offer for the next 10 students!
-> To mark the launch of my French language tutoring, I'm offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book a **free trial lesson** today!
+> [!tip] Early bird offer for the next 10 students!
+> To mark the launch of my language tutoring, I'm offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book **your first lesson** today!
 > |  | Standard<span style="opacity: 0%">000000.0</span> | Early Bird |
 > | :--- | ---: | :--- |
 > | **Trial Lesson**  | <span style="color: grey">Free<span style="opacity: 0%">/hr (£252)</span>　-></span> | Free |
 > | **Single Lesson** | <span style="color: grey">~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 →</span> | **£18** |
 > | **12-Hour Block** | <span style="color: grey">~~£21/hr (£252)~~　 →</span> | **£15.75/hr (£189)** |
+> | **24-Hour Block** | <span style="color: grey">~~£20/hr (£480)~~　 →</span> | **£15.00/hr (£360)** |
 > | **36-Hour Block** | <span style="color: grey">~~£19/hr (£684)~~　 →</span> | **£14.25/hr (£513)** |
-> &nbsp;
-<!-- > *<span style="opacity:50%">The prices in the table below are my standard prices and will take effect after the early bird offer has concluded.</span>*
+> &zwj;
+> <div style='display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding-bottom: 18px;'><div id="book-standard-lesson-button"></div><span> or </span><button class="cal-embed-button" type="button" data-tally-open="zx8Kb8" data-tally-layout="modal" data-tally-width="1000">Inquire about a Block of Standard Lessons    →</button></div>
 
+<!--
 | Lessons (Duration) | | Price Per Hour (Total)[^prices] |
 | :--- | ---: | :--- |
 | **Trial** (45 mins) | | Free |
 | **Single Lesson**<br>(1 hour) | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$32 ・ C\$44<br>£24 ・ €27<br>¥5,000 ・ ₩47,000 |
 | **Block of 12 Hours**<br><nobr>(1–3 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$29 (\$348) ・ C\$39 (\$468)<br>£21 (£252) ・ €24 (€288)<br>¥4,500 (¥54,000) ・ ₩42,000 (₩504,000) |
-| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) | -->
+| **Block of 36 Hours**<br><nobr>(3–9 months)</nobr> | <nobr>**North America**</nobr><br>**Europe**<br>**Asia** | \$25 (\$900) ・ C\$35 (\$1,260)<br>£19 (£684) ・ €22 (€792)<br>¥4,000 (¥144,000) ・ ₩37,000 (₩1,332,000) |
+-->
 
 <!--### Business
 Advanced professional communication such as corporate etiquette, interview preparation and industry-specific terminology.
@@ -134,5 +175,6 @@ Payment can be made in any currency.\
 [^A0]: While the official [CEFR scale](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) begins at <span class="small-caps">A1</span>, I use <span class="small-caps">A0</span> to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
 [^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **October 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
-[^block]: A maximum reduction of 40% in the hourly rate is achievable (£24/h -> £14/h) when a 36 hour block is purchased during the Early Bird discount.  
+[^block]: A maximum reduction of over 40% in the hourly rate is achievable (£24/h -> £14.25/h) when a 36 hour block is purchased during the Early Bird discount.  
 [^copyright]: Licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may share and adapt content, so long as it is for personal, non-commercial use only. Distributions must link to, and credit, original. Adaptations must use same licence.
+[^group]: The price for a group lesson is decided at the time of booking and is independent of how many students actually attend. No partial refunds will be given for individual absences. For more information, please see [[tos#group-lessons|Terms of Service § Group Lessons]].
