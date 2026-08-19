@@ -6,8 +6,8 @@ Thank you for visiting! Please feel free to leave a note, I'd love to hear from 
 > [!quote] A foreword...
 > I prefer organic entries over automated ones — no bots allowed. Feel free to leave feedback on my [[projects/index|projects]], suggest a book for my [[media|reading list]] or just say « *bonjour* ». If your message is helpful, kind or interesting, I may archive it here permanently.
 
-> [!warning] Oops!
-> Can't see the form? Try changing the site's theme to dark mode. I'm working on fixing this, sorry for the inconvenience!
+> [!warning]- Can't see the form?
+> Oops! Try changing the site's theme to dark mode by clicking the sun icon in the top of the left sidebar. I'm working on fixing this, sorry for the inconvenience!
 
 ## Sign the log!
 <style>

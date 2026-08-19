@@ -1,5 +1,4 @@
 ---
-draft:
 title: CV
 aliases:
   - CV
@@ -12,20 +11,24 @@ cssclasses: no-dropcap-no-smallcaps
 Below you can find everything you need to know about my education history, work experience, projects, interests and seminars I've delivered. %% research and publications. %% \
 I also have an accessible [[static/cv.pdf|PDF version]] available for download.
 
-<span style="display: inline-block; width: 1em; height: 1em; background-color: #22c55e; border-radius: 50%; margin-right: 0.4em; vertical-align: sub;" aria-hidden="true"></span>*I'm available for both remote (freelance) and hired work — please don’t hesitate to [[contact|contact me]] to discuss an available role or project for collaboration.*
+<span style="display: inline-block; width: 1em; height: 1em; background-color: #22c55e; border-radius: 50%; margin-right: 0.4em; vertical-align: sub;" aria-hidden="true"></span>*I'm available for both remote (freelance) and hired work — please don’t hesitate to [[contact|contact me]] to discuss an available role or project.*
 
-<!-- ## Ross Strachan -->
+<!-- <span style="display: inline-block; width: 1em; height: 1em; background-color: #C42189; border-radius: 50%; margin-right: 0.4em; vertical-align: sub;" aria-hidden="true"></span>*I'm currently employed full-time and am not looking for further opportunities at this time.* -->
+
 <p style="font-family: var(--headerFont); font-size: 1.75em; font-weight: 600; color: var(--dark); margin-top: 1.5em; margin-bottom: 0.5em; letter-spacing: -0.02em; text-align: center;">Ross Strachan</p>
 
 <span style="display: flex; justify-content: space-between; flex-wrap: wrap; font-family: var(--bodyFont), inherit;"><span>UK・Canada<!--・Japan--></span>  |  ross@reiwa.ca  |  [reiwa.ca](https://reiwa.ca)  |  [github.com/rbstrachan](https://github.com/rbstrachan)</span>
 
 ## Current Status
-I'm currently based in the UK and preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking Library & Information Science-related roles to gain practical experience, fund my remaining studies and continue my professional development.
+I'm currently working in the UK while preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking Library & Information Science-related roles to gain practical experience, fund my remaining and future studies and continue my professional development.
 
 ***
 ## Work Experience
+<!-- **Marking and Class Support Assistant** <span style="float: right;">August 2026 — Present</span>\
+Alan Marshall Tutoring -->
+
 **International Travel** <span style="float: right;">April 2025 — June 2026</span>\
-PERSONAL TIME OFF *<span style="float: right;">Canada, Japan & South Korea</span>*
+PERSONAL TIME OFF *<span style="float: right;">Japan & South Korea</span>*
 - Took some time off to travel, focus on language learning and my own personal interests prior to returning to the UK to finish my degree and resume full-time employment.\
 Please see my work experience below.
 
