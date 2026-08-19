@@ -6,15 +6,15 @@ export default (() => {
   }
 
   BookingButton.beforeDOMLoaded = `
-    (function (C, A, L) {
-      if (!document.getElementById('google-fonts-link')) {
-        const fontLink = document.createElement('link');
-        fontLink.id = 'google-fonts-link';
-        fontLink.href = 'https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap';
-        fontLink.rel = 'stylesheet';
-        document.head.appendChild(fontLink);
-      }
+    if (!document.getElementById('google-fonts-link')) {
+      const fontLink = document.createElement('link');
+      fontLink.id = 'google-fonts-link';
+      fontLink.href = 'https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap';
+      fontLink.rel = 'stylesheet';
+      document.head.appendChild(fontLink);
+    }
 
+    (function (C, A, L) {
       let p = function (a, ar) { a.q.push(ar); };
       let d = C.document;
       C.Cal = C.Cal || function () {
@@ -125,26 +125,19 @@ export default (() => {
       }
     };
 
-    // Run button setup on fresh page load
     setupCalAndTallyButtons();
 
-    // Catch SPA transitions strictly ONCE, and ONLY for notes inside /tutoring/
-    document.addEventListener("nav", () => {
-      // Standardize path without trailing slashes
-      const path = window.location.pathname.replace(/\\/$/, "");
+    document.addEventListener("click", (e) => {
+      const anchor = e.target.closest("a");
+      if (!anchor) return;
 
-      // True only for sub-paths like /tutoring/lessons, false for /tutoring
-      const isSubNoteInTutoring = path.startsWith("/tutoring/") && path !== "/tutoring";
-
-      if (isSubNoteInTutoring) {
-        if (!sessionStorage.getItem("spa_reloaded")) {
-          sessionStorage.setItem("spa_reloaded", "true");
-          window.location.reload();
-        } else {
-          sessionStorage.removeItem("spa_reloaded");
-        }
+      const href = anchor.getAttribute("href");
+      if (href && href.includes("/tutoring/")) {
+        e.preventDefault();
+        e.stopPropagation();
+        window.location.href = anchor.href;
       }
-    });
+    }, true);
   `
 
   return BookingButton
