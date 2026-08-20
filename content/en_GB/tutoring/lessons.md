@@ -153,7 +153,7 @@ Payment can be made in any currency.\
 
 | Payment&nbsp;method | |
 | ---: | --- |
-| **Direct Transfer**<br>(Recommended)<br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Get an additional one-hour lesson for free per block of 12 hours paid via direct transfer.**<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
+| **Direct Transfer**<br>(Recommended)<br><br><br><br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Pay by direct transfer and receive exclusive perks!**<br>→  Lock in the Early Bird rate for six months after discounted pricing ends<br>→  Earn up to £27 credit applied towards your next block purchase<br>→  Priority rescheduling at any time without penalty<br>→  Extended block expiry date of 12 months from date of purchase<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
 | **Stripe**<br>&zwj; | For secure payments from a **bank account**, **bank card**<!--[^card]--> or **digital wallet**<!--[^wallet] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
 | <nobr>**Buy Now Pay Later**</nobr><br>&zwj; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**. **BN&zwj;PL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
 <!-- | **Konbini**<br>&nbsp; | In Japan? Pay with ease at a local **7-11**, **Family Mart** or **Lawson** konbini.<br>LOGOS HERE | -->
@@ -173,7 +173,7 @@ Payment can be made in any currency.\
 [^wallet]: Includes Alipay, Amazon Pay, Apple Pay, Cash App Pay, Google Pay, GrabPay, Kakao Pay, Link, Naver Pay, PayCo, PayPal, PayPay, Revolut Pay, Samsung Pay, satispay, WeChat Pay. -->
 
 [^A0]: While the official [CEFR scale](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) begins at <span class="small-caps">A1</span>, I use <span class="small-caps">A0</span> to denote 'absolute beginners' — students with zero prior instruction or exposure to the language.
-[^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **October 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 6 months of study**.
+[^early]: Early bird offer will be automatically applied at checkout or on invoice. This offer is limited to the **first 10 students** and expires on **October 31st, 2026** if spots remain. Once claimed, this rate will apply to all bookings made within that student's **first 3 months of study**.
 [^prices]: Prices are based in **GBP (£)**. All **other currencies displayed are for informational purposes only** and may differ slightly at checkout due to actual currency exchange rates at the time of purchase. All prices shown are rounded to the nearest quarter.
 [^block]: A maximum reduction of over 40% in the hourly rate is achievable (£24/h -> £14.25/h) when a 36 hour block is purchased during the Early Bird discount.  
 [^copyright]: Licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may share and adapt content, so long as it is for personal, non-commercial use only. Distributions must link to, and credit, original. Adaptations must use same licence.
