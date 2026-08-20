@@ -5,7 +5,7 @@ aliases:
 cssclasses: no-dropcap-no-smallcaps
 ---
 
-**Effective Date: April 16, 2026**
+**Effective Date: August 20th, 2026**
 
 **Ross Strachan**, a British national operating online ([reiwa.ca](https://reiwa.ca)), is committed to protecting your personal data. This Policy explains our data handling practices in compliance with the UK/EU GDPR, Japan’s Act on the Protection of Personal Information (APPI) and Canadian privacy laws.
 
@@ -26,7 +26,7 @@ As a sole trader, I am the Data Controller for your information. For privacy inq
 ## Session Recordings
 For the safety, security and educational benefit of both parties, all lessons are recorded. Recordings may be used for purposes including (but not limited to) security, quality assurance and dispute resolution. They will also be made available to the Student for personal study. Lesson recordings are stored for **90 days** from the date of the session, after which they are permanently deleted.
 > [!error] Mandatory Recording for Safeguarding
-> **Recording is a non-negotiable condition of service. By booking a lesson, you provide explicit consent for the recording of the session. You may withdraw consent to be recorded at any time via verbal or written notice, however doing so will result in the immediate termination of services as safety and insurance obligations cannot be fulfilled without a record of the session.**
+> **Recording is a non-negotiable condition of service. By booking a lesson, you acknowledge that all sessions will be recorded for safety, insurance and quality assurance purposes under our legitimate interests. You may object to being recorded at any time via verbal or written notice, however doing so will result in the immediate termination of services as safety and insurance obligations cannot be fulfilled without a record of the session.**
 >
 > For more information, please see the [[tos|terms of service]].
 
