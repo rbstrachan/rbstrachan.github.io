@@ -5,7 +5,7 @@ aliases:
 cssclasses: no-dropcap-no-smallcaps
 ---
 
-**Effective Date: April 16, 2026**
+**Effective Date: August 20th, 2026**
 
 As a provider of private language tutoring, I am committed to creating a learning environment that is safe, respectful and effective. This Code of Conduct outlines the standards of behaviour expected from both the Student and the Tutor.
 
@@ -25,6 +25,11 @@ Language learning is a vulnerable process that requires trust. By engaging, both
 
 ## Zero Tolerance for Misconduct
 To protect the safety and well-being of the learning environment, there is a zero-tolerance policy for the following behaviours.
+
+> [!info] Medical Accommodations
+> In accordance with the Equality Act 2010, I am committed to making reasonable adjustments for students with physical, neurological or mental health conditions. If a student requires accommodations or if a medical symptom may manifest during lessons, the student is encouraged to notify the Tutor prior to session commencement or as soon as is reasonably practicable.
+>
+> Involuntary symptoms resulting from a documented medical condition will not be treated as intentional violations of this Code of Conduct. All medical disclosures are treated as Special Category Data under UK GDPR to be handled with strict confidentiality and will be deleted immediately after they are verified.
 
 | Violation | Description |
 | :--- | :--- |
