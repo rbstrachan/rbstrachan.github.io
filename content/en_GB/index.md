@@ -12,7 +12,7 @@ standards and accessibility, your research could involve:
 -->
 Hello! I'm *Ross*, an <!--[[information architecture|-->**information architect**<!--] -->-in-training <nobr>from <abbr title="Scotland" id="mpe">🏴󠁧󠁢󠁳󠁣󠁴󠁿</abbr>󠁣󠁴󠁿</nobr> who enjoys mathematics, coding, automating things and exploring the many <!--[[-->**interfaces between humans and machines**<!--]]-->. I'm a strong advocate for [[my philosophy of learning|free, open and accessible education]] for everyone.
 
-My background is in [[bsc|Mathematics & Computer Science]]. I'd like to pursue a Master's in [[mlis|Library & Information Sciences]] at l'Université de Montréal or the University of Sheffield to research [[braille-implementations|the evolution and standardisation of Braille implementations across international writing systems]].
+I'm currently working as a Mathematics Exam Marker and Class Support Assistant. My background is in [[bsc|Mathematics & Computer Science]]. I'd like to pursue a Master's in [[mlis|Library & Information Sciences]] at l'Université de Montréal or the University of Sheffield to research [[braille-implementations|the evolution and standardisation of Braille implementations across international writing systems]].
 <!-- I am currently pursuing a Master’s in [[Library & Information Sciences]] at l’[[Université de Montréal]], where I research the [[cross-linguistic evolution and standardisation of Braille]]. -->
 <!-- This sentence is too heavy for the front page, move it elsewhere:
 My goal is to eventually work in a role where I can actively develop and improve library services, including braille and accessible materials, to ensure everyone has equal access to information. -->

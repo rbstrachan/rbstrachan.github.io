@@ -70,10 +70,10 @@ Language acquisition isn't a one-and-done thing. To ensure your strategy remains
 > A roadmap tells you **where** to go, but tutoring is about **how** you get there. If you find that you prefer real-time feedback, structured conversation practice and the accountability of a weekly partner, my recurring lessons might be a better fit. Students who have booked an audit can get up to three free hours of lessons[^free].
 >
 > [[lessons|Find out how professional language tutoring can help you reach fluency →]] -->
-A roadmap tells you **where** to go, but tutoring is about **how** you get there. If you find that you prefer real-time feedback, structured conversation practice and the accountability of a weekly partner, my recurring lessons might be a better fit. Students who have booked an audit can get up to three free hours of lessons[^free].
+A roadmap tells you **where** to go, but tutoring is about **how** you get there. If you find that you prefer real-time feedback, structured conversation practice and the accountability of a weekly partner, my recurring lessons might be a better fit. Get a free one-hour lesson when you book a block of 12 or more![^free].
 
 Need a co-pilot for the journey? [[lessons|Find out how professional language tutoring can help you reach fluency →]]
 
 [^discount]: Available for audits booked and fully paid for on or before 31st December 2026.
-[^free]: Get an additional hour of tutoring (free of charge) for every block of 12 or more lessons booked after completing an initial audit.
+[^free]: Get an additional hour of tutoring (free of charge) when you purchase a block of 12 or more lessons after completing an initial audit.
 [^limited]: Writing these reports takes time and effort, therefore, I must restrict the number of slots available. Currently, slots are available to be booked up to two weeks in advance and more slots are added each day. Only one audit can take place per day, so once a day has been booked it is no longer available. If you can't find a suitable slot, please [let me know](mailto:tutoring@reiwa.ca).
