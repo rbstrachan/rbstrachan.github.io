@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "・reiwa.ca",
     enableSPA: true,
     enablePopovers: false,
-    analytics: {},
+    analytics: null,
     locale: lang === 'ja' ? "ja-JP" : lang === 'fr' ? "fr-FR" : "en-GB",
     baseUrl: lang === 'en' ? base : `${base}/${lang}`,
     ignorePatterns: ["private", "templates", ".obsidian"],
