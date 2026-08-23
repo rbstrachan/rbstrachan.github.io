@@ -4,7 +4,7 @@ aliases:
   - terms of service
 cssclasses: no-dropcap-no-smallcaps
 ---
-**Effective Date: August 20th, 2026**
+**Effective Date: August 23rd, 2026**
 
 These Terms of Service ("Terms") constitute a formal agreement between you (the "Student") and Ross Strachan (the "Tutor") regarding the booking and delivery of language tutoring services. By booking a trial, single lesson or lesson block you acknowledge that you have read, understood and agreed to be bound by these Terms.
 
@@ -16,7 +16,7 @@ For inquiries regarding this, or other [[legal|legal agreements]] found on this 
 
 ## Lesson Delivery & Requirements
 ### Platform
-All lessons are conducted remotely via video conferencing (Zoom or Google Meet).
+All lessons are conducted remotely via video conferencing.
 ### Technical Responsibility
 The Student is responsible for ensuring they have a stable internet connection and a working microphone and camera. The Tutor reserves the right to charge the Student for lessons interrupted by Student-side technical issues.
 ### Security & Recording
@@ -33,10 +33,10 @@ We process recordings under the lawful basis of legitimate interests and complia
 | --- | --- |
 | **Trial Lesson**<br>&nbsp; | A one-time, 45-minute introductory session offered free of charge to new students. |
 | **Single&nbsp;Lesson** | One-off sessions booked and paid for directly via the online booking system. |
-| **Lesson Block**<br>&nbsp; | Discounted packages (e.g., 12 or 36 hours) paid in advance via invoice.<br>Scheduling for blocks is handled manually between the Tutor and Student. |
+| **Lesson Block**<br><br><br><br>&nbsp; | Discounted packages (i.e., 12, 24 or 36 hours) paid in advance via invoice. **Block discount rates are strictly contingent upon completing all lessons in the block; if a voluntary refund is requested mid-block, completed lessons will be recalculated at the standard Single Lesson rate.** Scheduling for blocks is handled manually between the Tutor and Student. |
 
 ## Cancellations & Rescheduling
-No reason is required for a cancellation, provided the following notice periods are respected. The Tutor reserves the right to deviate from this policy at their discretion if, and only if, it is in the student's favour.
+No reason is required for a cancellation, provided the following notice periods are respected. The Tutor reserves the right to deviate from this policy at their discretion if, and only if, it is in the student's favour. The penalties listed below may be waived if the Student provides an exigent reason accepted by the Tutor, such as unforeseen emergencies or extenuating circumstances.
 
 ### Trial Lessons
 May be cancelled or rescheduled at any time without penalty.
@@ -57,21 +57,24 @@ Prices are based in **GBP (£)**. All **other currencies displayed are for infor
 ### Refunds
 Refunds will be issued to the original payment method wherever possible within 3 business days.
 #### Statutory
-You have the right to cancel your purchase within 14 days of payment for a full and complete refund. You do not need to provide a reason. If you schedule and attend one or more lessons within this 14-day period, you expressly request the immediate performance of the contract and waive your right to a refund for any lessons already delivered.
+You have the right to cancel your purchase within 14 days of payment for a full and complete refund. You do not need to provide a reason.
+
+If you expressly request lessons to begin within this 14-day period and subsequently request a statutory refund, you remain entitled to a refund for any undelivered lessons. However, a proportionate deduction will be made for any lessons already delivered prior to cancellation. For block purchases, this deduction is calculated strictly pro-rata at the agreed discounted block rate per lesson.
 #### Voluntary
 A refund is considered voluntary if:
-- you have elected to discontinue tutoring services, either directly via written notice or through withdrawal from this agreement, the code of conduct or the privacy policy; and
-- the 14-day statutory cooling-off period has elapsed, been waived or otherwise does not apply.
+- the 14-day statutory cooling-off period has elapsed, been waived or otherwise does not apply%%; and,%%
+- you have elected to discontinue tutoring services, either directly via written notice or through withdrawal from this agreement, the code of conduct or the privacy policy.
 
-Voluntary refunds will be issued in full on a pro-rata basis for lessons not yet delivered, minus the following amounts, should they exist:
-- the price of any lessons scheduled to take place less than 24 hours from the refund request
+Voluntary refunds will be issued in full, minus the following amounts:
+- the total price of lessons already delivered calculated at the full, single lesson rate
+- the price of any lessons scheduled to take place less than 24 hours from the refund request at the full, single lesson rate
 - any non-recoverable payment processing fees[^fees], and
-- any other reasonable, genuine and unmitigable losses incurred by the Tutor or reiwa.ca
+- any other reasonable, genuine and unmitigable losses incurred by the Tutor or reiwa.ca, such as excessive administrative costs caused by complex service terminations
 
 You will be notified in writing if any amount has been withheld from your refund, along with an explanation of the amounts withheld and why.
 
 ### Block Expiry
-To encourage consistent progress, unused block hours expire **6 months** from the date of purchase%%or the date of the last completed lesson, whichever is later%%. Extensions must be requested and are not guaranteed. Reminders will be sent before expiry.
+To encourage consistent progress, unused block hours expire **12 months** from the date of purchase%%or the date of the last completed lesson, whichever is later%%. Extensions must be requested and are not guaranteed. Reminders will be sent before expiry.
 
 ## Conduct & Termination
 ### Mutual Respect
@@ -85,8 +88,7 @@ The Tutor will review the response in good faith before deciding whether to resu
 ### Termination of Service
 In the event of a severe Code of Conduct violation where the Tutor has deemed it necessary to permanently terminate the student's services and cancel any remaining lessons, then:
   1. the current lesson (if in progress) will be terminated and forfeited without refund
-  1. the Student will be provided with a [[tos#voluntary|voluntary refund]]
-  1. in cases where significant time or energy is required to handle the termination, a flat administrative termination fee of £10
+  1. the Student will be provided with a [[tos#voluntary|voluntary refund]], minus a flat administrative termination fee of £24 in cases where significant time or energy is required to handle the termination
   1. the Student will be permanently barred from booking further lessons with any tutor via this website, its affiliates or subsidiaries.
 
 ## Intellectual Property
@@ -98,5 +100,5 @@ The Tutor promises not to cancel a lesson without good reason if it is at all av
 ### Governing Law
 These Terms are governed by the laws of Scotland. We will attempt to resolve any disputes informally and in good faith before seeking external mediation.
 
-[^fees]: **Payment processing fees are paid entirely by us. We do not, and never will, pass these fees on to you.** However, we reserve the right to deduct a pro-rata amount of such fees from voluntary refunds where we are unable to recover them from our payment processor in the course of your refund. Fees start at <nobr>1.5–2.8%</nobr> for payments in GBP and rise to <nobr>2.50–5.15%</nobr> for non-GBP payments. The exact amount depends on the amount of the refund, payment method, currency and location from where the payment was made. In exceptional circumstances, international credit card fees may reach up to 6.5%.<br><br>For voluntary refunds of standard lessons, the minimum fee payable is £0.47 and the maximum fee payable is £35.43. For international credit cards, the minimum fee is £1.17 and the maximum fee is £44.46. %%For business lessons, ...%%<br><br>We will prorate this amount according to the prorated amount of your refund. For example, if you receive a 70% refund, we will reduce the deducted payment processing fees to match.
+[^fees]: **Payment processing fees are paid entirely by us. We do not, and never will, pass these fees on to you.** However, we reserve the right to deduct a pro-rata amount of such fees from voluntary refunds where we are unable to recover them from our payment processor in the course of your refund. Fees start at <nobr>1.5–2.8%</nobr> for payments in GBP and rise to <nobr>2.50–5.15%</nobr> for non-GBP payments. The exact amount depends on the amount of the refund, payment method, currency and location from where the payment was made. In exceptional circumstances, international credit card fees may reach up to 6.5%.<br><br>For voluntary refunds of standard lessons, the minimum fee payable is £0.47 and the maximum fee payable is £35.43. For international credit cards, the minimum fee is £1.17 and the maximum fee is £44.46. %%For business lessons, ...%%<br><br>We will prorate this amount according to the number of lessons completed. For example, if you completed 70% of your lessons, we will reduce the payment processing fees by 70%.
 <!-- [^legal]: Does not apply to students in the UK and the EU. -->
