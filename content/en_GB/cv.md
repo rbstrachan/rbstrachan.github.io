@@ -24,13 +24,26 @@ I'm currently working in the UK while preparing to return to university to finis
 
 ***
 ## Work Experience
-<!-- **Marking and Class Support Assistant** <span style="float: right;">August 2026 — Present</span>\
-Alan Marshall Tutoring -->
+**Mathematics Exam Marker and Class Support Assistant** <span style="float: right;">August 2026 — Present</span>\
+AMMT %%ALAN MARSHALL MATHS TUTORING%% *<span style="float: right;">Glasgow, Scotland</span>*
+- Evaluate student coursework, quizzes and mock examinations across SQA National 5, Higher and Advanced Higher levels, applying standard marking schemes to deliver precise, constructive feedback.
+- Provide real-time operational and academic support during live Zoom tuition classes, addressing student inquiries and facilitating smooth online learning sessions.
+- Collaborate remotely with senior tutors and operations staff via Connecteam to maintain feedback turnarounds and monitor student progress metrics.
 
 **International Travel** <span style="float: right;">April 2025 — June 2026</span>\
 PERSONAL TIME OFF *<span style="float: right;">Japan & South Korea</span>*
-- Took some time off to travel, focus on language learning and my own personal interests prior to returning to the UK to finish my degree and resume full-time employment.\
-Please see my work experience below.
+- Took some time off to travel, focus on language learning and my own personal interests%% prior to returning to the UK to finish my degree and resume full-time employment%%.
+
+<!-- VERIFY DATES (TOTAL TIME IN ASIA. REIWA.CA CREATED 9/3/25) -->
+<!-- **English & French Language Tutor** <span style="float: right;">December 2025 — May 2026</span>\
+<span class="small-caps">REIW A.CA</span> *<span style="float: right;">Kyoto, Japan</span>*
+- Founded and manage an independent language tutoring business, providing customised ESL and French lessons to students around the world.
+- Undertook professional, globally recognised language pedagogy training certificates, including TEFL Level 5.
+- Adapt teaching methodologies for neurodivergent and visual learners, creating interactive games and puzzles to make complex grammatical logic intuitive and engaging.
+- Leverage research skills to curate, organise and provide high-quality and accessible digital learning resources for students.
+- Utilise C1-level French proficiency to provide nuanced, L1-supported instruction for Francophone students.
+- Implement 'perfect practice' frameworks to identify and correct phonetic and grammatical mistakes in real-time.
+- Facilitate real-world readiness by teaching high-frequency idioms, collocations and cultural nuances. -->
 
 **Research Assistant** <span style="float: right;">October 2022 — October 2024</span>\
 PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
@@ -50,7 +63,7 @@ PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
 - Prioritised a heavy workload independently to ensure all marking turnarounds met strict deadlines.
 
 **Café Assistant** <span style="float: right;">July 2020 — September 2021</span>\
-HMP PETERHEAD PRISON MUSEUM (ADMIRALTY GATEWAY CHARITABLE TRUST) *<span style="float: right;">Peterhead, Scotland</span>*
+HMP PETERHEAD PRISON MUSEUM (ADMIRALTY <span class="small-caps">GATEW AY</span> CHARITABLE TRUST) *<span style="float: right;">Peterhead, Scotland</span>*
 - Managed the day-to-day operations of the museum café, overseeing both front-of-house service and food preparation within a high-volume, 5-star visitor attraction.
 - Entrusted with full financial responsibility, including processing transactions efficiently using the POS system, cashing up the till, and securely handling cash volume using the on-site safes.
 - Conducted daily inventory checks to ensure optimal stock levels and independently managed procurement, coordinating with suppliers to order over 100 different food, drink, and kitchen components.
@@ -86,16 +99,16 @@ by research and doctoral students across Canada.<!-- - Realised with Electron (T
 - Optimised application performance, achieving a 15% reduction in startup time.
 
 ## Certifications & Training
-[[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">July 2026</span>\
+[[fppes|Pedagogical Training for Higher Education]] <span style="float: right">Expected September 2026</span>\
+Observatoire Pédagogique en Enseignement Supérieur at UQTR
+- Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
+the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
+
+[[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">Expected September 2026</span>\
 The TEFL Academy
 
-<!-- [[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">Expected September 2026</span>\
-The TEFL Academy -->
-
-<!-- **Pedagogical Training for Higher Education**<span style="float: right">September 2024</span>\
-Université du Québec à Trois-Rivières
-- Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
-the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette). -->
+[[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">July 2026</span>\
+The TEFL Academy
 
 ## Professional Development Seminars
 **Technical Workshop Assistant**<span style="float: right">2023</span>\
@@ -123,25 +136,5 @@ French<span style="float: right">Advanced (Professional) Proficiency (C1–C2)</
 
 <!-- text align justify span -->
 </span>
-
-<!--
-**Looking to develop natural, native-like English skills? [Get in touch](mailto:ross@reiwa.ca) to book a trial lesson with me today!**
-## Work Experience
-### English Tutor ・ Freelance
-*Kyoto, Japan ・ December 2025–Present*
-- **Develop and deliver** personalised ESL lessons for international students across a range of levels from foundational literacy to advanced academic essay writing and professional fluency.
-- **Adapt teaching methodologies** for neurodivergent and visual learners, utilising hand-made interactive games and puzzles to make complex grammatical logic intuitive and engaging.
-- **Leverage research skills** to curate, organise and provide high-quality, accessible digital learning resources and databases for students.
-- **Utilise C1-level French proficiency** to provide nuanced, L1-supported instruction for Francophone beginners.
-- **Implement "Perfect Practice" frameworks** to identify and correct phonetic and grammatical mistakes in real-time.
-- **Facilitate real-world readiness** by teaching high-frequency idioms, collocations and cultural nuances.
-### Software Developer ・ Reiwa Software Labs
-*Quebec, Canada ・ July 2023–March 2025*
-- **Spearheaded development** of a custom qualitative data analysis application using **Electron (24,000+ SLoC)**.
-- **Optimised workflows** through reducing data processing time by an estimated **30%** for graduate research students.
-- **Designed algorithms** and data structures resulting in a **15% reduction** in loading times.
-- **Focused on user-centric design**, translating complex researcher requirements into tailored software functionalities.
-- **Provided comprehensive technical training** on how to take advantage of the application for best research results.
--->
 
 <!-- [^prix]: The thesis in question — [Production, disponibilité et consommation de ressources satisfatoires à caractère sexuel pour hommes au Japon](https://www.researchgate.net/publication/399960331_Production_disponibilite_et_consommation_de_ressources_satisfatoires_a_caractere_sexuel_pour_hommes_au_Japon) (PDF) — was successfully defended by its author, Chantal Pioch, who was awarded the highest possible honours of « *mention exceptionnelle* » (exceptional distinction) for its outstanding academic quality.<br><br>Following a unanimous recommendation by the jury, the manuscript was officially nominated for the ***Prix de la meilleure thèse de l'UQTR*** in 2025. -->
