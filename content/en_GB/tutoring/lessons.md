@@ -3,7 +3,7 @@ title: English and French language lessons
 aliases:
   - English and French language lessons
 ---
-As a native British English speaker with an international background, I have lived and worked in the 🇬🇧&nbsp;**UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I hold a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**<!-- and a [[fppes|Practical Training in Higher Education Pedagogy]] certificate from [OPES]()-->. I speak both **English** and **French** fluently.
+As a native British English speaker with an international background, I have lived and worked in 🇬🇧&nbsp;**the UK**, 🇨🇦&nbsp;**Canada** and 🇯🇵&nbsp;**Japan**, giving me a unique perspective on (and first-hand experience with) the linguistic and cultural hurdles language students face. I hold a **Qualifi-accredited [[tefl|Level 5 Diploma in Teaching English as a Foreign Language]]**<!-- and a [[fppes|Practical Training in Higher Education Pedagogy]] certificate from [OPES]()-->. I speak both **English** and **French** fluently.
 
 <!-- PROMOTIONAL COPY
 These lessons are designed to motivate, inspire and support you through your language learning journey, lower cognitive debt by fixing bad habits and preventing mistakes as they happen and [...].
@@ -84,7 +84,7 @@ The prices listed below are for a typical one-hour lesson. Individual sessions c
 A discount of **5% per student** (up to 6 students) applies to any lesson where multiple students book together[^group].
 
 > [!info]- Choose the right path for your goals
-> - **Single lessons** are best suited for students with **irregular or unpredictable schedules** and may be booked **up to 24 hours in advance**.
+> - **Single lessons** are best suited for students with **irregular or unpredictable schedules** and may be booked **no less than 24 hours in advance**.
 > - **Lessons blocks** are the most popular choice and are designed for **students with specific goals** (such as consistent growth or exam preparation) who wish to commit to a schedule. Lesson blocks offer a significant discount over the price of a single lesson.[^block]
 
 ### Standard
@@ -153,7 +153,7 @@ Payment can be made in any currency.\
 
 | Payment&nbsp;method | |
 | ---: | --- |
-| **Direct Transfer**<br>(Recommended)<br><br><br><br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Pay by direct transfer and receive exclusive perks!**<br>→  Lock in the Early Bird rate for six months after discounted pricing ends<br>→  Earn up to £27 credit applied towards your next block purchase<br>→  Priority rescheduling at any time without penalty<br>→  Extended block expiry date of 12 months from date of purchase<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
+| **Direct Transfer**<br>(Recommended)<br><br><br><br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Pay by direct transfer and receive exclusive perks!**<br>→  Lock in the Early Bird rate for six months after discounted pricing ends<br>→  Earn a 5% credit[^credit] applied towards your next block purchase<br>→  Priority rescheduling at any time without penalty<br>→  Extended block expiry date of 12 months from date of purchase<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
 | **Stripe**<br>&zwj; | For secure payments from a **bank account**, **bank card**<!--[^card]--> or **digital wallet**<!--[^wallet] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
 | <nobr>**Buy Now Pay Later**</nobr><br>&zwj; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**. **BN&zwj;PL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
 <!-- | **Konbini**<br>&nbsp; | In Japan? Pay with ease at a local **7-11**, **Family Mart** or **Lawson** konbini.<br>LOGOS HERE | -->
@@ -165,6 +165,21 @@ Payment can be made in any currency.\
 > While I want to make language coaching as accessible as possible, please remember that the use of Klarna and related BNPL schemes is a form of credit. Students are encouraged to use this option responsibly. You should know that BNPL is debt. Even when interest-free, BNPL is a financial commitment that can become very expensive very quickly if it is not paid on time and in full. **Only select this option if you are certain you have the funds to meet the scheduled payments in full and on time, every time.**
 >
 > Your progress is my priority and that includes your financial peace of mind. Please consider your overall budget before committing to a long-term payment plan. If you'd like to book a large block of lessons but don't think you have the funds immediately, please [get in touch](mailto:tutoring@reiwa.ca) and I'll work with you to find a better plan.
+
+## Referral
+Learning a language is always better together. If you enjoy our sessions, consider introducing a friend, family member or colleague to our services. Gift a friend £25, get £25 back!
+
+> [!tip] How it works...
+>
+> Referring a friend couldn't be easier. Simply ask them to mention your name, email address or student number when booking a free trial lesson or inquiring about a block of lessons.
+>
+> Your friend will receive a **£25 discount**[^referral-discount] automatically applied to their initial block invoice. You will receive a **£25 credit**, or an equally valued reward of your choosing[^referral-rewards], added automatically to your account[^referral-credit].
+>
+> There is no limit to how many people you can refer!
+
+[^referral-discount]: Available, generated and applicable only on the purchase of blocks of lessons. Referral discounts cannot be combined with discounted rates. If a discounted price promotion is active, the referred friend will receive the promotional rate on their first block purchase and the £25 referral discount will be automatically added to their account to be applied toward their second block purchase.
+[^referral-credit]: Referral rewards will be issued to your account once (a) your referred friend completes 25% of their total purchased block hours; and (b) more than 14 days have passed since their purchase. If the referred friend requests a refund within 14 days or otherwise does not complete 25% of their purchased hours, no rewards will be given. Referral credits are non-transferable, cannot be redeemed for cash and remain valid for 12 months from the date of issue.
+[^referral-rewards]: Choose from a credit towards future block purchases, a free 1-hour lesson, a gift card or another non-cash reward of equal value. Subject to availability.
 
 ***
 <span style="opacity:75%">Please make sure you have read, understood and agreed to the required [[legal|legal agreements]] before booking a lesson.</span>
@@ -178,3 +193,4 @@ Payment can be made in any currency.\
 [^block]: A maximum reduction of over 40% in the hourly rate is achievable (£24/h -> £14.25/h) when a 36 hour block is purchased during the Early Bird discount.  
 [^copyright]: Licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may share and adapt content, so long as it is for personal, non-commercial use only. Distributions must link to, and credit, original. Adaptations must use same licence.
 [^group]: The price for a group lesson is decided at the time of booking and is independent of how many students actually attend. No partial refunds will be given for individual absences. For more information, please see [[tos#group-lessons|Terms of Service § Group Lessons]].
+[^credit]: Calculated as 5% of the price of the block. Largest credit during Early Bird is 5% of £513 = £25.65. Largest credit after Early Bird discount finishes is 5% of £684 = £34.20.
