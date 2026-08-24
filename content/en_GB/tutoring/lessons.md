@@ -95,7 +95,7 @@ For natural day-to-day conversation, social interaction and practical language s
 > To mark the launch of my language tutoring, I'm offering a **25% early bird discount** to the **next 10 students** that book one or more lessons.[^early] Book **your first lesson** today!
 > |  | Standard<span style="opacity: 0%">000000.0</span> | Early Bird |
 > | :--- | ---: | :--- |
-> | **Trial Lesson**  | <span style="color: grey">Free<span style="opacity: 0%">/hr (£252)</span>　-></span> | Free |
+> | **Trial Lesson**  | <span style="color: grey">Free<span style="opacity: 0%">/hr (£252)</span>　→</span> | Free |
 > | **Single Lesson** | <span style="color: grey">~~£24~~<span style="opacity: 0%">/hr (£252)</span>　 →</span> | **£18** |
 > | **12-Hour Block** | <span style="color: grey">~~£21/hr (£252)~~　 →</span> | **£15.75/hr (£189)** |
 > | **24-Hour Block** | <span style="color: grey">~~£20/hr (£480)~~　 →</span> | **£15.00/hr (£360)** |
@@ -153,7 +153,7 @@ Payment can be made in any currency.\
 
 | Payment&nbsp;method | |
 | ---: | --- |
-| **Direct Transfer**<br>(Recommended)<br><br><br><br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Pay by direct transfer and receive exclusive perks!**<br>→  Lock in the Early Bird rate for six months after discounted pricing ends<br>→  Earn a 5% credit[^credit] applied towards your next block purchase<br>→  Priority rescheduling at any time without penalty<br>→  Extended block expiry date of 12 months from date of purchase<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
+| **Direct Transfer**<br>(Recommended)<br><br><br><br><br>&zwj; | Direct payment via **Wise**, **Revolut**, **Bank Transfer** or **IB&zwj;AN**.<br>Available for payments from the UK, the EU, the US, Canada and Japan.<br>**Pay by direct transfer and receive exclusive perks!**<br>→  Lock in the Early Bird rate for six months after discounted pricing ends<br>→  Earn a 5% credit[^credit] applied towards your next block purchase<br>→  Priority rescheduling at any time without penalty<br>→  Extended block expiry date of 18 months from date of purchase<!--<br>INSERT WISE REVOLUT AND BANK LOGOS HERE--> |
 | **Stripe**<br>&zwj; | For secure payments from a **bank account**, **bank card**<!--[^card]--> or **digital wallet**<!--[^wallet] or PayPal--> anywhere in the world.<br><!-- INSERT LOGOS HERE FOR VISA, MC, AMEX, GOOGLE PAY, APPLE PAY, ETC.--> |
 | <nobr>**Buy Now Pay Later**</nobr><br>&zwj; | Pay in instalments or defer payment for 30 days with **Klarna**, **Afterpay** or **Affirm**. **BN&zwj;PL services are debt — use responsibly.**<!-- <br>INSERT LOGOS HERE FOR KLARNA AFTERPAY AFFIRM --> |
 <!-- | **Konbini**<br>&nbsp; | In Japan? Pay with ease at a local **7-11**, **Family Mart** or **Lawson** konbini.<br>LOGOS HERE | -->
