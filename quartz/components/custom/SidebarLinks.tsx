@@ -2,7 +2,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function SidebarLinks({ fileData, displayClass, cfg }: QuartzComponentProps) {
   const isFrench = cfg?.locale?.startsWith("fr") ?? false
-  const prefix = isFrench ? "" : ""
+  const prefix = isFrench ? "/fr" : ""
 
   return (
     <div class={`sidebar-links ${displayClass ?? ""}`}>
