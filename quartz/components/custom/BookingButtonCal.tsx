@@ -58,6 +58,8 @@ export default (() => {
 
   BookingButton.afterDOMLoaded = `
     const setupCalAndTallyButtons = () => {
+      const isFrench = document.documentElement.lang.startsWith("fr") || window.location.pathname.startsWith("/fr");
+
       const trialTarget = document.getElementById("book-trial-button");
       if (trialTarget) {
         trialTarget.innerHTML = "";
@@ -66,7 +68,9 @@ export default (() => {
         trialBtn.setAttribute("data-cal-link", "reiwa/trial");
         trialBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
         trialBtn.className = "cal-embed-button";
-        trialBtn.innerText = "Book a Free Trial Lesson    →";
+        trialBtn.innerText = isFrench
+          ? "Réserver un cours d'essai gratuit    →"
+          : "Book a Free Trial Lesson    →";
         trialTarget.appendChild(trialBtn);
 
         if (window.Cal && window.Cal.ns && window.Cal.ns["trial"]) {
@@ -86,7 +90,9 @@ export default (() => {
         standardBtn.setAttribute("data-cal-link", "reiwa/standard");
         standardBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
         standardBtn.className = "cal-embed-button";
-        standardBtn.innerText = "Book a Single Standard Lesson    →";
+        standardBtn.innerText = isFrench
+          ? "Réserver un cours Standard à l'unité    →"
+          : "Book a Single Standard Lesson    →";
         standardTarget.appendChild(standardBtn);
 
         if (window.Cal && window.Cal.ns && window.Cal.ns["standard"]) {
@@ -107,7 +113,9 @@ export default (() => {
           auditBtn.setAttribute("data-cal-link", "reiwa/audit");
           auditBtn.setAttribute("data-cal-config", '{"layout":"month_view"}');
           auditBtn.className = "cal-embed-button";
-          auditBtn.innerText = "Book a Language Learning Progress Audit    →";
+          auditBtn.innerText = isFrench
+            ? "Réserver un bilan de compétences linguistiques    →"
+            : "Book a Language Learning Progress Audit    →";
           target.appendChild(auditBtn);
         });
 
