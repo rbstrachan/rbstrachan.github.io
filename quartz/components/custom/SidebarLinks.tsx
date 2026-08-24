@@ -1,15 +1,33 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-function SidebarLinks({ fileData, displayClass }: QuartzComponentProps) {
+function SidebarLinks({ fileData, displayClass, cfg }: QuartzComponentProps) {
+  const isFrench = cfg?.locale?.startsWith("fr") ?? false
+  const prefix = isFrench ? "" : ""
+
   return (
     <div class={`sidebar-links ${displayClass ?? ""}`}>
-      {fileData?.slug && fileData.slug !== "index" && <a href="/">About Me</a>}
-      <span><a href="/cv">CV</a><small><b> ・ </b></small><a href="/qr">QR</a></span>
-      <a href="/tutoring/lessons">Language Tutoring</a>
-      <a href="/guestbook">Guestbook</a>
+      {fileData?.slug && fileData.slug !== "index" && (
+        <a href={`${prefix}/`}>{isFrench ? "À propos" : "About Me"}</a>
+      )}
+      <span>
+        <a href={`${prefix}/cv`}>CV</a>
+        <small><b> ・ </b></small>
+        <a href={`${prefix}/qr`}>QR</a>
+      </span>
+      <span>
+        <a href={`${prefix}/tutoring/lessons`}>
+          {isFrench ? "Cours de langues" : "Language Tutoring"}
+        </a>
+        {/* <small><b> ・ </b></small>
+        <a href={`${prefix}/tutoring/audit`}>
+          {isFrench ? "Bilan" : "Audit"}
+        </a> */}
+      </span>
+      <a href={`${prefix}/guestbook`}>
+        {isFrench ? "Livre d'or" : "Guestbook"}
+      </a>
     </div>
   )
 }
 
-// <a href="/shop">Shop</a>
 export default (() => SidebarLinks) satisfies QuartzComponentConstructor
