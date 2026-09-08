@@ -5,6 +5,8 @@ aliases:
   - Royal Mail barcoded stamps
 ---
 
+<!-- see https://github.com/infrastructureclub/royal-mail-stamp-barcode -->
+
 This research project aims to decode and understand the 2D DataMatrix codes on Royal Mail’s Datamatrix Barcoded Machin stamps. By extracting and comparing raw strings from a sample of physical stamps, it breaks down how information such as postal classes, batch numbers, serial numbers and cryptographic hashes are encoded, and offers an explanation of how these are used to digitise physical mail and protected it against fraudulent and counterfeit stamp use.
 
 %%
