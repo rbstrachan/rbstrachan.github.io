@@ -24,11 +24,12 @@ I'm currently working in the UK while preparing to return to university to finis
 
 ***
 ## Work Experience
-**Mathematics Exam Marker and Class Support Assistant** <span style="float: right;">August 2026 — Present</span>\
+**Mathematics Exam Marker & Class Support Assistant** <span style="float: right;">August 2026 — Present</span>\
 AMMT %%ALAN MARSHALL MATHS TUTORING%% *<span style="float: right;">Glasgow, Scotland</span>*
-- Evaluate student coursework, quizzes and mock examinations across SQA National 5, Higher and Advanced Higher levels, applying standard marking schemes to deliver precise, constructive feedback.
+- Evaluate student coursework, quizzes and mock exams across SQA National 5, Higher and Advanced Higher levels, applying national marking schemes to deliver constructive feedback.
 - Provide real-time operational and academic support during live Zoom tuition classes, addressing student inquiries and facilitating smooth online learning sessions.
-- Collaborate remotely with senior tutors and operations staff via Connecteam to maintain feedback turnarounds and monitor student progress metrics.
+- Contribute to community engagement and administration on the Skool platform, supporting student onboarding, resource organisation and daily platform navigation.
+- Collaborate remotely with senior tutors and operations staff via Connecteam to maintain fast feedback turnarounds and monitor student progress metrics.
 
 **International Travel** <span style="float: right;">April 2025 — June 2026</span>\
 PERSONAL TIME OFF *<span style="float: right;">Japan & South Korea</span>*
@@ -45,7 +46,7 @@ PERSONAL TIME OFF *<span style="float: right;">Japan & South Korea</span>*
 - Implement 'perfect practice' frameworks to identify and correct phonetic and grammatical mistakes in real-time.
 - Facilitate real-world readiness by teaching high-frequency idioms, collocations and cultural nuances. -->
 
-**Research Assistant** <span style="float: right;">October 2022 — October 2024</span>\
+**Doctoral Research Assistant** <span style="float: right;">October 2022 — October 2024</span>\
 PRIVATE CONTRACT *<span style="float: right;">Québec, Canada</span>*
 - Verified academic sources and gathered relevant data to support a doctoral thesis in social communication.%%[^prix]%%
 - Acted as a central point of contact for external academic bodies, international universities and primary authors to gain access to academic papers and research materials across Canada, the United States and Japan.
@@ -117,7 +118,7 @@ Université du Québec à Trois-Rivières<span style="float: right">Québec, Can
 - Executed live on-screen software demonstrations to guide participants through complex interface navigation and data coding procedures in real time.
 - Provided individual troubleshooting and technical support, assisting attendees with project setup, file organisation and interface configuration.
 
-## Extracurricular Activities %% Interests? %%
+## Hobbies & Interests
 [[steno|Stenography]]
 - Studying how to type at up to 240 words per minute using a specially designed keyboard to help me triple my efficiency and
 become more accurate and reliable at data entry and general typing.
