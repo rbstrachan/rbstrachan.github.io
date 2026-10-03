@@ -13,6 +13,8 @@ function SidebarLinks({ fileData, displayClass, cfg }: QuartzComponentProps) {
         <a href={`${prefix}/cv`}>CV</a>
         <small><b> ・ </b></small>
         <a href={`${prefix}/qr`}>QR</a>
+        <small><b> ・ </b></small>
+        <a href={`${prefix}/calendar`}>{isFrench ? "Calendrier" : "Calendar"}</a>
       </span>
       <span>
         <a href={`${prefix}/tutoring/lessons`}>
