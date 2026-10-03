@@ -1,0 +1,36 @@
+.fc-daygrid-event {
+    min-height: 10px !important;
+    max-height: 20px !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    font-size: 2rem !important;
+    line-height: 1.1 !important;
+    border-radius: 3px !important;
+    align-items: center !important;
+}
+
+.fc-event-title,
+.fc-event-main {
+    font-size: 0.1rem !important;
+    transform: scale(0.90) !important;
+    transform-origin: left center !important;
+    white-space: nowrap !important;
+    text-overflow: clip !important;
+    width: max-content !important;
+    line-height: 1 !important;
+}
+
+.fc-event-title,
+.fc-daygrid-event-dot {
+    padding-left: 7px !important;
+}
+
+.fc .fc-daygrid-day-top {
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
+}
+
+.fc .fc-daygrid-day-number {
+    padding: 0px 7px !important;
+    font-size: 0.5rem !important;
+}
