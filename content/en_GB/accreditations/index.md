@@ -9,9 +9,9 @@ This folder serves to list my education qualifications, professional accreditati
 A summary of these accreditations is provided below. Click on a title to find out more information.
 
 > [!info]- Know a course that might suit me?
-> I’m always looking for new courses and professional development certifications to keep pace with the latest in mathematics, computer science and library and information sciences.
+> I’m always looking for new courses and professional development certifications to keep pace with the latest in mathematics, computer science, AI safety and library and information sciences.
 >
-> If you have any recommendations for programs that would help me sharpen my skills or align with my work in [[projects/index|projects]] or [[tools/index|tools]]<!-- or [[research/index|research]] -->, please feel free to [[contact|get in touch]].
+> If you have any recommendations for programs that would help me sharpen my skills or align with my work in [[projects/index|projects]], [[tools/index|tools]] or [[research/index|research]], please feel free to [[contact|get in touch]].
 
 ***
 
