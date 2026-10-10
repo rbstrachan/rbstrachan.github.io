@@ -28,12 +28,12 @@ import SidebarBio from "./custom/SidebarBio"
 import SidebarLinks from "./custom/SidebarLinks"
 import LanguagePicker from "./custom/LanguagePicker"
 import BrailleScramble from "./custom/BrailleScramble"
-import MathBackground from "./custom/MathBackground"
 import AsciiPlasmaBackground from "./custom/AsciiPlasmaBackground"
 import BookingButton from "./custom/BookingButtonCal"
 import AccessibilityPanel from "./custom/AccessibilityPanel"
 import SpoilerEffect from "./custom/SpoilerEffect"
 // import PrideMode from "./custom/PrideMode"
+import AsciiArt from "./custom/AsciiArtBackground"
 
 export {
   ArticleTitle,
@@ -66,10 +66,10 @@ export {
   SidebarLinks,
   LanguagePicker,
   BrailleScramble,
-  MathBackground,
   AsciiPlasmaBackground,
   BookingButton,
   AccessibilityPanel,
   SpoilerEffect,
   // PrideMode
+  AsciiArt
 }
