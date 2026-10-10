@@ -29,7 +29,7 @@ In almost any field, you are likely to encounter so-called "unconscious competen
 
 It's important to understand that no resource — including this website — can be a step-by-step instruction manual to expertise, no matter how hard it may try to convince you otherwise. Research has continuously shown that, quote;
 > ***[...] there is not one means of representation that will be optimal for every learner [...].***\
-> — CAST UDL Guidelines (Designing Multiple Means of Representation)[^1]
+> ― CAST UDL Guidelines (Designing Multiple Means of Representation)[^1]
 
 Therefore, such a thing does not exist, because it *cannot* exist. Instead, the best any sufficiently proficient teacher can provide is a roadmap to success, some emotional support and their mentorship and let the learner do the hard work themselves. No-one can do the work of learning for them.
 

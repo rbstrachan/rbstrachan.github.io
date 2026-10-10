@@ -21,7 +21,7 @@ Thank you for visiting! Please feel free to leave a note, I'd love to hear from 
 
 ### Messages
 > I like your [[philosophies/learning|philosophy of learning]], I quoted a passage from that article [on my site](https://graphsociety.org/quotes#anyone-can-learn) :)\
-> *— jerlendds ([graphsociety](https://graphsociety.org/))* ・ 2026-10-07
+> *― jerlendds ([graphsociety](https://graphsociety.org/))* ・ 2026-10-07
 
 > Love the site can't wait to see what you do with this :D\
-> *— Anirudh ([askbatguy](https://batguyblogs.github.io/Blog-Page/))* ・ 2026-03-04
+> *― Anirudh ([askbatguy](https://batguyblogs.github.io/Blog-Page/))* ・ 2026-03-04
