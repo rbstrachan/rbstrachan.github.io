@@ -102,6 +102,14 @@ Use the calendar below to keep up-to-date with projects I'm currently working on
                 start: '2026-12-04',
                 end: '2026-12-11',
                 color: '#b37d00'
+            },
+            // FEBRUARY 2027
+            {
+                title: 'Binderary 2027',
+                start: '2027-02-01',
+                end: '2027-03-01',
+                color: '#b22f07',
+                url: 'events/binderary'
             }
         ]
     });
