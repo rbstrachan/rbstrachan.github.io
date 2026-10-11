@@ -32,6 +32,7 @@ import AsciiPlasmaBackground from "./custom/AsciiPlasmaBackground"
 import BookingButton from "./custom/BookingButtonCal"
 import AccessibilityPanel from "./custom/AccessibilityPanel"
 import SpoilerEffect from "./custom/SpoilerEffect"
+import Frontmatter from "./custom/ShowFrontmatter"
 // import PrideMode from "./custom/PrideMode"
 import AsciiArt from "./custom/AsciiArtBackground"
 
@@ -70,6 +71,7 @@ export {
   BookingButton,
   AccessibilityPanel,
   SpoilerEffect,
+  Frontmatter,
   // PrideMode
   AsciiArt
 }
