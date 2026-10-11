@@ -20,7 +20,7 @@ I also have an accessible [[static/cv.pdf|PDF version]] available for download.
 <span style="display: flex; justify-content: space-between; flex-wrap: wrap; font-family: var(--bodyFont), inherit;"><span>UK・Canada<!--・Japan--></span>  |  ross@reiwa.ca  |  [reiwa.ca](https://reiwa.ca)  |  [github.com/rbstrachan](https://github.com/rbstrachan)</span>
 
 ## Current Status
-I'm currently working in the UK while preparing to return to university to finish my undergraduate degree. In the meantime, I'm actively seeking Library & Information Science-related roles to gain practical experience, fund my remaining and future studies and continue my professional development.
+I'm currently working part-time while preparing to return to university to finish my undergraduate degree. Until such time, I'm actively seeking Library & Information Science-related roles to gain practical experience, fund my remaining and future studies and continue my professional development.
 
 ***
 ## Work Experience
@@ -100,12 +100,12 @@ by research and doctoral students across Canada.<!-- - Realised with Electron (T
 - Optimised application performance, achieving a 15% reduction in startup time.
 
 ## Certifications & Training
-[[fppes|Pedagogical Training for Higher Education]] <span style="float: right">Expected September 2026</span>\
+[[fppes|Pedagogical Training for Higher Education]] <span style="float: right">Expected October 2026</span>\
 Observatoire Pédagogique en Enseignement Supérieur at UQTR
-- Completed a highly selective, intensive professional development program on adult learning and teaching methodology under
+- Completing a highly selective, intensive professional development program on higher-education learning and teaching methodology under
 the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
 
-[[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">Expected September 2026</span>\
+[[tefl|Teaching English as a Foreign Language]] (TEFL) Business English<span style="float: right">September 2026</span>\
 The TEFL Academy
 
 [[tefl|Teaching English as a Foreign Language]] (TEFL) Qualifi Level 5<span style="float: right">July 2026</span>\
@@ -122,6 +122,9 @@ Université du Québec à Trois-Rivières<span style="float: right">Québec, Can
 [[steno|Stenography]]
 - Studying how to type at up to 240 words per minute using a specially designed keyboard to help me triple my efficiency and
 become more accurate and reliable at data entry and general typing.
+
+<!-- **Typesetting & Bookbinding**
+- ? -->
 
 **British Sign Language**
 - Learning to communicate via BSL to better understand d/Deaf and Hard of Hearing culture and expand the number of people
