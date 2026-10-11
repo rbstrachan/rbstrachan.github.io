@@ -1,13 +1,18 @@
 ---
 title: launch weekend
-description: This is a few short words on my submission to the [Hacktoberfest 2026 Weekend Challenge — Build for a Friend](https://dev.to/challenges/hacktoberfest-weekend-2026-10-01).
-ai: assisted — written by a human with some assistance from AI (e.g. idea generation, finding typos, some code generation, minor edits, translations).
+description: A brief overview of my submission to the [Hacktoberfest 2026 Weekend Challenge — Build for a Friend](https://dev.to/challenges/hacktoberfest-weekend-2026-10-01).
+ai: assisted — written by a human with some assistance from AI (e.g. idea generation, finding typos, some code generation, minor edits or translations)
 from: 2026-10-02
 to: 2026-10-05
 created: 2026-10-04
 ---
 
-I built **nuançais**, a small and very basic proof-of-concept for a python-based English-French assistant created to help a French-speaking friend of mine learn and better understand nuanced English words and phrases.
+The launch weekend challenge was the first of Hacktoberfest 2026. Running from October 1st to the 5th, participants were challenged to build a useful project using open-source AI models and tools. The theme for the weekend was "Build for a Friend", which encouraged participants to solve a specific, real-world problem experienced by a peer, colleague or friend.
+
+## Challenge submission
+Below is a copy of the [DEV blog post](https://dev.to/rbstrachan/hacktoberfest-2026-launch-weekend-challenge-submission-nuancais-23b) submitted in fulfillment of this challenge.
+***
+I built [nuançais](https://github.com/rbstrachan/hacktoberfest/blob/3857f190e5506a33e3198915ec35157dc0ed5632/2026/launch-weekend.py), a small and very basic proof-of-concept for a python-based English-French assistant created to help a French-speaking friend of mine learn and better understand nuanced English words and phrases.
 
 My friend is a French native who is working with English-speaking colleagues on English-as-a-main-language projects. She is at an intermediate level in English and so already knows core grammar and vocabulary, but idioms, phrases and expressions are difficult for her.
 
@@ -18,7 +23,6 @@ I think a dedicated helper that is always available on her desktop above her oth
 This project is only a proof of concept. It aims to provide an interactive cloud notebook (on Google Colab) where one can paste any tricky English snippet and in just a few seconds (please be patient!) get synchronised dual-language responses.
 
 ## Demo
-
 Below is a screenshot processing an example phrase:
 
 ![screenshot of the UI running in Google Colab with an input field, run button, process status and an output with two tabs, one for English and the other for French](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/q9hvkrkc7347btatdmjw.png)
