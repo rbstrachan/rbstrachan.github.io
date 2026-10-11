@@ -14,13 +14,13 @@ I am completing the intensive professional development pedagogy course <nobr>«�
 
 This program is delivered entirely in French.
 
-<!-- > [!info] I first completed this program in 2024 and am completing it for a second time this year to keep up to date on the latest pedagogical research and continuously improve my teaching skills as part of my [[teaching|philosophy of teaching]]. -->
+<!-- > [!info] I first completed this program in 2026 and am completing it for a second time this year to keep up to date on the latest pedagogical research and continuously improve my teaching skills as part of my [[teaching|philosophy of teaching]]. -->
 
-<!-- ## Content
-The course is roughly 80 hours per session, consisting of 40 hours of interactive seminars and 40 hours of practical work, covering topics such as:
-- example
-- example
-- example -->
+## Modules
+The course is roughly 80 hours total, consisting of 40 hours of interactive seminars and 40 hours of practical work. 
+
+- [x] Consignes et alignement pédagogique
+- [ ] Pratique guidée
 
 <!--
 accredited with 4 Continuing Education Units (CEU) per session\
