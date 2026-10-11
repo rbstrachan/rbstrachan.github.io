@@ -32,10 +32,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Frontmatter(),
 
     // Component.BrailleScramble(),
     Component.BookingButton(),
-    Component.SpoilerEffect()
+    Component.SpoilerEffect(),
+    // Component.AsciiArt()
   ],
   left: [
     Component.PageTitle(),
