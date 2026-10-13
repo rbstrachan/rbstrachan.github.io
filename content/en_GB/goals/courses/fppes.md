@@ -20,7 +20,8 @@ This program is delivered entirely in French.
 The course is roughly 80 hours total, consisting of 40 hours of interactive seminars and 40 hours of practical work. 
 
 - [x] Consignes et alignement pédagogique
-- [ ] Pratique guidée
+- [x] Pratique guidée
+- [ ] Traitement des erreurs
 
 <!--
 accredited with 4 Continuing Education Units (CEU) per session\
