@@ -90,6 +90,12 @@ Use the calendar below to keep up-to-date with projects I'm currently working on
                 end: '2026-11-13',
                 color: '#b37d00'
             },
+            {
+                title: 'MLH Solana Hackathon',
+                start: '2026-11-06',
+                end: '2026-11-09',
+                color: '#22d254' 
+            },
             // DECEMBER 2026
             {
                 title: 'Advent of Code 2026',
