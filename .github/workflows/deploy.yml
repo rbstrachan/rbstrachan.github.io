@@ -40,6 +40,11 @@ jobs:
             rm -rf .quartz-cache
             export QUARTZ_LANG="$lang_code"
 
+            if [ -d "content/$src/hidden" ]; then
+              mv content/$src/hidden/* content/$src/ 2>/dev/null || true
+              rmdir content/$src/hidden || true
+            fi
+
             if [ "$dist" == "root" ]; then
               npx quartz build --directory "content/$src" --output "public"
             else
