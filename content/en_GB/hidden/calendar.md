@@ -83,6 +83,12 @@ Use the calendar below to keep up-to-date with projects I'm currently working on
                 color: '#b22f07',
                 // url: '/projects'
             },
+            {
+                title: 'QHACK Quantum Coding Championships',
+                start: '2026-10-16',
+                end: '2026-10-24',
+                color: '#ffbd26'   
+            },
             // NOVEMBER 2026
             {
                 title: 'MLH Global Hack Week — Builder\'s Week',
