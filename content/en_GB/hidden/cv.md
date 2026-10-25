@@ -100,7 +100,7 @@ by research and doctoral students across Canada.<!-- - Realised with Electron (T
 - Optimised application performance, achieving a 15% reduction in startup time.
 
 ## Certifications & Training
-[[fppes|Pedagogical Training for Higher Education]] <span style="float: right">Expected October 2026</span>\
+[[fppes|Pedagogical Training for Higher Education]] <span style="float: right">Expected November 2026</span>\
 Observatoire Pédagogique en Enseignement Supérieur at UQTR
 - Completing a highly selective, intensive professional development program on higher-education learning and teaching methodology under
 the direction of [Prof. Dr. François Guillemette](https://www.uqtr.ca/Francois.Guillemette).
@@ -123,8 +123,9 @@ Université du Québec à Trois-Rivières<span style="float: right">Québec, Can
 - Studying how to type at up to 240 words per minute using a specially designed keyboard to help me triple my efficiency and
 become more accurate and reliable at data entry and general typing.
 
-<!-- **Typesetting & Bookbinding**
-- ? -->
+**Typesetting & Bookbinding**
+- Designing and formatting custom book layouts, page geometries and typographies.
+- Participant in the [[events/typeset.md|Renegade Bookbinding Guild Typesetting Exchange]], creating free print-ready, open-access typesets.
 
 **British Sign Language**
 - Learning to communicate via BSL to better understand d/Deaf and Hard of Hearing culture and expand the number of people
@@ -132,7 +133,7 @@ I can communicate with.
 
 ## Skills
 **Personal** — client collaboration, efficient communication (written and verbal), teamwork, technical support, user training\
-**Technical** — software development, technical problem solving, data management, analytical skills, attention to detail
+**Technical** — typesetting & document layout, software development, technical problem solving, data management, analytical skills, attention to detail
 
 ## Languages
 English<span style="float: right">Native</span>\
