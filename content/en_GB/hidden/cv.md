@@ -125,7 +125,7 @@ become more accurate and reliable at data entry and general typing.
 
 **Typesetting & Bookbinding**
 - Designing and formatting custom book layouts, page geometries and typographies.
-- Participant in the [[events/typeset.md|Renegade Bookbinding Guild Typesetting Exchange]], creating free print-ready, open-access typesets.
+- Participant of the [[events/typeset.md|Renegade Bindery Typesetting Exchange]], creating free print-ready, open-access typesets.
 
 **British Sign Language**
 - Learning to communicate via BSL to better understand d/Deaf and Hard of Hearing culture and expand the number of people
