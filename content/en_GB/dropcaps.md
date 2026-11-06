@@ -2,12 +2,14 @@
 title: Hazell, Watson & Viney dropcaps
 ---
 
-A collection of historical dropcaps and illuminated initials retrieved from volumes printed by Hazell, Watson & Viney, with inspiration from Century Library.<br><br>
+A collection of historical dropcaps and illuminated initials restored from scans of volumes printed by *Hazell, Watson & Viney* between 1895 and 1905[^approx]. Restoration technique inspired by [Century Library](https://centurylibrary.com/).
 
 > [!info] We're missing some initials...
-> Can you help complete the collection? If you have reference material, high-resolution scans or know anything about these dropcaps, please [[contact|contact me]]!
+> Can you help complete the collection? We currently have 13/26 of the initials restored. We are in search of the remaining 13 initials. If you have reference material or high-resolution scans of these dropcaps or have any information you think may help us find them, please [[contact|contact me]]!
 
 ***
+<!-- *Initials with ✅️ have been obtained and are in the process of being restored — check back soon!* -->
+*The initial **N** was restored from a low quality scan and hence is itself low quality.*
 
 <style>
 .dropcap-grid {
@@ -47,20 +49,16 @@ A collection of historical dropcaps and illuminated initials retrieved from volu
   <div class="dropcap-card dropcap-missing">C</div>
   <div class="dropcap-card"><img src="/static/dropcaps/D.png" alt="Dropcap D" /></div>
   <div class="dropcap-card dropcap-missing">E</div>
-  <div class="dropcap-card dropcap-missing">F</div>
-  <!-- <div class="dropcap-card"><img src="/static/dropcaps/F.png" alt="Dropcap F" /></div> -->
+  <div class="dropcap-card"><img src="/static/dropcaps/F.png" alt="Dropcap F" /></div>
   <div class="dropcap-card dropcap-missing">G</div>
   <div class="dropcap-card"><img src="/static/dropcaps/H.png" alt="Dropcap H" /></div>
   <div class="dropcap-card"><img src="/static/dropcaps/I.png" alt="Dropcap I" /></div>
   <div class="dropcap-card dropcap-missing">J</div>
   <div class="dropcap-card dropcap-missing">K</div>
   <div class="dropcap-card dropcap-missing">L</div>
-  <div class="dropcap-card dropcap-missing">M</div>
-  <div class="dropcap-card dropcap-missing">N</div>
-  <div class="dropcap-card dropcap-missing">O</div>
-  <!-- <div class="dropcap-card"><img src="/static/dropcaps/M.png" alt="Dropcap M" /></div> -->
-  <!-- <div class="dropcap-card"><img src="/static/dropcaps/N.png" alt="Dropcap N" /></div> -->
-  <!-- <div class="dropcap-card"><img src="/static/dropcaps/O.png" alt="Dropcap O" /></div> -->
+  <div class="dropcap-card"><img src="/static/dropcaps/M.png" alt="Dropcap M" /></div>
+  <div class="dropcap-card"><img src="/static/dropcaps/N.png" alt="Dropcap N" /></div>
+  <div class="dropcap-card"><img src="/static/dropcaps/O.png" alt="Dropcap O" /></div>
   <div class="dropcap-card dropcap-missing">P</div>
   <div class="dropcap-card dropcap-missing">Q</div>
   <div class="dropcap-card dropcap-missing">R</div>
@@ -73,3 +71,5 @@ A collection of historical dropcaps and illuminated initials retrieved from volu
   <div class="dropcap-card dropcap-missing">Y</div>
   <div class="dropcap-card dropcap-missing">Z</div>
 </div>
+
+[^approx]: Approximately.
