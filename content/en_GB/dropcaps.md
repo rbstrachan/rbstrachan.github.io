@@ -47,16 +47,20 @@ A collection of historical dropcaps and illuminated initials retrieved from volu
   <div class="dropcap-card dropcap-missing">C</div>
   <div class="dropcap-card"><img src="/static/dropcaps/D.png" alt="Dropcap D" /></div>
   <div class="dropcap-card dropcap-missing">E</div>
-  <div class="dropcap-card"><img src="/static/dropcaps/F.png" alt="Dropcap F" /></div>
+  <div class="dropcap-card dropcap-missing">F</div>
+  <!-- <div class="dropcap-card"><img src="/static/dropcaps/F.png" alt="Dropcap F" /></div> -->
   <div class="dropcap-card dropcap-missing">G</div>
   <div class="dropcap-card"><img src="/static/dropcaps/H.png" alt="Dropcap H" /></div>
   <div class="dropcap-card"><img src="/static/dropcaps/I.png" alt="Dropcap I" /></div>
   <div class="dropcap-card dropcap-missing">J</div>
   <div class="dropcap-card dropcap-missing">K</div>
   <div class="dropcap-card dropcap-missing">L</div>
-  <div class="dropcap-card"><img src="/static/dropcaps/M.png" alt="Dropcap M" /></div>
-  <div class="dropcap-card"><img src="/static/dropcaps/N.png" alt="Dropcap N" /></div>
-  <div class="dropcap-card"><img src="/static/dropcaps/O.png" alt="Dropcap O" /></div>
+  <div class="dropcap-card dropcap-missing">M</div>
+  <div class="dropcap-card dropcap-missing">N</div>
+  <div class="dropcap-card dropcap-missing">O</div>
+  <!-- <div class="dropcap-card"><img src="/static/dropcaps/M.png" alt="Dropcap M" /></div> -->
+  <!-- <div class="dropcap-card"><img src="/static/dropcaps/N.png" alt="Dropcap N" /></div> -->
+  <!-- <div class="dropcap-card"><img src="/static/dropcaps/O.png" alt="Dropcap O" /></div> -->
   <div class="dropcap-card dropcap-missing">P</div>
   <div class="dropcap-card dropcap-missing">Q</div>
   <div class="dropcap-card dropcap-missing">R</div>
