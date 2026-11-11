@@ -1,11 +1,11 @@
 ---
-title: Hazell, Watson & Viney dropcaps
+title: Armitage & Ibbetson dropcaps
 ---
 
-A collection of historical dropcaps and illuminated initials restored from scans of volumes printed by [*Hazell, Watson & Viney*](https://www.aylesburyremembered.com/Businesses/Industry/Hazells), Edward Fould and Armitage & Ibbetson between 1898 and 1902. Restoration technique inspired by [Century Library](https://centurylibrary.com/).
+A collection of historical dropcaps and illuminated initials created by Armitage & Ibbetson and restored from scans of volumes printed by [*Hazell, Watson & Viney*](https://www.aylesburyremembered.com/Businesses/Industry/Hazells) and Edward Fould between 1898 and 1902.
 
 ## On information and belief
-These dropped initials are a set of decorative woodcut letters believed to be produced by Messers Armitage & Ibbetson or one of their apprentices[^apprentice] in the UK between approximately 1895 and 1905.<!-- , likely at the Tring Road imprimerie in Aylesbury, Buckinghamshire. -->
+These dropped initials are a set of decorative woodcut letters believed to be produced by Messers Armitage & Ibbetson[^messers] or one of their apprentices[^apprentice] in the UK between approximately 1895 and 1905.<!-- , likely at the Tring Road imprimerie in Aylesbury, Buckinghamshire. -->
 
 They are characterised by bold, black rectangular blocks with large serif letters surrounded by intricate botanical motifs. It is not yet known if a full 26-letter set was ever made.
 
@@ -82,9 +82,10 @@ To locate and restore the remaining initials, I intend to look through trade cat
 - r/letterpress
  -->
 
-## Character set
+## Restored initials
 <!-- *Initials with ✅️ have been obtained and are in the process of being restored — check back soon!* -->
-*The initial **N** was restored from a low quality scan and hence is itself low quality.*<br>No attempt has been made to correct the skew of the original print.
+Restoration technique inspired by [Century Library](https://centurylibrary.com/).<br>The initial **N** was restored from a low quality scan and hence is itself low quality.<br>No attempt has been made to correct the skew or damage of the original print.
+<!-- <br>*Released under `CC BY-NC` 4.0 license. Free to use for non-commercial, academic and personal use with attribution.* -->
 
 <style>
 .dropcap-grid {
@@ -147,10 +148,11 @@ To locate and restore the remaining initials, I intend to look through trade cat
   <div class="dropcap-card dropcap-missing">Z</div>
 </div>
 
-[^apprentice]: It is believed that the letters **OCG** in the centers of the Rose blossoms of the **D** initial is the monogram of the apprentice who carved the original woodblock designs, although this has not been corroborated. So far, no-one by the initials OCG has been identified as having worked with, or for, Hazell, Watson & Viney, Edward Fould or Armitage & Ibbetson.
+[^apprentice]: It is believed that the letters **OCG** in the centers of the blossoms of the **D** initial is the monogram of the apprentice who carved the original woodblock designs, although this has not been corroborated. So far, no-one by the initials OCG has been identified as having worked with, or for, Hazell, Watson & Viney, Edward Fould or Armitage & Ibbetson.
 [^specimen]: The primary master proof sheet for this set is believed to be preserved in this item. This would, at a minimum, allow us to see how many letters were created.
 [^naming]: I am not a botanist and have likely misidentified some of the flowers. If you think I've made a mistake, please let me know!
 [^outliers]: Entries that do not follow this rule are marked in red.
+[^messers]: The book *'Chronicles and Stories of Old Bingley'* states in its opening colophon that, "[a]ll the blocks have been engraved by Messrs. Armitage and Ibbetson, of Bradford [...]", although I have been unable to find any evidence of this.
 
 <!--
 Companies / Firms
