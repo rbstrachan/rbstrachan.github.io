@@ -17,7 +17,11 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "en": "npx quartz build --serve --directory content/en_GB",
+    "fr": "cp -R content/fr_FR/hidden/* content/fr_FR/ 2>/dev/null || true && QUARTZ_LANG=fr npx quartz build --serve --directory content/fr_FR",
+    "ja": "cp -R content/ja_JP/hidden/* content/ja_JP/ 2>/dev/null || true && QUARTZ_LANG=ja npx quartz build --serve --directory content/ja_JP",
+    "all": "cp -R content/en_GB/hidden/* content/en_GB/ 2>/dev/null || true && cp -R content/fr_FR/hidden/* content/fr_FR/ 2>/dev/null || true && cp -R content/ja_JP/hidden/* content/ja_JP/ 2>/dev/null || true && npx quartz build --directory content/en_GB && QUARTZ_LANG=fr npx quartz build --directory content/fr_FR --output public/fr && QUARTZ_LANG=ja npx quartz build --directory content/ja_JP --output public/ja && npx serve public -p 8080"
   },
   "engines": {
     "npm": ">=10.9.2",
