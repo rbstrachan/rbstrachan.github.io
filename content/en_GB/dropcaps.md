@@ -10,7 +10,7 @@ These dropped initials are a set of decorative woodcut letters believed to be pr
 They are characterised by bold, black rectangular blocks with large serif letters surrounded by intricate botanical motifs. It is not yet known if a full 26-letter set was ever made.
 
 > [!info] We're missing some initials...
-> Can you help complete the collection? We currently have 13/26 of the initials restored and are in search of the remaining initials. If you have any reference material or high-resolution scans of these dropcaps or have any information you think may help us find them, please [[contact|contact me]]!
+> Can you help complete the collection? We currently have 13/26 of the initials restored and are in search of those remaining. If you have any reference material or high-resolution scans of these dropcaps or have any information you think may help us find them, please [[contact|contact me]]!
 
 ## Known occurences
 The surviving dropcaps in this collection have been identified and digitally restored from the following late Victorian and Edwardian publications.
@@ -24,7 +24,7 @@ Each letter block is interwoven with a different flower or plant. It is assumed 
 <div style="display: flex; gap: 1fr; align-items: flex-start;">
 <div style="flex: 1;">
 
-| Letter | Motif |
+| Letter | Flower |
 | :---: | :--- |
 | **A** | Anemone |
 | **B** | Bluebell |
@@ -43,7 +43,7 @@ Each letter block is interwoven with a different flower or plant. It is assumed 
 </div>
 <div style="flex: 1;">
 
-| Letter | Motif |
+| Letter | Flower |
 | :---: | :--- |
 | **N** | Narcissus wildflower |
 | **O** | Orchid (Vetch blossom) |
